@@ -1,0 +1,2884 @@
+[
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_0",
+    "chunk_index": 0,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "Uganda receives first US deportation flight under third-country agreement",
+      "url": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement",
+      "source": "The Gaurdian",
+      "published_date": "02-04-2026"
+    },
+    "geography": {
+      "countries": [
+        "Uganda",
+        "United States",
+        "Eswatini",
+        "Ghana",
+        "Rwanda",
+        "South Sudan",
+        "Cuba",
+        "Jamaica",
+        "Yemen",
+        "Vietnam",
+        "Laos",
+        "Myanmar"
+      ],
+      "regions": [],
+      "cities": [
+        "Kampala"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Migration/Deportation",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-deportation-policy",
+          "description": "The article discusses the US strategy of deporting migrants to third countries."
+        },
+        {
+          "tag": "third-country-agreement",
+          "description": "Uganda signed an agreement with the US to accept people from third countries."
+        },
+        {
+          "tag": "uganda-refugee-status",
+          "description": "Uganda already hosts nearly 2 million refugees and asylum seekers."
+        },
+        {
+          "tag": "east-african-migration",
+          "description": "The deportation process affects multiple east African countries."
+        },
+        {
+          "tag": "international-law-challenge",
+          "description": "The Uganda Law Society plans to file legal challenges against the deportations."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "President of the US administration",
+          "resolved": true
+        },
+        {
+          "name": "Oryem Okello",
+          "role": "Ugandan minister of state for foreign affairs",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Uganda Law Society",
+          "type": "ngo"
+        },
+        {
+          "name": "US embassy in Kampala",
+          "type": "government"
+        },
+        {
+          "name": "Associated Press",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "US Deportation to Uganda",
+          "type": "other",
+          "date": "2026",
+          "description": "The first US deportation flight landed in Uganda under a third-country agreement.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that Uganda received its first US deportation flight under a new third-country agreement, prompting legal challenges from the Uganda Law Society. It details the US strategy of expelling migrants to various third countries and mentions Uganda's existing refugee population and agreements with other nations.",
+      "key_terms": [
+        "US deportation",
+        "third-country agreement",
+        "Uganda Law Society",
+        "migrant expulsion",
+        "asylum seekers",
+        "refugee crisis"
+      ],
+      "raw_text": "**Link:** https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-un der-third-country-agreement\n\n## **Title: Uganda receives first US deportation flight under third-country agreement**\n\n## **Article:**\n\nA flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with its strategy of expelling migrants to countries they have no ties to. The deported people would stay in the east African country as “a transition phase for potential onward transmission to other countries”, an unnamed senior Ugandan government official told Reuters. The Uganda Law Society, which condemned the arrivals, said 12 people were on the flight, the first under an agreement Uganda signed with the US in August. No other details of the deportees, including their nationalities, have been made public. The US has already deported dozens of people to third countries. Other African countries that have accepted or agreed to accept deportees include Eswatini, Ghana, Rwanda and South Sudan which have received people from as far afield as Cuba, Jamaica, Yemen, Vietnam, Laos and Myanmar. The Uganda Law Society said it would be filing legal challenges to the deportations in Ugandan and regional courts. It criticised “an undignified, harrowing and dehumanising process that has reduced [the deported people] to little more than chattel, for the benefit of private interests on both sides of the Atlantic”. All deportations “are in full cooperation with the government of Uganda”, said Yasmeen Hibrawi, a public affairs counsellor at the US embassy in Kampala. Hibrawi said: “We do not, however, discuss the details of our private diplomatic communications and for privacy reasons, we cannot discuss the particulars to their cases.” In August, Uganda said it had reached a deal with the US to take in people from third countries who might not get asylum in the US but were “reluctant” to be sent back to their home countries. It said it would not accept people with criminal records or unaccompanied minors and did not specify if the US was paying. Uganda already hosts nearly 2 million refugees and asylum seekers, most from other east African countries including the Democratic Republic of the Congo, Ethiopia, Eritrea and Sudan. Orders for deportation to Uganda have been issued to hundreds of asylum seekers, according to the Associated Press. Oryem Okello, the Ugandan minister of state for foreign affairs, said before the deportation flight arrived that no asylum seekers had been sent by the US yet. The US may be “doing a cost analysis” and trying to avoid dispatching flights with only a few people onboard, he said. Okello added: “You can’t be doing one, two people at a time. Planeloads – that is the most effective way.” The US agreed to pay Eswatini $5.1m (£3.8m) to take up to 160 third-country nationals, according to Reuters. Five men were deported by the US to the southern African nation in July, with another 10 sent in October. Two have since been repatriated to Jamaica and Cambodia respectively, while the rest remain in a maximum security prison.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland\n\n## **Title: News outlets falsely report Somaliland called for extradition of Ilhan Omar**\n\n## **Article:**\n\nSeveral news outlets have falsely reported that Somaliland’s government called for the extradition of Ilhan Omar, basing their stories on a post from an X account that does not represent the state despite"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": false,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_1",
+    "chunk_index": 1,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States of America",
+        "Somalia",
+        "Minnesota"
+      ],
+      "regions": [
+        "Horn of Africa"
+      ],
+      "cities": [
+        "Minneapolis"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "ilhan-omar",
+          "description": "The chunk discusses the political controversy surrounding Ilhan Omar."
+        },
+        {
+          "tag": "somaliland",
+          "description": "Somaliland is a self-declared republic in the Horn of Africa."
+        },
+        {
+          "tag": "political-rhetoric",
+          "description": "The text details escalating political rhetoric targeting Somali communities."
+        },
+        {
+          "tag": "immigration-fraud",
+          "description": "The core controversy involves accusations of immigration fraud against Ilhan Omar."
+        },
+        {
+          "tag": "media-misinformation",
+          "description": "The chunk highlights the spread of misinformation via social media and news outlets."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Ilhan Omar",
+          "role": "US representative",
+          "resolved": true
+        },
+        {
+          "name": "JD Vance",
+          "role": "Vice-president",
+          "resolved": true
+        },
+        {
+          "name": "Stephen Miller",
+          "role": "White House immigration adviser",
+          "resolved": true
+        },
+        {
+          "name": "Connor McNutt",
+          "role": "Chief of staff",
+          "resolved": true
+        },
+        {
+          "name": "Benny Johnson",
+          "role": "Conservative influencer",
+          "resolved": true
+        },
+        {
+          "name": "Jaylani Hussein",
+          "role": "Executive director",
+          "resolved": true
+        },
+        {
+          "name": "Trump",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Fox News",
+          "type": "other"
+        },
+        {
+          "name": "New York Post",
+          "type": "other"
+        },
+        {
+          "name": "Sinclair Broadcast Group",
+          "type": "other"
+        },
+        {
+          "name": "Independent",
+          "type": "other"
+        },
+        {
+          "name": "Ministry of Foreign Affairs, Somaliland",
+          "type": "government"
+        },
+        {
+          "name": "Council on American-Islamic Relations (Cair)",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Accusations of Immigration Fraud",
+          "type": "other",
+          "date": null,
+          "description": "JD Vance claimed Ilhan Omar committed immigration fraud.",
+          "partial": false
+        },
+        {
+          "name": "Vance Interview with Benny Johnson",
+          "type": "other",
+          "date": "28 March",
+          "description": "Vance discussed potential legal action against Omar during an interview.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the controversy surrounding Ilhan Omar, focusing on accusations of immigration fraud made by JD Vance. It highlights the role of misinformation spread by various media outlets and the official denials from Somaliland's foreign ministry.",
+      "key_terms": [
+        "Ilhan Omar",
+        "JD Vance",
+        "Somaliland",
+        "immigration fraud",
+        "misinformation",
+        "foreign ministry",
+        "political rhetoric"
+      ],
+      "raw_text": "its claims to the contrary. Fox News, the New York Post, Sinclair Broadcast Group’s the National News Desk and the Independent ran stories on the US representative. The reports centred on a post by @RepOfSomaliland in reaction to claims by JD Vance that Omar had committed immigration fraud, which echoed prior allegations against the Somali-born Minnesota Democrat that she has vehemently denied. “Deportation?” the post read. “Please you’re just sending the princess back to her kingdom. Extradition? Say the word …” The account is not an official government channel, and Somaliland’s own foreign ministry had said so publicly in December. It said: “Ministry has begun identifying social media accounts that are NOT official Government of Somaliland channels,” adding that they were not authorized to speak on its behalf. In a statement to the Guardian on Monday, Somaliland’s ministry of foreign affairs said: “We kindly advise that any news or statements be referenced solely from official and authorized channels to ensure the accuracy and reliability of information.” Somaliland is a self-declared republic in the Horn of Africa that broke away from Somalia in 1991 after the collapse of the Somali state. Though it has maintained relative stability in a turbulent region, it remains unrecognised by the international community, with Israel being a notable recent exception. Somalia continues to claim it as part of its territory. Fox News later issued a quiet correction, acknowledging the account was not a verified government outlet. “The post has been corrected to note that the RepofSomaliland X account is not a verified government account,” the rightwing news outlet said, revising its headline to: “Pro-Somaliland account backs extraditing Ilhan Omar after Vance fraud claim.” The post was a reaction to an interview the vice-president gave to conservative influencer Benny Johnson on 28 March. In the interview, Vance claimed that Omar had “definitely committed immigration fraud against the United States of America”. Vance said he had discussed potential legal action with Stephen Miller, the White House immigration adviser, adding: “We’re trying to figure out what the legal remedies are – how do you go after her, how do you investigate her, how do you build a case necessary to get some justice for the American people?” Johnson pressed Vance specifically on whether Omar’s alleged offenses were grounds for deportation or denaturalization. Omar’s chief of staff, Connor McNutt, dismissed Vance’s accusations as “a ridiculous lie and desperate attempt to distract”, adding a pointed reference to Vance’s past admission that he was willing to “create stories” to redirect media attention. It is not the first time Omar has found herself at the centre of a viral misinformation story with a Somali aspect. In early 2024, a mistranslated clip of a speech she gave in Minneapolis spread rapidly online, with rightwing figures accusing her of declaring herself “Somalian first”. The reports spread against a backdrop of escalating rhetoric from the White House targeting Minnesota’s Somali community and Somalia. Just days before Vance’s interview, Trump described Somalia as a “crooked, disgusting country”. The following day he boasted of getting Minnesota “back from Somalia”. The Minnesota chapter of the Council on American-Islamic Relations (Cair) condemned the remarks, with Jaylani Hussein, the executive director, warning that portraying an entire people as intellectually inferior “is not just political rhetoric – it is dehumanization”. Omar, who arrived in the US as a refugee aged 12 and became a citizen at 17, warned in a Guardian interview in December that Trump’s rhetoric was fueling a climate of political violence with real consequences. “We’ve had people incarcerated for threatening to kill me,” she said. She added that her concern extended from herself to anyone “who looks like me in Minneapolis”.\n\n----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_2",
+    "chunk_index": 2,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Congo-Brazzaville"
+      ],
+      "regions": [],
+      "cities": [
+        "Brazzaville"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Law/Sports Governance",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "interpol-arrest-warrant",
+          "description": "Authorities sought an international arrest warrant for Jean-Guy Blaise Mayolas."
+        },
+        {
+          "tag": "fifa-embezzlement",
+          "description": "Jean-Guy Blaise Mayolas was convicted of embezzling $1.1 million in FIFA funds."
+        },
+        {
+          "tag": "congo-women's-team",
+          "description": "The embezzlement included funds earmarked for the Congo women's team."
+        },
+        {
+          "tag": "money-laundering",
+          "description": "Mayolas and his associates were convicted of money laundering and forgery."
+        },
+        {
+          "tag": "sports-governance",
+          "description": "The article details misconduct within the country's football federation, Fecofoot."
+        },
+        {
+          "tag": "international-suspension",
+          "description": "FIFA previously banned Congo from international football for third-party interference."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jean-Guy Blaise Mayolas",
+          "role": "President of Fecofoot",
+          "resolved": true
+        },
+        {
+          "name": "Badji Mombo Wantete",
+          "role": "Fecofoot's general secretary",
+          "resolved": true
+        },
+        {
+          "name": "Raoul Kanda",
+          "role": "Fecofoot's treasurer",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Interpol",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Fecofoot",
+          "type": "other"
+        },
+        {
+          "name": "FIFA",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Tracfin",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Interpol arrest warrant request",
+          "type": "other",
+          "date": null,
+          "description": "Congo-Brazzaville applied for an international arrest warrant against Jean-Guy Blaise Mayolas.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Authorities in Congo-Brazzaville applied to Interpol for an arrest warrant against Jean-Guy Blaise Mayolas, the head of Fecofoot, after he was convicted of embezzling $1.1 million in FIFA funds. The article details the charges, including money laundering and forgery, and mentions previous FIFA sanctions against Congo.",
+      "key_terms": [
+        "Congo-Brazzaville",
+        "Interpol",
+        "Jean-Guy Blaise Mayolas",
+        "FIFA",
+        "Fecofoot",
+        "embezzlement"
+      ],
+      "raw_text": "**Link:** https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fif a-interpol-arrest-warrant\n\n**Title: Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas**\n\n## **Article:**\n\nAuthorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds. Mayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As the Guardian revealed last year, that included almost $500,000 earmarked for the Congo women’s team. Mayolas and his family were tried in absentia and are believed to have fled the country weeks before the hearing. Investigators suspect he may be hiding in Cameroon or the Democratic Republic of the Congo. The authorities and partner police forces in the region have been alerted and officials are working with financial intelligence units, including Tracfin, the French financial intelligence unit, to freeze assets linked to the case. Mayolas and his family members were convicted of money laundering, forgery, use of forged documents and embezzlement on 10 March by the court in Brazzaville, along with Fecofoot’s general secretary, Badji Mombo Wantete, and treasurer, Raoul Kanda. Wantete and Kanda were each sentenced to five years in prison. Fifa opened disciplinary proceedings against Mayolas, Wantete and Kanda last week for alleged financial misconduct. The charges under consideration include conflict of interest, forgery and improper acceptance of gifts after Fifa’s ethics committee received information and documents during a review. It has been alleged Mayolas, since being elected as president of Fecofoot in 2018, used a series of shell companies to embezzle funding from Fifa. According to a declaration signed by the presidents of every women’s club in the country’s top flight that was sent to the Congolese authorities in March, $20,000 of the $500,000 Fifa sent to Fecofoot in 2021 as part of its Covid-19 relief plan was paid out. Mayolas denied all the allegations before his disappearance, describing them as a conspiracy. Wantete also rejected the accusations. In 2015, they received six-month bans from Fifa for ethics violations related to gifts and benefits. Mayolas was suspended by the country’s sports ministry last year after being investigated for fraud. Fifa stepped in and banned Congo from international football for “third-party interference”, meaning that in March they had to forfeit World Cup qualifiers against Tanzania and Zambia, who were awarded 3-0 victories. Congo were reinstated when Fecofoot was permitted to resume control of its headquarters in Brazzaville, although Mayolas and Wantete were prevented from travelling to Fifa’s congress in Paraguay and arrested a few days later.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-unit ed-arab-emirates-saudi-arabia\n\n## **Title: Weather tracker: Thunderstorms drench UAE and Saudi Arabia**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_3",
+    "chunk_index": 3,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United Arab Emirates",
+        "Saudi Arabia",
+        "Oman",
+        "Qatar",
+        "India",
+        "Greece",
+        "Turkey"
+      ],
+      "regions": [
+        "Middle East",
+        "Arabian peninsula",
+        "Mediterranean",
+        "south-east Europe"
+      ],
+      "cities": [
+        "Doha",
+        "Dubai",
+        "Abu Dhabi"
+      ]
+    },
+    "classification": {
+      "category": "Food & Climate",
+      "sub_category": "Weather Patterns",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "severe-thunderstorms",
+          "description": "The chunk describes severe thunderstorms that hit the Middle East."
+        },
+        {
+          "tag": "climate-change-impact",
+          "description": "The event is linked to a broader global trend of more intense rainfall as the climate warms."
+        },
+        {
+          "tag": "middle-east-weather",
+          "description": "The article details unusual weather patterns across the Arabian peninsula."
+        },
+        {
+          "tag": "rainfall-records",
+          "description": "Specific rainfall measurements, like 244mm, are reported for the UAE."
+        },
+        {
+          "tag": "low-pressure-systems",
+          "description": "The development of a deep area of low pressure triggered the storms."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [],
+      "events": [
+        {
+          "name": "Severe Thunderstorms in the Middle East",
+          "type": "natural-disaster",
+          "date": "last week",
+          "description": "Unusual weather pattern unleashed severe thunderstorms across parts of the Middle East.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details severe thunderstorms that hit the Middle East, including the UAE and Saudi Arabia, due to an abnormally strong jet stream. It also notes that attention is shifting to the Mediterranean, where heavy rain is expected in Greece and Turkey.",
+      "key_terms": [
+        "thunderstorms",
+        "Middle East",
+        "UAE",
+        "Saudi Arabia",
+        "jet stream",
+        "rainfall",
+        "Mediterranean"
+      ],
+      "raw_text": "An unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including the United Arab Emirates and Saudi Arabia. The Arabian peninsula – typically dominated by arid desert climates – received up to 150mm of rain in just a few days. The deluge was caused by an abnormally strong jet stream, which helped a deep area of low pressure to develop north of Saudi Arabia. This, in turn, drew moist tropical air from the Indian Ocean and triggered intense storms. In Oman, hailstones as large as tennis balls fell during Wednesday evening’s storms, alongside torrential rain. Doha, Qatar’s capital, experienced flooding the same day. Further thunderstorms developed on Thursday evening, with a more organised line crossing the UAE and hitting densely populated areas such as Dubai and Abu Dhabi. Gusts of up to 80mph, large hail and\n\nintense lightning were reported, as heavy rainfall caused widespread flooding. While thunderstorms are not rare in the region – Dubai endured extreme flooding from a storm system in April 2024 – the multiday nature of last week’s deluge is more commonly seen in the US and central Europe in spring and summer. A weather station on Jebel Yanas in northern UAE recorded 244mm of rainfall, with many others exceeding 100mm in just a few days, far surpassing typical annual totals of 60-100mm. The event reflects a broader global trend of storms bringing more intense rainfall as the climate warms. Attention is shifting to the Mediterranean, where a developing low-pressure system south-east of Italy is expected to bring heavy rain and thunderstorms to Greece, Turkey and other countries in south-east Europe this week.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-preventsurge-in-digital-violence-in-africa-experts-say\n\n## **Title: Urgent action needed to prevent surge in digital violence in Africa, experts say**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_4",
+    "chunk_index": 4,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Africa",
+        "Ethiopia",
+        "Uganda",
+        "South Africa"
+      ],
+      "regions": [
+        "sub-Saharan Africa"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Digital Rights and Gender Violence",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "digital-violence",
+          "description": "The chunk discusses the surge of online violence across the African continent."
+        },
+        {
+          "tag": "gender-based-violence",
+          "description": "The text highlights how digital violence disproportionately targets women and girls."
+        },
+        {
+          "tag": "online-harassment",
+          "description": "Specific examples of online harassment against women and activists are provided."
+        },
+        {
+          "tag": "african-internet-access",
+          "description": "The article notes the exponential growth of internet access in sub-Saharan Africa."
+        },
+        {
+          "tag": "human-rights-activism",
+          "description": "The content mentions the targeting of human rights activists and journalists."
+        },
+        {
+          "tag": "misogyny",
+          "description": "The text details the prevalence of misogynistic abuse online."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Ayesha Mago",
+          "role": "global advocacy director at the Sexual Violence Research Initiative",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Sexual Violence Research Initiative",
+          "type": "ngo"
+        },
+        {
+          "name": "International Telecommunication Union",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Centre for Information Resilience",
+          "type": "other"
+        },
+        {
+          "name": "UN Women",
+          "type": "ngo"
+        },
+        {
+          "name": "Equimundo",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Online Violence Surge in Africa",
+          "type": "other",
+          "date": null,
+          "description": "Experts warn of a massive increase in gendered online violence across the continent.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Experts warn that the massive rise in internet users and young people in Africa is fueling a surge in gendered online violence, which has devastating real-life consequences. The text provides specific examples from Ethiopia, Uganda, and South Africa regarding online harassment and its impact on women and activists.",
+      "key_terms": [
+        "digital violence",
+        "gendered online violence",
+        "sub-Saharan Africa",
+        "online harassment",
+        "misogynistic abuse",
+        "human rights activists"
+      ],
+      "raw_text": "Activists and lawyers in Africa are calling for urgent action to protect women, girls and boys as digital violence surges across the continent. A massive rise in internet users, coupled with huge numbers of people aged under 30, has fuelled an increase in gendered online violence across the continent, according to experts, by giving perpetrators new tools to control and silence women and girls, and influence boys. “Unfortunately the world offline is not safe, equal and inclusive. But the world online is proliferating that to such an extent that it’s creating a foundation for a very, very unequal future,” said Ayesha Mago, global advocacy director at the Sexual Violence Research Initiative, a global network that supports research on violence against women and children in low- and middle-income countries. “In Africa, internet access is growing exponentially and more than 70% of the population of sub-Saharan Africa is under 30. We know that young people generally face higher rates of online violence and very often are bigger users of any tech,” she said. Digital violence against women and girls has devastating effects such as mental health problems, withdrawal from public and economic life, physical attacks on LGBTQI+ people in countries that criminalise homosexuality, and femicide. While there is very little pan-African research, one study across five countries in sub-Saharan Africa showed that 28% of women had experienced online violence. As internet access expands, this number is expected to rise. Only 38% of people on the continent are internet users, according to the International Telecommunication Union – and among women the figure falls to 31%. Studies, research and anecdotal evidence at a national level paint a horrifying picture of extreme levels of violence and a toxic online environment with dire real-life consequences. Extensive research conducted in Ethiopia over the past four years by the Centre for Information Resilience (CIR) found that gendered abuse is so endemic online it has become normalised. One Ethiopian woman interviewed by CIR said “no platform feels safe”. The researchers found that while men are attacked online for ideas and opinions, women receive misogynistic abuse related to their appearance and role in society. Threats and intimidation also migrate offline, putting woman at risk of physical attack. At least three women have fled Ethiopia in fear of their lives after a campaign of online and offline abuse. In Uganda, in 2021, the National Survey on Violence in Uganda revealed that half of the women (49%) reported having been subjected to online harassment. In South Africa, upcoming research by Equimundo and UN Women found that exposure to harmful content translated into men being 2.6 times more likely to perpetrate violence and 1.8 times more likely to believe misogynistic views. Primary targets on the continent include women in the political arena, along with human rights activists, journalists and women with a public profile. A 2021"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_5",
+    "chunk_index": 5,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Africa",
+        "Kenya",
+        "Tunisia",
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Gender Violence",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "online-harassment",
+          "description": "The chunk discusses the prevalence of sexist and abusive attacks on women in politics online."
+        },
+        {
+          "tag": "cyber-violence",
+          "description": "It highlights the global issue of tech-facilitated violence against women."
+        },
+        {
+          "tag": "gender-based-violence",
+          "description": "The text details how women are dehumanized and targeted based on their sexuality and morality."
+        },
+        {
+          "tag": "legal-reform",
+          "description": "The chunk discusses the need for specific legislation to address online gendered violence."
+        },
+        {
+          "tag": "digital-literacy",
+          "description": "It emphasizes the lack of public awareness regarding digital rights and online abuse."
+        },
+        {
+          "tag": "international-law",
+          "description": "The text mentions international conventions and the need for platform accountability."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Sibongile Ndashe",
+          "role": "executive director of the Initiative for Strategic Litigation in Africa",
+          "resolved": true
+        },
+        {
+          "name": "Mago",
+          "role": null,
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Inter-Parliamentary Union",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "African Parliamentary Union",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "UN Women",
+          "type": "ngo"
+        },
+        {
+          "name": "African Union",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Initiative for Strategic Litigation in Africa",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "African Union Convention on Ending Violence against Women and Girls",
+          "type": "treaty",
+          "date": "2024",
+          "description": "A convention introduced in 2024 that includes digital violence.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Reports indicate that female parliamentarians across Africa face high rates of sexist and death threats online, with attacks often involving dehumanization and targeting sexuality. The text stresses the global need for specific legislation, improved digital literacy, and greater accountability from social media platforms.",
+      "key_terms": [
+        "tech-facilitated violence",
+        "online gendered violence",
+        "cyber harassment",
+        "African Union Convention",
+        "digital literacy",
+        "parliamentarians"
+      ],
+      "raw_text": "report by the Inter-Parliamentary Union and the African Parliamentary Union looking at the experiences of 137 female parliamentarians across 50 African countries found that 46% had been the target of sexist attacks online and 42% said they had received threats of death, rape, beating, or abduction, often through social media. A UN Women report in Kenya found that name-calling, blackmail using negative images of women in politics, and other messages were posted online with the aim of spreading fear, and undermining women’s credibility to participate in elections. In focus groups women reported living in fear of being raped while on the campaign trail or during meetings that would run late into the night. In Tunisia, research conducted between 2019 and 2023 revealed more than 70% of political commentary involving women contained violent or abusive language. Women were frequently dehumanised and called animals, such as cow, goat or sheep, and attacks disproportionately targeted sexuality, morality, age and physical appearance. Black women in politics were singled out, with people questioning whether they belonged to the nation. Globally, nearly two in every five women will experience tech-facilitated violence while 85% of women who are online have witnessed or encountered online abuse. Fewer than 40% of countries have laws protecting women from cyber harassment or cyber stalking, leaving 44% of the world’s women and girls – 1.8 billion – without access to legal protection. According to Mago, about 17 countries in Africa have introduced legislation looking at cybercrime. She highlighted South Africa’s Domestic Violence Amendment Act, which has been touted as a good example in the region, with specific provisions that allow courts to order digital platforms to take down abusive content. “Most [laws] don’t acknowledge the gendered nature of abuse,” she said. Instead the law needs to explicitly address online gendered violence. “It is also worth flagging that legislation is a tool for oppression and protection. Unfortunately we found that sometimes laws [relating to digital violence] can be used to prosecute specific groups of people.” The African Union Convention on Ending Violence against Women and Girls was introduced in 2024 and includes digital violence, but according to Sibongile Ndashe, executive director of the Initiative for Strategic Litigation in Africa, it is “regressive”. She said: “We’ve spent a lot of time trying to push back on it because we feel that the convention is not doing what it’s supposed to do in terms of setting out rights, required state obligations and providing clarity [around technology-facilitated gender based violence].” It is not just legislation that is needed, however. “People do not understand their rights,” said Mago. “There is a general lack of awareness that there are laws or specific actions online that are not allowed and that you can get protection from.” Digital literacy is poor, she added, as is law enforcement. People believe online violence isn’t real and underestimate its effects, and platforms do not pay attention to local languages, contexts and cultures. “Platforms need to be accountable for the harm that is taking place on them,” said Mago. “And they need to put user safety over profit, and that is definitely not happening anywhere in the world.”\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/03/canadian-ice-detention-mother-daughter-tania-w arner-released\n\n## **Title: Canadian woman held with daughter by ICE is released after nearly three weeks of detention**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_6",
+    "chunk_index": 6,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "regions": [
+        "British Columbia",
+        "Texas"
+      ],
+      "cities": [
+        "Kingsville",
+        "Raymondville",
+        "Sarita",
+        "McAllen",
+        "Rio Grande Valley",
+        "Dilley"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Immigration Detention",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-immigration-detention",
+          "description": "The chunk details the detention of Canadian citizens by US ICE."
+        },
+        {
+          "tag": "canadian-citizens",
+          "description": "Tania Warner and Ayla Luca are both Canadian citizens."
+        },
+        {
+          "tag": "us-ice",
+          "description": "The detention was carried out by US Immigration and Customs Enforcement (ICE)."
+        },
+        {
+          "tag": "immigration-law",
+          "description": "The case involves legal arguments regarding flight risk and visa status."
+        },
+        {
+          "tag": "global-affairs-canada",
+          "description": "Global Affairs Canada was contacted regarding the detention case."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Tania Warner",
+          "role": "Subject of detention",
+          "resolved": true
+        },
+        {
+          "name": "Ayla Luca",
+          "role": "Daughter of Tania Warner",
+          "resolved": true
+        },
+        {
+          "name": "Edward Warner",
+          "role": "Husband of Tania Warner",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "US Immigration and Customs Enforcement (ICE)",
+          "type": "government"
+        },
+        {
+          "name": "CBC News",
+          "type": "other"
+        },
+        {
+          "name": "Vancouver Sun",
+          "type": "media"
+        },
+        {
+          "name": "Global Affairs Canada",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Release of Tania Warner and Ayla Luca",
+          "type": "other",
+          "date": "Thursday evening",
+          "description": "Tania Warner and Ayla Luca were released after posting a bond of $9,500.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk describes the release of Canadian citizens Tania Warner and Ayla Luca after nearly three weeks of detention by US ICE. It details the circumstances of their arrest, the conditions of their confinement, and the subsequent legal proceedings.",
+      "key_terms": [
+        "Tania Warner",
+        "Ayla Luca",
+        "ICE",
+        "detention",
+        "Global Affairs Canada",
+        "US immigration"
+      ],
+      "raw_text": "A Canadian woman and her seven-year-old daughter, who were held for nearly three weeks in a notorious detention center by US Immigration and Customs Enforcement (ICE), were released on Thursday evening after posting a bond of $9,500. Tania Warner and her daughter Ayla Luca, originally from British Columbia, are both Canadian citizens. Warner moved to the US in 2021 when she married Edward Warner, a US citizen. “Very happy to have my family home … it’s been a whirlwind day,” said\n\nEdward Warner. After her release, Tania Warner told CBC News a judge decided that she and Ayla were not a flight risk, though she has been fitted with an ankle monitor. She said her immigration lawyer was able to argue that her documents had been filed correctly and that she is legally allowed to extend her time in the US. The pair will now face a series of hearings to see if they can stay in the US, or if they will be deported. She and her family have maintained that all her immigration paperwork is up-to-date and that they were detained arbitrarily. Warner and her daughter were initially taken into ICE custody on 14 March. The family lives in Kingsville, Texas, and were driving home from a baby shower in Raymondville when they were stopped at a checkpoint in Sarita. The pair were apprehended by ICE agents to be fingerprinted but then never returned. After they were incarcerated, Edward Warner told the Vancouver Sun that ICE officials said “she overstayed her visa”, though he provided the paper with a copy of a US “employment authorization” card issued to his wife last year, and it had an expiry date of 8 June 2030. Though originally held at Rio Grande Valley central processing center in McAllen, Texas, Warner and her daughter, who has autism, were moved to the Dilley immigration processing center in south Texas on 20 March. While in Dilley, Warner told the Guardian that the treatment of her and her daughter has been “horrific” from the start. At Rio Grande, no beds were provided and detainees slept on mats with the lights on 24 hours a day, she said. At Dilley, there was some comfort in having a mattress to sleep on. But she said there was no privacy and ICE agents were constantly pressuring her to “self-deport”. “They’re abusive, and their tactics are to threaten you and to be so inhospitable that you deport yourself,” Warner said. She said she did not want to have to leave the US. “My life is here with my husband. I love him. I don’t want to leave. But at the same time, I’ve gotten a really ugly taste in my mouth for the United States,” she said. When asked about their case the week they were detained, Global Affairs Canada, the federal ministry that handles consular services and diplomatic relations, said it was “aware of multiple cases of Canadians currently or previously in immigration-related detention in the US”. “Consular officials advocate for Canadian citizens abroad and raise concerns about justified and serious complaints of ill-treatment or discrimination with the local authorities but cannot exempt Canadians from local legal processes,” a spokesperson said. “Due to privacy considerations, no further information can be disclosed.” Approached for comment on 20 March, ICE asked for more information about the Warners’ case. The Guardian provided that information, but nearly two weeks later, ICE has not replied. Global Affairs and ICE have been contacted again for comment regarding the pair’s release.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada\n\n## **Title: Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_7",
+    "chunk_index": 7,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Canada",
+        "Quebec",
+        "Costa Rica",
+        "United States"
+      ],
+      "regions": [
+        "Quebec"
+      ],
+      "cities": [
+        "Montreal"
+      ]
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Commodity Fraud",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "maple-syrup-scam",
+          "description": "The chunk details an investigation into the dilution of maple syrup in Quebec."
+        },
+        {
+          "tag": "quebec-economy",
+          "description": "The article discusses the importance of maple syrup to Quebec's economy."
+        },
+        {
+          "tag": "food-fraud",
+          "description": "The investigation revealed that cane sugar was added to maple syrup, constituting fraud."
+        },
+        {
+          "tag": "canadian-broadcasting",
+          "description": "Radio-Canada's Enquête programme conducted the sting operation."
+        },
+        {
+          "tag": "commodity-market",
+          "description": "The value of the maple syrup market attracts criminal elements."
+        },
+        {
+          "tag": "regulatory-oversight",
+          "description": "The text mentions the role of ACER in testing and inspecting syrup products."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Luc Lagacé",
+          "role": "microbiologist and director of research at ACER",
+          "resolved": true
+        },
+        {
+          "name": "Steve Bourdeau",
+          "role": "producer of maple syrup",
+          "resolved": true
+        },
+        {
+          "name": "Geneviève Clermont",
+          "role": "head of ACER’s inspection division",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Radio-Canada’s Enquête programme",
+          "type": "other"
+        },
+        {
+          "name": "Le Centre ACER",
+          "type": "government"
+        },
+        {
+          "name": "CBC’s Radio Canada",
+          "type": "other"
+        },
+        {
+          "name": "IGA",
+          "type": "corporate"
+        },
+        {
+          "name": "Metro",
+          "type": "corporate"
+        }
+      ],
+      "events": [
+        {
+          "name": "Maple Syrup Fraud Investigation",
+          "type": "other",
+          "date": null,
+          "description": "Investigation into a Quebec producer diluting maple syrup with cane sugar.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "An investigation by a Canadian broadcaster revealed that a Quebec producer was diluting pure maple syrup with cane sugar and selling the fraudulent product to major grocery chains. The article details the market value of maple syrup and the regulatory challenges in monitoring the industry.",
+      "key_terms": [
+        "maple syrup",
+        "Quebec",
+        "cane sugar",
+        "fraud",
+        "ACER",
+        "Radio-Canada",
+        "commodity fraud"
+      ],
+      "raw_text": "An investigation by Canada’s national broadcaster has found that a major Quebec producer has been diluting its maple syrup with cane sugar and selling the fraudulent product to grocery chains. In a sting operation that involved false identities and covert recordings, journalists from Radio-Canada’s Enquête programme found that a low-cost syrup sold in major grocery store chains was heavily diluted. Samples of the brand, which is sold in hundreds of locations across Quebec, were sent to the province’s research and testing facility, Le Centre ACER. “This is the first time I’ve seen falsification of this kind. You can see that it’s outright cane sugar that’s been added to the cans,” Luc Lagacé, a microbiologist and the director of research at ACER, told Enquête. “This is not an accident. It’s deliberate.” Maple syrup is a dominant industry in Quebec, where decades of technological innovation and investment helped farmers harvest 239m pounds of it last year. The Francophone province is responsible for\n\nnearly all of Canada’s production and nearly three-quarters of global production. A barrel of syrup is worth nearly C$1,000. The industry is worth nearly C$1bn annually and the immense value of the market has lured criminal elements to Quebec’s global strategic reserve of syrup. In 2011, thieves slowly siphoned off maple syrup worth nearly C$18m from the stockpile, a heist that led to 40 arrests and jail sentences for five men. The investigation into the fraudulent syrup began when a reporter at CBC’s Radio Canada discovered an odd taste to the syrup he had bought. The can was labelled “pure maple syrup” and linked to a producer south-west of Montreal, Steve Bourdeau. Enquête had two people pose as buyers for a grocery store to reach out to Bourdeau. The journalists taped telephone conversations and later used a hidden camera to capture footage of Bourdeau. He told the reporters he knew it was illegal to cut maple syrup labelled as pure with other sugars – and said that he didn’t do that. Bourdeau’s syrup is sold by major grocery chains, including IGA and Metro. “I’m the best when it comes to prices. The others can’t even come close,” he said, adding his maple syrup cost less than C$5 a can. “There’s a lot of jealousy going on. Because I have the market. And it’s not entirely legal. And I got away with it anyway.” When Bourdeau was confronted with the findings from the lab tests, he initially denied the allegations before suggesting a supplier from outside the province was to blame. He told reporters he was launching his own investigation to try to determine how cane sugar had been mixed in with his product and would implement his own inspection system. The head of Quebec’s sprawling stockpile of syrup told CBC that using suppliers from outside the province was not illegal – but falsely labelling such syrup as having Quebecois origins was. Geneviève Clermont, head of ACER’s inspection division, said 90% of syrup from Quebec sold in bulk was tested, but she said that products canned and sold by producers themselves were not inspected regularly. Many of the popular maple-flavoured syrups sold in the US are made of corn syrup (or high-fructose corn syrup) with added flavourings and caramel to give the amber-like appearance of genuine maple syrup. Producing maple syrup, which can only occur during a narrow window of time in the spring, requires immense volumes of sap, which is then boiled down into the final product.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal\n\n## **Title: Costa Rica strikes deal to accept third country deportees from US**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_8",
+    "chunk_index": 8,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "null",
+      "url": "null",
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Costa Rica",
+        "United States"
+      ],
+      "regions": [
+        "Central America"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Migration Agreement",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "costa-rica-us-deal",
+          "description": "Costa Rica agreed to accept deported migrants from the United States."
+        },
+        {
+          "tag": "trump-administration-policy",
+          "description": "The deal is part of the Trump administration's efforts to deport people to third countries."
+        },
+        {
+          "tag": "humanitarian-cooperation",
+          "description": "Costa Rica is providing humanitarian cooperation to US immigration services."
+        },
+        {
+          "tag": "migrant-acceptance",
+          "description": "The agreement details the acceptance of up to 25 deported migrants per week."
+        },
+        {
+          "tag": "ministry-of-public-security",
+          "description": "Mario Zamora, the minister of public security, spoke about the agreement."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Mario Zamora",
+          "role": "minister of public security",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Costa Rican government",
+          "type": "government"
+        },
+        {
+          "name": "United States",
+          "type": "government"
+        },
+        {
+          "name": "US immigration authorities",
+          "type": "government"
+        },
+        {
+          "name": "Costa Rican immigration authorities",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Costa Rica-US Deportee Agreement",
+          "type": "agreement",
+          "date": null,
+          "description": "Costa Rica agreed to receive up to 25 deported migrants weekly from the US.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The Costa Rican government agreed to accept up to 25 deported migrants weekly from the US as part of a deal to strengthen ties with the Trump administration. The agreement involves US financial support for housing and food, and joint immigration logistics.",
+      "key_terms": [
+        "Costa Rican government",
+        "deported migrants",
+        "United States",
+        "Mario Zamora",
+        "third countries",
+        "humanitarian cooperation"
+      ],
+      "raw_text": "The Costa Rican government has agreed to receive up to 25 deported migrants a week from the United States, the latest deal in the Trump administration’s unprecedented efforts to deport scores of people to “third countries”. With the new agreement, Costa Rica seeks a closer alliance with Donald Trump’s government, which has been securing cooperation from other Central American countries in accepting deportees from other nations who have been detained by US immigration agents. “Costa Rica feels obligated to reciprocate at a time when the United States and its immigration services need the humanitarian cooperation of Costa Rican authorities,” the minister of public security, Mario Zamora, said in a video statement to the Guardian. “With financial support from the United States, they will be provided with housing and food on Costa Rican soil. Costa Rican immigration authorities will collaborate with US immigration authorities to carry out all the necessary immigration logistics to guarantee the return of these individuals to their countries.” Zamora said the agreement was voluntary, maintaining that the Costa Rican government had the discretion to decide the number of deportees it will accept, as well as their nationality. The Costa Rican ministry of public security said last week that the country would only receive deported migrants who do not hail from Latin America or any nation that refuses to take back their citizens, according to local reports. Zamora noted Costa Rica will only receive"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_9",
+    "chunk_index": 9,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Costa Rica",
+        "Panama"
+      ],
+      "regions": [
+        "Latin America",
+        "western hemisphere",
+        "Central American"
+      ],
+      "cities": [
+        "San José"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Immigration Policy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-deportation-policies",
+          "description": "The chunk discusses the US government's policies regarding deporting migrants to third countries."
+        },
+        {
+          "tag": "costa-rica-agreement",
+          "description": "It details the agreement between the US and Costa Rica regarding the reception of deportees."
+        },
+        {
+          "tag": "third-country-deportation",
+          "description": "The text focuses on the scrutiny of 'third country' deportations by Democratic lawmakers."
+        },
+        {
+          "tag": "human-rights-violations",
+          "description": "The chunk includes accounts of migrants alleging human rights violations during deportation."
+        },
+        {
+          "tag": "international-migration-law",
+          "description": "The role of the International Organization for Migration (IOM) in assisting deportees is mentioned."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Kristi Noem",
+          "role": "homeland security secretary",
+          "resolved": true
+        },
+        {
+          "name": "Marco Rubio",
+          "role": "Secretary",
+          "resolved": true
+        },
+        {
+          "name": "Jeanne Shaheen",
+          "role": "Democrat from New Hampshire",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Department of Homeland Security",
+          "type": "government"
+        },
+        {
+          "name": "US Department of State",
+          "type": "government"
+        },
+        {
+          "name": "International Organization for Migration",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "United Nations",
+          "type": "intergovernmental"
+        }
+      ],
+      "events": [
+        {
+          "name": "US-Costa Rica Deportation Agreement",
+          "type": "agreement",
+          "date": null,
+          "description": "An agreement allowing the US to send deportees to Costa Rica.",
+          "partial": false
+        },
+        {
+          "name": "Supreme Court Ruling on Migrants",
+          "type": "policy-change",
+          "date": null,
+          "description": "Costa Rica’s supreme court ruled that the government violated the rights of 200 migrants.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the US agreement with Costa Rica for deporting migrants, noting that the US government will provide advance notice of deportations. It also covers the intense scrutiny from Democratic lawmakers regarding the human cost and financial implications of 'third country' deportations.",
+      "key_terms": [
+        "third country deportation",
+        "Costa Rica",
+        "US Department of State",
+        "International Organization for Migration",
+        "mass deportation agenda",
+        "migrant rights"
+      ],
+      "raw_text": "migrants without criminal records. According to the agreement shared with the Guardian, the US government will provide information about the individuals it intends to deport to Costa Rica 48 hours before a deportation flight. Upon their arrival, the Costa Rican government will give them a limited legal status on humanitarian grounds. The accord was signed during a visit by Kristi Noem, the recently departed homeland security secretary who is now overseeing the “Shield of the Americas” initiative, which the Trump administration says is designed to eradicate criminal cartels in the western hemisphere. Any US deportations to Costa Rica would be carried out by the Department of Homeland Security. The department did not respond to requests from the Guardian for details about how the removals would work. In a statement, the US Department of State said “implementing the Trump Administration’s immigration policies is a top priority for the Department of State. As Secretary [Marco] Rubio has said, we remain unwavering in our commitment to end illegal and mass immigration and bolster America’s border security.” The International Organization for Migration (IOM), an agency within the United Nations, is expected to provide assistance to deportees upon their arrival. A spokesperson for the organization said in a statement: “Where engaged, our support focuses on providing basic services and helping individuals navigate a limited set of options, including whether to remain, return to their country of origin, or pursue other available pathways.” The Costa Rican government is expected to meet with US authorities and IOM officials this week to determine where the deportees will be transferred once they arrive on Costa Rican soil, Zamora said. Trump’s expanding use of “third country” deportations has come under intensifying scrutiny by Democratic lawmakers in Congress. In February, Democrats on the Senate foreign relations committee published a report detailing “how the Trump Administration’s secret deportation deals are undermining US interests and coming at great cost to taxpayers”. Senator Jeanne Shaheen, a Democrat from New Hampshire who commissioned the report, said, “through its third country deportation deals, the Trump Administration is putting millions of taxpayer dollars into the hands of foreign governments, while turning a blind eye to the human costs and potentially undermining our diplomatic relationships. For an Administration that claims to be reining in fraud, waste and abuse, this policy is the epitome of all three.” The Trump administration has spent at least $40m to deport migrants to countries that are not their own, the report found. A congressional aide involved in the report said the state department was not tracking what happens to those deported to third countries. The Trump administration secured a deal with Costa Rica last year that allowed the US to send roughly 200 deportees to the Central American nation. The group of asylum seekers, which included 81 children from different countries in Asia and Africa, were flown to Costa Rica in chains after being denied a chance to request protection on US soil. Nearly 300 other African and Asian migrants were deported to Panama around the same time. A congressional aide added that the estimated cost for the roundtrip deportation flights to Costa Rica and Panama in February 2025 totaled about $1.4m. The Costa Rican government claimed at the time that it would be a temporary safe haven to the deportees and help them return to their home countries. But interviews from those deported to Costa Rica contradict these promises. “They threw us out like baggage to a country with a language we don’t speak. And no one was held accountable for this,” said a Russian man who remains in Costa Rica with his wife and child more than a year after their deportation. The deportations to Costa Rica were part of the many high-profile operations in the early days of the second Trump administration, which moved swiftly to unleash its anti-immigration and mass deportation agenda. In June, Costa Rica’s supreme court ruled that the government had violated the rights of the 200 migrants during their detention at a migrant housing facility, known as Catem, located six hours away from San José, the country’s capital."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_10",
+    "chunk_index": 10,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Costa Rica",
+        "US"
+      ],
+      "regions": [
+        "Central America"
+      ],
+      "cities": [
+        "San José"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Migration Policy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-costa-rica-agreement",
+          "description": "The chunk discusses the new agreement between the US and Costa Rica regarding migrants."
+        },
+        {
+          "tag": "migrant-detention-facility",
+          "description": "The text mentions the facility known as Catem where migrants are housed."
+        },
+        {
+          "tag": "political-transition",
+          "description": "The article notes the upcoming presidential transition in Costa Rica."
+        },
+        {
+          "tag": "legislative-concern",
+          "description": "Lawmakers are concerned about external pressure and lack of national debate."
+        },
+        {
+          "tag": "international-relations",
+          "description": "The discussion revolves around international agreements and foreign influence."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Laura Fernández",
+          "role": "next president of Costa Rica",
+          "resolved": true
+        },
+        {
+          "name": "Rodrigo Chaves",
+          "role": "current president of Costa Rica",
+          "resolved": true
+        },
+        {
+          "name": "Monserrat Ruiz Guevara",
+          "role": "member of the Costa Rican legislative assembly",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "The Guardian",
+          "type": "other"
+        },
+        {
+          "name": "Costa Rican government",
+          "type": "government"
+        },
+        {
+          "name": "US",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "US-Costa Rica Agreement",
+          "type": "agreement",
+          "date": null,
+          "description": "New agreement between Costa Rica and the US concerning deported migrants.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk reports on concerns raised by lawmakers regarding the new US-Costa Rica agreement and the potential misuse of the Catem facility. It highlights fears of external pressure during the country's political transition.",
+      "key_terms": [
+        "US-Costa Rica agreement",
+        "migrants",
+        "Catem",
+        "Laura Fernández",
+        "Rodrigo Chaves",
+        "legislative assembly"
+      ],
+      "raw_text": "When asked if the migrants deported from the US to Costa Rica under this new agreement would end up in Catem, Zamora did not address the question. The Guardian reported that the world’s largest pencil maker accused the Costa Rican government of misusing Catem, an old factory that the German manufacturer donated to the Central American country for humanitarian purposes. The new agreement between Costa Rica and the US alarmed lawmakers in the Central American country, especially during the transitional period in which Laura Fernández is scheduled to succeed Rodrigo Chaves as Costa Rica’s next president in May. The Guardian spoke with Monserrat Ruiz Guevara, whose term as a member of the Costa Rican legislative assembly ends next month. “In the face of a government transition, there is a well-founded concern regarding possible external pressure from the US, the normalization of agreements of this nature without due national debate, and the risk of the country"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_11",
+    "chunk_index": 11,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Costa Rica",
+        "United States",
+        "Venezuela"
+      ],
+      "regions": [],
+      "cities": [
+        "New York"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "US-Venezuela Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-venezuela-relations",
+          "description": "The chunk discusses the lifting of US sanctions on Venezuela's acting president."
+        },
+        {
+          "tag": "sanctions-lifting",
+          "description": "The article details the removal of sanctions by the US Treasury department."
+        },
+        {
+          "tag": "delcy-rodriguez",
+          "description": "Delcy Rodríguez is the acting president of Venezuela who benefited from the sanctions lift."
+        },
+        {
+          "tag": "international-diplomacy",
+          "description": "The text covers diplomatic steps toward normalizing relations between two nations."
+        },
+        {
+          "tag": "oil-sector-investment",
+          "description": "The US allowed state-owned PDVSA to sell oil to global markets."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Ruiz Guevara",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Delcy Rodríguez",
+          "role": "acting president of Venezuela",
+          "resolved": true
+        },
+        {
+          "name": "Nicolás Maduro",
+          "role": "President of Venezuela",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Jorge Rodríguez",
+          "role": "brother of Delcy Rodríguez",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United States",
+          "type": "other"
+        },
+        {
+          "name": "Treasury department",
+          "type": "government"
+        },
+        {
+          "name": "Petróleos de Venezuela SA (PDVSA)",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Lifting of US sanctions on Delcy Rodríguez",
+          "type": "policy-change",
+          "date": null,
+          "description": "The US lifted sanctions on Venezuela’s acting president, Delcy Rodríguez.",
+          "partial": false
+        },
+        {
+          "name": "Abduction of Maduro and wife",
+          "type": "other",
+          "date": "January",
+          "description": "Maduro and his wife were abducted and taken to New York.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The US lifted sanctions on Venezuela’s acting president, Delcy Rodríguez, allowing her to work more freely with US companies. The article details the history of sanctions, the shift in US policy, and the opening up of Venezuela's oil sector.",
+      "key_terms": [
+        "US sanctions",
+        "Venezuela",
+        "Delcy Rodríguez",
+        "PDVSA",
+        "normalizing relations",
+        "human rights"
+      ],
+      "raw_text": "assuming responsibilities that do not belong to us,” said Ruiz Guevara, who visited Catem shortly after the 200 migrants arrived in Costa Rica last year. “Our country has built a historical tradition of respect for human dignity, but this tradition demands concrete and verifiable actions. These types of agreements with the United States lead us to legitimate concerns about the real guarantees of respect for human rights.”\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/02/us-lifts-sanctions-on-venezuela-acting-president -delcy-rodriguez\n\n## **Title: US lifts sanctions on Venezuela’s acting president Delcy Rodríguez**\n\n## **Article:**\n\nThe US has lifted sanctions on Venezuela’s acting president, Delcy Rodríguez, in the latest step towards normalising relations between the two countries after US forces abducted her predecessor, Nicolás Maduro, and his wife. The couple were taken to New York after their abduction in January to face charges of alleged drug trafficking, to which both have pleaded not guilty. The lifting of the sanctions on Rodríguez, which was announced by the Treasury department on Wednesday, allows her to work more freely with US companies and investors. Without explicitly mentioning the sanctions targeting her, Rodríguez, in a statement, expressed hope for US-Venezuelan relations. “We value President Donald Trump’s decision as a step toward normalising and strengthening relations between our countries,” she said on her Telegram channel after the Treasury’s announcement. “We trust that this progress will allow for the lifting of current sanctions against our country, enabling us to build and guarantee an effective bilateral cooperation agenda for the benefit of our people.” Rodríguez and her brother, Jorge, had the sanctions imposed during Trump’s first term over their alleged role in undermining Venezuelan democracy. The siblings, along with other members of Maduro’s inner circle, were added to the Treasury’s list in September 2018, months after Maduro won re-election in a contest widely considered a sham because opposition politicians and parties were banned from participating. The US Treasury said at the time: “Maduro has given Delcy Eloina Rodríguez Gomez and Jorge Jesus Rodríguez Gomez senior positions within the Venezuelan government to help him maintain power and solidify his authoritarian rule.” The current Trump administration, however, chose to work with Delcy Rodríguez, instead of Venezuela’s political opposition, after ousting Maduro. She has since led Venezuela’s cooperation with the US administration’s phased plan to turn the country around, pitching her oil-rich nation to international investors and opening up the country to private capital, international arbitration and scrutiny. Last month, the US recognised her as the “sole head of state” of Venezuela in an ongoing civil case in the US federal court. The US has lifted sanctions on large Venezuelan industries. In March, the US Treasury issued a broad authorisation allowing the state-owned Petróleos de Venezuela SA, or PDVSA, to directly sell oil to US companies and on global markets, a big shift after Washington for years had largely blocked dealings with Venezuela’s government and its oil sector. Maduro is legally still Venezuela’s president. In the hours after the US operation on 3 January, Venezuela’s high court declared his absence “temporary”, in effect eliminating the need for a speedy election and preserving the protections the office grants him under international law. The court ordered Rodríguez to take office for up to 90 days with the possibility of extending it to six months if approved by the national assembly, which is also controlled by the ruling party and is presided over by her brother. The 90-day period ends on Friday.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/01/stephen-lewis-canadian-politician-and-social-act ivist-dies-aged-88\n\n## **Title: Stephen Lewis, Canadian politician and social activist, dies aged 88**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_12",
+    "chunk_index": 12,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Canada"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "cities": [
+        "Toronto"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Human Rights Advocacy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "canadian-diplomat",
+          "description": "Stephen Lewis was a Canadian diplomat and advocate."
+        },
+        {
+          "tag": "hiv-aids-epidemic",
+          "description": "He spent decades focusing global attention on the HIV/Aids epidemic."
+        },
+        {
+          "tag": "human-rights-advocacy",
+          "description": "Lewis was a prominent human rights advocate."
+        },
+        {
+          "tag": "global-health",
+          "description": "His work focused on combating disease and poverty globally."
+        },
+        {
+          "tag": "political-activism",
+          "description": "He was involved in Canadian political movements, including the NDP."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Stephen Lewis",
+          "role": "Canadian diplomat, politician, and human rights advocate",
+          "resolved": true
+        },
+        {
+          "name": "Mark Carney",
+          "role": "Prime Minister who paid tribute to Lewis",
+          "resolved": true
+        },
+        {
+          "name": "David Lewis",
+          "role": "Former federal NDP leader",
+          "resolved": true
+        },
+        {
+          "name": "Avi Lewis",
+          "role": "Leader of the federal NDP",
+          "resolved": true
+        },
+        {
+          "name": "Ilana Landsberg-Lewis",
+          "role": "Co-founder of the Stephen Lewis Foundation",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United Nations",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "New Democratic party (NDP)",
+          "type": "government"
+        },
+        {
+          "name": "Stephen Lewis Foundation",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Stephen Lewis's death",
+          "type": "other",
+          "date": null,
+          "description": "Stephen Lewis died of cancer at the age of 88.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports on the death of Stephen Lewis, a prominent Canadian diplomat and human rights advocate, detailing his lifelong work on the HIV/Aids epidemic and his political career. It also mentions his continued activism during the coronavirus pandemic.",
+      "key_terms": [
+        "Stephen Lewis",
+        "human rights",
+        "NDP",
+        "United Nations",
+        "HIV/Aids",
+        "diplomacy"
+      ],
+      "raw_text": "## **Article:**\n\nStephen Lewis, the Canadian diplomat, politician and human rights advocate, who spent decades tirelessly working to focus global attention on the HIV/Aids epidemic, has died of cancer. Lewis, who served as the Canadian ambassador to the United Nations, as well as the head of Ontario’s New Democratic party (NDP), was 88. “Stephen spent the last eight years of his life battling cancer with the same indomitable energy he brought to his lifelong work: the unending struggle for justice and dignity for every human life,” his family said in a statement. “The world has lost a voice of unmatched eloquence and integrity.” The prime minister, Mark Carney, paid tribute to Lewis, calling him “a pillar of compassionate leadership in Canadian democracy, and a renowned global champion for human rights and multilateralism” in a statement. Lewis, the scion of former federal NDP leader David Lewis, was also the father of Avi Lewis, who was elected leader of the federal NDP on Sunday. In his victory speech before his father’s death, Avi Lewis paid tribute to him, saying his father was “not doing too well” but was hanging on from his hospital bed to see the next chapter of “the movement”. “Ever the political fanatic, Dad has demanded daily updates about our organizing, delivered to his hospital bed – a veritable IV drip of campaign data,” he said. “At age 88 he is more passionate about the promise of democratic socialism than he has ever been in his life.” Stephen Lewis led the Ontario NDP from 1970 to 1978, serving as official opposition leader from 1975 to 1977. After leaving politics, Lewis was appointed Canada’s ambassador to the United Nations. He was then named special adviser to the UN’s secretary general on African affairs and later became deputy director of Unicef and the United Nations special envoy for HIV-Aids in Africa. It was that work, in a region of the world decimated by illness and the neglect of nations with the means to help, that left him shaken. “I cannot remember in my entire adult life scenes of such unendurable human desolation, it was heartbreaking,” Lewis said during his first speech to the UN in 2006. A skilled orator and writer, he reserved his sharpest criticism for wealthy nations and the global institutions capable of ending much of the suffering. “It’s not just the fact that people will die; it’s the fact that those who have made the decision know that people will die. How does that get rationalized?” he said in a 2011 speech at Yale University after donor nations cut funding. “How does that get dealt with in the inner sanctums of development ministries and cabinet discussions? What in God’s name do they say to each other?” Lewis, driven by the desire to make combating disease and poverty his life’s work, then co-founded the Stephen Lewis Foundation with his daughter Ilana Landsberg-Lewis, travelling often to countries in Africa disproportionately affected by pandemics. During the coronavirus pandemic, Lewis called on countries like Canada to recognize the need for vaccine equity, and criticised the government for accessing doses from an international vaccine-sharing pool. “It was always understood from the outset that this was not a source of vaccines for the rich and wealthy countries of the world,” he said in a 2021 interview. There are two schools in Toronto named after him and Lewis held 42 honorary degrees, among the highest of any Canadian. He was given the Order of Canada, the country’s highest honour, in 2002.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers\n\n## **Title: Client Challenge**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_13",
+    "chunk_index": 13,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Natural-Disaster",
+      "sub_category": "Earthquake",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "earthquake",
+          "description": "A magnitude 7.4 earthquake struck Indonesia."
+        },
+        {
+          "tag": "indonesia",
+          "description": "The country of Indonesia was affected by the earthquake."
+        },
+        {
+          "tag": "natural-disaster",
+          "description": "The chunk reports on a natural disaster event."
+        },
+        {
+          "tag": "tsunami",
+          "description": "The earthquake triggered small tsunami waves."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [],
+      "events": [
+        {
+          "name": "Magnitude 7.4 earthquake strikes Indonesia",
+          "type": "natural-disaster",
+          "date": null,
+          "description": "A magnitude 7.4 earthquake struck Indonesia, killing one person and damaging buildings.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that a magnitude 7.4 earthquake struck Indonesia, resulting in one death and damage to buildings, and triggering small tsunami waves.",
+      "key_terms": [
+        "Indonesia",
+        "earthquake",
+        "magnitude 7.4",
+        "tsunami",
+        "natural disaster"
+      ],
+      "raw_text": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-s parking-tsunami-alert\n\n## **Title: One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_14",
+    "chunk_index": 14,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [
+        "North Maluku province",
+        "North Sulawesi province",
+        "North Sumatra"
+      ],
+      "cities": [
+        "Ternate",
+        "Bitung",
+        "Manado"
+      ]
+    },
+    "classification": {
+      "category": "Disaster",
+      "sub_category": "Earthquake and Tsunami",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "earthquake",
+          "description": "A 7.4 magnitude earthquake struck Indonesia's Ternate island."
+        },
+        {
+          "tag": "tsunami",
+          "description": "The quake triggered small tsunami waves, prompting warnings for surrounding coasts."
+        },
+        {
+          "tag": "Indonesia",
+          "description": "The country is prone to earthquakes due to its location on the Ring of Fire."
+        },
+        {
+          "tag": "disaster-response",
+          "description": "Authorities urged the public to remain vigilant and assess damage."
+        },
+        {
+          "tag": "geological-event",
+          "description": "The event was recorded by the United States Geological Survey."
+        },
+        {
+          "tag": "natural-disaster",
+          "description": "The incident resulted in one death and injuries."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "A 70-year-old woman",
+          "role": null,
+          "resolved": false
+        },
+        {
+          "name": "An Agence France-Presse journalist",
+          "role": null,
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United States Geological Survey",
+          "type": "other"
+        },
+        {
+          "name": "Indonesia’s disaster management agency (BNPB)",
+          "type": "government"
+        },
+        {
+          "name": "Indonesia’s BMKG meteorology agency",
+          "type": "government"
+        },
+        {
+          "name": "Japan’s meteorological agency",
+          "type": "government"
+        },
+        {
+          "name": "Philippine Institute of Volcanology and Seismology",
+          "type": "government"
+        },
+        {
+          "name": "Australia’s Bureau of Meteorology",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Earthquake in Ternate",
+          "type": "natural-disaster",
+          "date": "Thursday",
+          "description": "A 7.4 magnitude earthquake struck Ternate island, causing damage and tsunami waves.",
+          "partial": false
+        },
+        {
+          "name": "Tsunami warning",
+          "type": "natural-disaster",
+          "date": null,
+          "description": "The US tsunami warning system alerted to the risk of hazardous tsunami waves.",
+          "partial": false
+        },
+        {
+          "name": "2022 earthquake",
+          "type": "natural-disaster",
+          "date": "2022",
+          "description": "A magnitude 5.6 earthquake killed at least 602 people.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "A 7.4 magnitude earthquake struck Ternate island, Indonesia, causing one death and minor damage. The event triggered tsunami warnings, and authorities monitored aftershocks and assessed damage in various locations.",
+      "key_terms": [
+        "Ternate",
+        "earthquake",
+        "tsunami",
+        "Indonesia",
+        "BNPB",
+        "North Sulawesi",
+        "Ring of Fire"
+      ],
+      "raw_text": "One person has been killed after a 7.4 magnitude earthquake struck Indonesia’s Ternate island, damaging buildings and triggering small tsunami waves. The quake, which had a depth of 35km, occurred on Thursday at 6.48am local time, according to the United States Geological Survey. Its epicentre was 127km (79 miles) west-north-west of Ternate, an island in Indonesia’s North Maluku province. The US tsunami warning system initially alerted to the risk of hazardous tsunami waves within 1,000km of the epicentre, including along the coasts of Indonesia, the Philippines and Malaysia, saying waves reaching 0.3 metres to 1 metre (3.2ft) above the tide level were possible on some of the Indonesian coastline. About two hours after the quake, it confirmed the threat of a tsunami had passed. Strong shaking lasting 10 to 20 seconds was felt in Bitung – a coastal city on the north-eastern edge of Sulawesi island – and surrounding areas, as well as in Ternate city, according to Indonesia’s disaster management agency (BNPB). Tsunami waves were recorded in five locations, according to Indonesia’s BMKG meteorology agency, which said the highest – at 0.75 metres (2.46ft) – occurred in North Minahasa in North Sulawesi province. A total of 11 aftershocks were monitored, the largest at a magnitude of 5.5. The authorities have urged the public to remain vigilant. “At this stage, caution is still required, particularly for communities living along the coast,” a spokesperson for BNPB said in a statement, telling residents to refrain from returning to beaches or coastal areas until authorities confirmed it was safe to do so. A 70-year-old woman died in North Sulawesi’s Minahasa district, and another resident was injured after the quake. Images showed a sports complex in North Sumatra that was damaged, with mangled wall panels and metal bars lying across the ground outside. BNPB said initial assessments showed “minor to moderate” damage to buildings in areas of Ternate, which has a population of about 205,000. A church in the Batang Dua Island district was damaged, as were two houses in South Ternates. In Bitung, efforts to assess the damage were continuing, the agency said. The quake was initially recorded at a magnitude of 7.8, the US Geological Survey said. Japan’s meteorological agency said “slight sea level changes” might occur along Japan’s coast but that no tsunami damage was expected. The Philippine Institute of Volcanology and Seismology and Australia’s Bureau of Meteorology later confirmed there was no tsunami threat to their territories. An Agence France-Presse journalist in Manado, North Sulawesi province, said the shaking woke him and others in the city, who rushed outdoors. “I immediately woke up and left my house. People [were] immediately scrambling outside,” he said. “There is a school and the pupils rushed outside.” He said the shaking persisted for “quite long” but he did not witness “significant damage”. Indonesia, a vast archipelago of more than 280 million people, is prone to earthquakes because of its location on the “ring of fire”, an arc of volcanoes and faultlines in the Pacific basin. In 2022, a magnitude 5.6 earthquake killed at least 602"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_15",
+    "chunk_index": 15,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "New Zealand",
+        "Cook Islands",
+        "China"
+      ],
+      "regions": [
+        "Pacific basin"
+      ],
+      "cities": [
+        "Cianjur"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Defense Pact",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "defence-pact",
+          "description": "New Zealand and the Cook Islands signed a defense and security declaration."
+        },
+        {
+          "tag": "strategic-partnership",
+          "description": "The agreement aims to clarify the nature of the special relationship between the two nations."
+        },
+        {
+          "tag": "foreign-affairs",
+          "description": "The article discusses diplomatic disagreements and resolutions between the two countries."
+        },
+        {
+          "tag": "pacific-region",
+          "description": "The context involves geopolitical tensions and China's influence in the Pacific."
+        },
+        {
+          "tag": "international-relations",
+          "description": "The pact addresses security and defense matters between the two sovereign entities."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Mark Brown",
+          "role": "prime minister of the Cook Islands",
+          "resolved": true
+        },
+        {
+          "name": "Winston Peters",
+          "role": "foreign affairs minister of New Zealand",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "New Zealand",
+          "type": "government"
+        },
+        {
+          "name": "Cook Islands",
+          "type": "government"
+        },
+        {
+          "name": "US Geological Survey",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Defence and Security Declaration",
+          "type": "treaty",
+          "date": null,
+          "description": "An agreement signed by New Zealand and the Cook Islands to improve relations and consult on defense matters.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "New Zealand and the Cook Islands signed a defense and security declaration, resolving a year-long diplomatic row that began after the Cook Islands signed a strategic deal with China. The pact requires both nations to consult on defense and security matters, while New Zealand will resume annual funding support.",
+      "key_terms": [
+        "New Zealand",
+        "Cook Islands",
+        "defence pact",
+        "China deal",
+        "free association",
+        "security declaration"
+      ],
+      "raw_text": "people in West Java’s Cianjur city, the deadliest one in Indonesia since a 2018 quake and tsunami in Sulawesi killed more than 4,300 people. In 2004, an extremely powerful Indian Ocean quake set off a tsunami that killed more than 230,000 people in a dozen countries, most of them in Indonesia’s Aceh province. This area of the Molucca Sea often experiences moderate to large earthquakes, according to the US Geological Survey. Over the past 50 years, nine other earthquakes with a magnitude higher than seven have occurred within 250km of Thursday’s earthquake, though few have caused major damage because of their location at sea.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/02/new-zealand-cook-islands-defense\n\n## **Title: New Zealand signs defence pact with Cook Islands after quarrel over China deal**\n\n## **Article:**\n\nNew Zealand and the Cook Islands have signed a defence and security declaration, ending a year-long diplomatic row that erupted after the Cook Islands struck strategic agreements with China. The Cook Islands was a dependent New Zealand colony from 1901-65 but has since operated as a self-governing nation in “free association” with New Zealand. Its roughly 17,000 citizens hold New Zealand citizenship. There are obligations between the two nations to regularly consult on matters of defence and security. In February 2025, New Zealand expressed “significant concern” about a lack of transparency over the Cook Islands’ decision to sign a strategic partnership deal with China covering deep-sea mining, regional cooperation and economic issues. It marked the first time the Cook Islands had struck a major deal with a country outside its traditional partners – New Zealand and Australia – causing concern within those countries over China’s push for influence in the Pacific. New Zealand, the Cook Islands’ biggest funder, responded by halting millions of dollars in aid to the nation, which the Cook Islands’ prime minister, Mark Brown, described as “patronising” and “inconsistent with modern partnership”. On Thursday, relations between the two nations improved, after the signing of declaration that requires both parties to act in good faith and consult on matters of defence and security. New Zealand’s foreign affairs minister, Winston Peters, said it was no secret the two governments had faced a series of “serious disagreements” since late 2024, but the declaration was about “setting a course together for the future” and providing clarity over the relationship. Peters said: “The strategic environment we face is more complex and contested today than at any other point since New Zealand and the Cook Islands formed our free association relationship in 1965. “In that context, it’s vital that New Zealand and the Cook Islands are clear – with one another and third parties – about the nature of our special relationship and our responsibilities to one another in the defence and security domains.” New Zealand would resume roughly NZ$29.8m ($17.1m) in annual funding support, he said. Peters added: “We are pleased to now have a shared certainty about the contours of that relationship, and we are grateful to prime minister Brown and his government for the constructive way they approached the negotiation of this declaration.” Brown said the agreement was about “moving forward”. He said: “This declaration is about security and defence across our region, and I’m confident that the provisions we have in this declaration will address any concerns that may have occurred in the past.” Brown said the defence pact with New Zealand would not affect the Cook Islands’ deal with China, but Peters said that deal was no longer a concern. “This declaration resolves this former ambiguity and provides clarity to both governments so that we can move forward focused on the future, not the past,” Peters said. “If anyone understands the Polynesian society, cousins fall out now and again … our job is getting it back.”\n\n----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_16",
+    "chunk_index": 16,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "China"
+      ],
+      "regions": [],
+      "cities": [
+        "Wuhan",
+        "Beijing",
+        "Zhuzhou"
+      ]
+    },
+    "classification": {
+      "category": "Cyber",
+      "sub_category": "Technology/AI",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "robotaxis-malfunction",
+          "description": "System malfunctions caused several self-driving robotaxis to stall in Wuhan."
+        },
+        {
+          "tag": "baidu-autonomous-vehicles",
+          "description": "Baidu operates a fleet of driverless cars, including the Apollo Go service."
+        },
+        {
+          "tag": "china-technology-news",
+          "description": "The article reports on technological incidents in China's autonomous vehicle sector."
+        },
+        {
+          "tag": "energy-crisis-impact",
+          "description": "The chunk overlaps with a discussion of energy shortfalls and dirty fuels in Asia."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Yu-chen Li",
+          "role": "Additional reporter",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Baidu",
+          "type": "corporate"
+        },
+        {
+          "name": "Apollo Go",
+          "type": "corporate"
+        },
+        {
+          "name": "Lyft",
+          "type": "corporate"
+        },
+        {
+          "name": "Uber",
+          "type": "corporate"
+        },
+        {
+          "name": "Reuters",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Robotaxi Stall Incident",
+          "type": "other",
+          "date": "Tuesday night/Wednesday",
+          "description": "Multiple Apollo Go cars stalled in Wuhan due to a system malfunction.",
+          "partial": false
+        },
+        {
+          "name": "Autonomous Vehicle Pedestrian Incident",
+          "type": "other",
+          "date": "Last December",
+          "description": "A Baidu-produced autonomous vehicle ran over two pedestrians in Zhuzhou.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk reports on a system malfunction that caused multiple Baidu-operated robotaxis (Apollo Go) to stall in Wuhan, China. It also provides context on Baidu's expanding autonomous vehicle operations and mentions a previous incident involving the vehicle running over pedestrians.",
+      "key_terms": [
+        "robotaxis",
+        "system malfunction",
+        "Baidu",
+        "Apollo Go",
+        "Wuhan",
+        "autonomous vehicles",
+        "China"
+      ],
+      "raw_text": "**Link:** https://www.theguardian.com/technology/2026/apr/01/system-malfunction-causes-robotaxis-to-st all-in-the-middle-of-the-road-in-china\n\n## **Title: ‘System malfunction’ causes robotaxis to stall in the middle of the road in China**\n\n## **Article:**\n\nA “system malfunction” has caused several self-driving robotaxis to stall in the middle of the road in China, police have confirmed, after distressed riders were stranded for hours. Local authorities in the central Chinese city of Wuhan said they began receiving calls “one after another” on Tuesday night from riders reporting that autonomous vehicles operated by the Chinese internet company Baidu had frozen. “Multiple Apollo Go cars stopped in the middle of the road, unable to move,” police said in a statement on Wednesday, referring to Baidu’s driverless taxi service. “After investigation, preliminary findings suggest the cause was system malfunction.” Baidu has a fleet of more than 500 driverless cars in Wuhan. The statement did not specify how many cars were involved in the sysem malfunction. One rider, recounting their 90-minute ordeal on the Chinese social media platform RedNote, said their vehicle broke down on an elevated highway in Wuhan at 9pm local time. “I called robotaxi’s customer service, but couldn’t get through at first. After calling repeatedly, everyone I called said they had dispatched a specialist,” the user said. “After 10.30pm, my order was cancelled, and I was stuck on the overpass with dump trucks all around me.” The rider was eventually rescued, but accused Apollo Go customer service agents of providing “useless platitudes” instead of “solutions for handling such an emergency”. Riders also uploaded footage of the incident to social media platforms, including one user who posted a video with the caption “Apollo Go, are you paralysed?” of their unsuccessful attempts to reach the company from an in-car tablet. This isn’t the first incident involving Baidu’s robotaxis. Last December, authorities in the city of Zhuzhou suspended robotaxi operations after a Baidu-produced autonomous vehicle ran over two pedestrians, putting them in intensive care. Baidu, China’s equivalent to Google, opened Apollo Go to the public in Beijing in late 2020 and now operates in designated areas across several Chinese cities. It provided 3.4m driverless rides in the fourth quarter of 2025, according to company filings, with total rides increasing by more than 200% compared with the same period in 2024. More recently, it has announced deals with the rideshare apps Lyft and Uber to deploy its autonomous vehicles on their platforms as it looks to expand its presence outside China. Baidu did not immediately respond to a request for comment, Reuters reported. Additional reporting by Yu-chen Li\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal\n\n## **Title: Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war**\n\n## **Article:**\n\nGovernments across Asia are ramping up their use of coal, the dirtiest fossil fuel, as they try to cover huge energy shortfalls triggered by the US-Israel war on Iran. The move has triggered warnings from climate experts who point to coal’s devastating environmental impact, and say the energy crisis should be a wake up call for governments to invest in renewables, which can offer a more stable supply that is not exposed to price shocks. Across the region, from Bangladesh to South Korea, governments are"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_17",
+    "chunk_index": 17,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "South Korea",
+        "Thailand",
+        "The Philippines",
+        "India",
+        "Bangladesh",
+        "Qatar",
+        "Indonesia",
+        "Sri Lanka",
+        "Vietnam",
+        "Pakistan"
+      ],
+      "regions": [
+        "Middle East",
+        "South Asia",
+        "Indo-Pacific"
+      ],
+      "cities": [
+        "Delhi",
+        "Jakarta"
+      ]
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Energy Crisis",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "energy-security",
+          "description": "The chunk discusses how various Asian countries are struggling to maintain energy supplies."
+        },
+        {
+          "tag": "coal-power",
+          "description": "Many countries are temporarily increasing reliance on coal-fired power plants."
+        },
+        {
+          "tag": "lng-shortage",
+          "description": "The global supply of Liquefied Natural Gas (LNG) is severely depleted due to geopolitical conflicts."
+        },
+        {
+          "tag": "renewable-energy",
+          "description": "Experts advocate for a long-term shift towards renewable energy sources."
+        },
+        {
+          "tag": "climate-change",
+          "description": "The text highlights the devastating impact of coal on climate and health outcomes."
+        },
+        {
+          "tag": "energy-transition",
+          "description": "The crisis is viewed as a turning point for Asia's energy sector."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Henning Gloystein",
+          "role": "managing director of energy and resources at Eurasia Group",
+          "resolved": true
+        },
+        {
+          "name": "Pauline Heinrichs",
+          "role": "expert in climate and energy at King’s College London",
+          "resolved": true
+        },
+        {
+          "name": "Dinita Setyawati",
+          "role": "senior energy analyst for Asia at thinktank Ember",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Eurasia Group",
+          "type": "other"
+        },
+        {
+          "name": "King’s College London",
+          "type": "other"
+        },
+        {
+          "name": "Ember",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Energy Crisis",
+          "type": "other",
+          "date": null,
+          "description": "A global shortage of LNG and other energy sources is forcing countries to revert to coal.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details how Asian nations are responding to a severe energy crisis, relying heavily on coal and LNG, while experts warn of critical shortages and advocate for an urgent, long-term transition to renewable energy sources.",
+      "key_terms": [
+        "LNG",
+        "coal-fired power",
+        "energy security",
+        "renewable energy",
+        "Indo-Pacific",
+        "energy crisis"
+      ],
+      "raw_text": "trying to compensate for a drop off in imported energy, much of which comes from the Middle East. South Korea said it will delay the shutdown of coal-fired power plants and has lifted caps on electricity from coal, while in Thailand, the government has increased output at the country’s largest coal-fired plant. The Philippines, which has declared a “national energy emergency” as a result of the war, also plans to boost operations of its coal-fired power plants. In South Asia, India, which relies on coal for nearly 75% of its power generation, has asked its coal plants to run at maximum capacity and avoid planned outages, while Bangladesh increased coal-fired power generation Iand coal-fired power imports in March. Governments are racing to overcome shortfalls, especially in the supply of liquefied natural gas (LNG), which has been promoted as a bridge fuel in the transition from coal to cleaner energy – though research has shown exported gas emits far more greenhouse gas than coal. Many countries in the region rely on LNG to generate electricity, as well as for industries such as fertiliser manufacturing. Demand in Asia had been forecast to double in the next 25 years. However, supplies have been cut off by the effective closure of the strait of Hormuz though which a fifth of worldwide LNG shipments pass. Strikes on a major LNG export facility in Qatar will exacerbate the shortage and have a years-long impact on the industry, say experts. Almost 30bn cubic meters of LNG has been removed from global supply chains, of which more than 80% is missing in the Indo-Pacific region, said Henning Gloystein, managing director of energy and resources at Eurasia Group. The last remaining cargoes that passed through the strait before the conflict spiralled will arrive in the next week, he said. “The global market has flipped within four weeks from quite a healthy supply surplus … into a very severe deficit – and that’s going to not just lead to price spikes, but real fuel shortages.” “Those countries that have coal reserves will be [using] that because it’s the fastest, cheapest way to replace LNG,” he added, though he noted that countries such as India are also ramping up renewable energy. Delhi has sped up clearances for commissioning of wind power plants and battery energy storage systems. Pauline Heinrichs, an expert in climate and energy at King’s College London, said the crisis should be a turning point for governments. “The impact of coal on climate and health outcomes is devastating and disastrous – and we’ve proven that this is the case for many decades. Not only does it worsen climate risks, of course, but the same goes for pollution and for toxicity,” she said. The current energy crisis underlined the importance of renewable energy “not just a climate priority, but ultimately for energy security more broadly in Asia”. “Those economies that have a substantial amount of renewable energy are in fact less vulnerable,” she said. Governments should not allow a return to coal to become baked in to the energy system in the long term, she added. “We need to learn that this is the moment to break that cycle of responding to short-term fossil fuel induced shocks with investments in fossil fuels, because they’re never short-term – they’re always long-term infrastructure investments of sorts.” “It’s not sustainable to rely on coal,” added Dinita Setyawati, senior energy analyst for Asia at thinktank Ember, who is based in Jakarta. “Homegrown renewables are definitely the way to go to improve more energy security and resilience.” Across Asia countries are searching for ways to reduce energy consumption, with the Philippines and Sri Lanka introducing four-days weeks for many government staff, and Vietnam encouraging people work from home. Bangladesh closed its universities early, bringing forward the Eid al-Fitr holidays, and has introduced more planned blackouts, while Pakistan has moved schools to remote online teaching."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_18",
+    "chunk_index": 18,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Energy Supply",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "lng-supplies",
+          "description": "The recovery of Liquefied Natural Gas (LNG) supplies is expected to take years."
+        },
+        {
+          "tag": "energy-crisis",
+          "description": "The current situation suggests a prolonged energy supply crisis."
+        },
+        {
+          "tag": "recovery-timeline",
+          "description": "The damage to energy infrastructure is predicted to take years to repair."
+        },
+        {
+          "tag": "ceasefire-impact",
+          "description": "The return to normal life is contingent on a ceasefire or reduction in conflict."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Gloystein",
+          "role": null,
+          "resolved": false
+        }
+      ],
+      "organizations": [],
+      "events": []
+    },
+    "content": {
+      "chunk_summary": "Gloystein stated that the recovery of LNG supplies will take years, emphasizing that the damage done is not a short-term issue and requires significant time to repair.",
+      "key_terms": [
+        "LNG supplies",
+        "Gloystein",
+        "recovery",
+        "ceasefire",
+        "energy damage"
+      ],
+      "raw_text": "Gloystein added it will take years to recover LNG supplies. “This isn’t a short-term thing – people hope that next week there will be some form of a climb down or ceasefire and then we’ll go back to normal,” he said. “This is going to stay with us for a while because the damage that has been done, it’s going to take years to repair.”"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_19",
+    "chunk_index": 19,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia",
+        "United States"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Pharmaceutical Pricing",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "drug-pricing",
+          "description": "The article discusses Australia's stance on raising drug prices."
+        },
+        {
+          "tag": "pharmaceutical-tariffs",
+          "description": "The text mentions a potential 100% tariff on pharmaceuticals imported into the US."
+        },
+        {
+          "tag": "australian-policy",
+          "description": "The chunk reports on a policy decision made by Australia."
+        },
+        {
+          "tag": "global-trade",
+          "description": "The article relates to international trade and pharmaceutical markets."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [
+        {
+          "name": "Australia",
+          "type": "government"
+        },
+        {
+          "name": "United States",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Tariff Imposition",
+          "type": "sanction",
+          "date": null,
+          "description": "A potential 100% tariff on pharmaceuticals imported into the US.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article title and link indicate that Australia has stated it will not raise drug prices following a potential 100% tariff imposed by Trump on pharmaceuticals imported into the US.",
+      "key_terms": [
+        "Australia",
+        "drug prices",
+        "pharmaceuticals",
+        "tariff",
+        "United States"
+      ],
+      "raw_text": "----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/business/2026/apr/03/australia-says-it-wont-raise-drug-prices-after -trumps-100-tariff-on-pharmaceuticals-imported-into-us\n\n## **Title: Australia says it won’t raise drug prices after Trump’s 100% tariff on pharmaceuticals imported into US**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_20",
+    "chunk_index": 20,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia",
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Illinois"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Trade Policy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "pharmaceutical-tariffs",
+          "description": "The article discusses the new 100% tariff imposed by Trump on pharmaceuticals imported into the US."
+        },
+        {
+          "tag": "australian-drug-pricing",
+          "description": "The Australian government is defending its consumer price protections on common medications."
+        },
+        {
+          "tag": "australian-exports",
+          "description": "Australia exports significant amounts of drugs to the US every year."
+        },
+        {
+          "tag": "pharmaceutical-benefits-scheme",
+          "description": "The PBS is Australia's scheme that guarantees lower prices for prescription holders."
+        },
+        {
+          "tag": "trade-dispute",
+          "description": "The core conflict revolves around US tariffs impacting Australian pharmaceutical exports."
+        },
+        {
+          "tag": "government-pressure",
+          "description": "The US administration is pressuring Australia to change its drug pricing policies."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Mark Butler",
+          "role": "health minister",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Jacinta Allan",
+          "role": "Victorian premier",
+          "resolved": true
+        },
+        {
+          "name": "Anika Wells",
+          "role": "communications minister",
+          "resolved": true
+        },
+        {
+          "name": "Angus Taylor",
+          "role": "opposition leader",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Trump administration",
+          "type": "other"
+        },
+        {
+          "name": "White House",
+          "type": "other"
+        },
+        {
+          "name": "Pharmaceutical Benefits Scheme",
+          "type": "other"
+        },
+        {
+          "name": "CSL",
+          "type": "corporate"
+        },
+        {
+          "name": "Australian government",
+          "type": "government"
+        },
+        {
+          "name": "federal government",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Trump's 100% tariff on pharmaceuticals",
+          "type": "sanction",
+          "date": null,
+          "description": "Donald Trump imposed a new 100% tariff on branded pharmaceuticals imported into the US.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article details the conflict between Australia and the US over pharmaceutical tariffs, with Donald Trump imposing a 100% tariff on branded drugs. Australian officials, including the health minister, reject pressure to lift consumer price protections, while industry giants like CSL plan to expand US manufacturing to mitigate the impact.",
+      "key_terms": [
+        "pharmaceutical tariffs",
+        "Australian PBS",
+        "Mark Butler",
+        "Donald Trump",
+        "CSL",
+        "drug pricing"
+      ],
+      "raw_text": "Australia will not cave in to pressure from pharmaceutical giants and the Trump administration by removing consumer price protections on common medications, the health minister, Mark Butler says. Donald Trump imposed a new 100% tariff on branded pharmaceuticals imported into the US overnight, Australian time, trying to force manufacturers to agree to drug-pricing deals or commit to making their products domestically. It is the latest challenge for Australian manufacturers selling products to American consumers and comes as the White House tries to force changes to Australia’s Pharmaceutical Benefits Scheme, which guarantees lower prices for prescription holders here. Under a new executive order signed by Trump, large pharmaceutical companies will have 120 days to announce plans to avoid the new tariff, while smaller companies have 180 days. Companies agreeing to move manufacturing to the US can see a reduced 20% tariff, with some carve-outs given to companies agreeing to preferred pricing deals for US consumers. Australia exports about $2bn worth of drugs to the US every year. Manufacturing giant CSL makes up the bulk of those exports with blood plasma products, expected to receive exemptions from the new tariffs. CSL last month opened a new manufacturing facility in Illinois. Butler said on Friday that the federal government would not succumb to pressure to lift prices in Australia. “We keep sending this clearest of possible messages to the US because we know they get the big drug companies in their ear trying to unpick the PBS here in Australia and equivalent schemes in other countries around the world,” he said. “We are not negotiating about those fundamentals.” Trump’s plan is expected to exempt generic drugs and maintain more favourable tariff rates for drugs produced in the European Union, Japan, South Korea and Switzerland. The UK has its own separate tariff deal. American consumers pay far more for prescription medicines than Australians, a source of frustration for Trump, who has struggled to help ease cost-of-living pressures in the US. Affordability is set to be a key issue in the November midterm congressional elections. Butler told Channel Seven the federal government would study the latest tariff move. “Our immediate concern, obviously, is our great exporters that have been sending product to America for many years, for 20 years under a free trade agreement with no tariffs. “The biggest of those exporters has very big manufacturing operations over in America, so we’re pretty confident they’ll be carved out.” A CSL spokesperson told Guardian Australia the company was reviewing information from the US but did not anticipate material impact from tariffs. “The vast majority of our trade into the US are plasma therapies that are made entirely from US-sourced plasma and we recently announced plans to spend $1.5bn to expand our plasma therapy manufacturing capabilities in the US,” they said. The Victorian premier, Jacinta Allan, said she was concerned the announcement would impact the state, which she describes as a “global capital for the medical technology industry”. “It’s another day, it’s another announcement that is putting pressure into the economy,” she said. “Whilst we work through the very new news that’s come out of the White House this morning, and work with the federal government in terms of understanding what that means, what I’m particularly concerned about is what that means for families who need the supplies of these medicines [and] what this means for the companies who employ many, many people here in Victoria.” The communications minister, Anika Wells, told ABC TV the tariff decision was disappointing “but the Australian PBS is not for sale.” “The quality of Australian pharmaceuticals is world class and it’s not something we’re prepared to compromise on,” Wells said. The opposition leader, Angus Taylor, meanwhile called for Labor to negotiate exemptions with Trump. “This is obviously not welcome news. We don’t want to see it. We’ll work with the government to do anything we have to get it overturned or get an exemption for Australian exporters,” he said."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_21",
+    "chunk_index": 21,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia",
+        "US"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Trade Policy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "australia-trade",
+          "description": "The chunk mentions Australia's tariff rate under a specific regime."
+        },
+        {
+          "tag": "us-tariff-regime",
+          "description": "The text refers to Trump's 'Liberation Day tariff regime' in the US."
+        },
+        {
+          "tag": "supreme-court-ruling",
+          "description": "The tariff regime was struck down by a US supreme court ruling."
+        },
+        {
+          "tag": "international-trade",
+          "description": "The passage discusses international trade tariffs and regulations."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [
+        {
+          "name": "US supreme court",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Liberation Day tariff regime",
+          "type": "sanction",
+          "date": "2025",
+          "description": "A tariff regime announced by Trump that affected Australia.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Australia received the lowest 10% rate under a tariff regime announced in 2025, but this regime was subsequently struck down by a US supreme court ruling in February.",
+      "key_terms": [
+        "Australia",
+        "tariff regime",
+        "Trump",
+        "US supreme court",
+        "Liberation Day",
+        "2025"
+      ],
+      "raw_text": "Australia had received the lowest 10% rate under Trump’s so-called Liberation Day tariff regime, announced in 2025, but struck down in a US supreme court ruling in February."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_22",
+    "chunk_index": 22,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia"
+      ],
+      "regions": [
+        "Queensland"
+      ],
+      "cities": [
+        "Sydney",
+        "Brisbane",
+        "Melbourne",
+        "Hobart",
+        "Canberra",
+        "Darwin",
+        "Perth",
+        "Adelaide"
+      ]
+    },
+    "classification": {
+      "category": "Food & Climate",
+      "sub_category": "Weather Forecast",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "australian-weather",
+          "description": "The article provides a detailed weather forecast for various Australian cities over the Easter weekend."
+        },
+        {
+          "tag": "cyclone-forecast",
+          "description": "Meteorologists predict a potential cyclone forming in the Coral Sea."
+        },
+        {
+          "tag": "climate-cycles",
+          "description": "The text discusses the end of the 2025-26 La Niña cycle and the expected development of El Niño."
+        },
+        {
+          "tag": "bureau-of-meteorology",
+          "description": "The BoM is the source providing the weather predictions and climate information."
+        },
+        {
+          "tag": "easter-weekend",
+          "description": "The forecast covers the weather conditions expected during the Easter holiday period."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jonathan How",
+          "role": "senior meteorologist",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bureau of Meteorology",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Cyclone formation",
+          "type": "other",
+          "date": "2026-04-02",
+          "description": "A potential cyclone is predicted to form in the Coral Sea from Saturday evening.",
+          "partial": false
+        },
+        {
+          "name": "La Niña cycle end",
+          "type": "policy-change",
+          "date": "2026",
+          "description": "The 2025-26 La Niña climate cycle has ended.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article provides a detailed weather forecast for various Australian cities over the Easter weekend, predicting mild temperatures and showers, while also warning of a potential cyclone forming in the Coral Sea. It also notes the end of the La Niña cycle and the expected shift toward neutral and El Niño conditions.",
+      "key_terms": [
+        "Easter weekend",
+        "weather forecast",
+        "cyclone",
+        "Coral Sea",
+        "La Niña",
+        "El Niño",
+        "Bureau of Meteorology"
+      ],
+      "raw_text": "----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/australia-news/2026/apr/02/easter-weather-forecast-australia-bom\n\n## **Title: Calm weather forecast for most of Australia over Easter weekend while BoM watches for possible cyclone**\n\n## **Article:**\n\nMany Australians can expect mild temperatures and a chance of showers over the Easter weekend, while meteorologists predict a cyclone will form in the Coral Sea from Saturday evening. The Bureau of Meteorology has forecast a blend of fine days and showers for most capital cities over the coming days. “No capital city is forecast to be completely dry. At the same time, no city should be a washout,” said senior meteorologist Jonathan How. “It’s nice to have a period of calmer weather before a potential cyclone next week.” Sydney would see showers “from the get go”, he said, with maximums in the low to mid 20s and some rain most days except Monday. Brisbane would be warmer – with temperatures reaching into the high 20s – and a chance of rain for the first three days of the long weekend. It would also be “pretty windy” along the Queensland coast, How said, with marine wind warnings expected to be in place along parts of the coast throughout the weekend. Mostly fine weather was forecast for Melbourne from Friday to Sunday, with showers expected on Monday. Hobart would see a similar pattern. Canberra would be mostly dry, with maximums temperatures ranging between 19 and 25C. Isolated showers, storms and temperatures in the 30s were forecast for Darwin. Thunderstorms – severe in places – were expected to roll through inland Western Australia on Good Friday, with the possibility of some reaching Perth, How said. The city would see temperatures in the mid to high 20s over the four days. Adelaide would be fine and “fairly warm”, he said, until possible showers arrived on Monday. Temperatures could hit 29C on Sunday. “If you leave chocolate out in the sun, it will melt,” How warned. Despite the mostly settled conditions, How reminded people to check the forecast before heading out camping or to the beach. Catchments were still soaked across Queensland’s north-east tropical coast, he said, so any showers could lead to isolated river and creek rises. A tropical low labelled 37U, now located between Papua New Guinea and the Solomon Islands, was expected to “deepen and strengthen” over the weekend, How said. The system had a high chance of becoming a cyclone on Saturday evening , when it was over the northern Coral Sea, but was likely to remain well away from the Queensland coast over the coming days. “It’s still a little bit too early to say whether it will cross the coast due to the range of different scenarios,” he said. If the cyclone did form in Australian waters it would be called Owen. But as it was located near the boundary of Papua New Guinea and Fiji’s areas of responsibility, naming rights would depend on where it formed. According to the BoM, the 2025-26 La Niña - a climate cycle usually associated with wetter conditions - has now ended. Neutral conditions was expected to prevail in coming months, with El Niño – a warmer and drier cycle – expected to develop by the end of winter.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/australia-news/2026/apr/03/two-nsw-teenagers-charged-over-viole nt-extremist-material-allegedly-linked-to-terror-ntwnfb\n\n## **Title: Two NSW teenagers charged over violent extremist material allegedly linked to terror**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_23",
+    "chunk_index": 23,
+    "total_chunks": 26,
+    "metadata": {
+      "title": "The Gaurdian News",
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia",
+        "Iran"
+      ],
+      "regions": [
+        "New South Wales"
+      ],
+      "cities": [
+        "Moree",
+        "Sydney",
+        "Tehran"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Visa Restrictions",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "australian-visa-policy",
+          "description": "The chunk discusses the Australian government's ban on Iranian tourists."
+        },
+        {
+          "tag": "iran-australia-relations",
+          "description": "The article details the impact of the ban on Iranian citizens and their families."
+        },
+        {
+          "tag": "humanitarian-crisis",
+          "description": "The text mentions the war in the Middle East and the difficulty of family visits."
+        },
+        {
+          "tag": "australian-citizenship",
+          "description": "The article touches upon the feeling that the government's actions contradict Australian values."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Hedieh Jamshidian",
+          "role": "Iranian Australian",
+          "resolved": true
+        },
+        {
+          "name": "Jamshidian's 76-year-old mother",
+          "role": null,
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Australian government",
+          "type": "government"
+        },
+        {
+          "name": "NSW police",
+          "type": "government"
+        },
+        {
+          "name": "Australian federal police",
+          "type": "government"
+        },
+        {
+          "name": "New England police",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Charged with possessing violent extremist material",
+          "type": "other",
+          "date": "null",
+          "description": "Two NSW teenagers were charged after police found extremist material in their homes.",
+          "partial": false
+        },
+        {
+          "name": "Iranian tourist ban",
+          "type": "policy-change",
+          "date": "null",
+          "description": "The Australian government announced a ban on some visa holders from entering the country.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk contains two separate articles: one detailing the charging of two NSW teenagers with possessing violent extremist material, and a second discussing the Australian government's ban on Iranian tourists and its impact on a family's travel plans.",
+      "key_terms": [
+        "violent extremist material",
+        "NSW teenagers",
+        "Australian values",
+        "Iranian tourist ban",
+        "visa holders",
+        "counterterrorism investigation"
+      ],
+      "raw_text": "Two New South Wales teenagers have been charged with allegedly possessing violent extremist material after police searched one of their homes and found a ballistic-style vest, several notebooks and literature they allege contained extremist references. The Australian federal police and NSW police released a statement on Friday morning confirming the boys, aged 15 and 16 and both from Moree in northern NSW, had been charged with possession of alleged extremist material after a joint counterterrorism investigation. The investigation began in December when New England police received information a teenager was allegedly accessing extremist material online. On 27 March, investigators searched a home and seized a mobile phone, a ballistic-style vest and several notebooks. The 15-year-old boy was charged at the time. Following a forensic examination of the items, federal and state investigators swooped on two Moree homes on Thursday, where handwritten notes and pieces of literature allegedly containing extremist references were seized. The 15-year old was then arrested and charged with knowingly collecting and making documents connected with terrorism, and using a carriage service to transmit violent extremist material. Another boy, 16, was also arrested and charged with using a carriage service to possess violent extremist material. Both have been refused bail and will appear before Parramatta children’s court on Friday.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-th e-australian-values-hedieh-signed-up-to-as-a-citizen\n\n## **Title: Iranian tourist ban doesn’t align with the ‘Australian values’ Hedieh signed up to as a citizen**\n\n## **Article:**\n\nHedieh Jamshidian feared the window to see her mother, living in Tehran under waves of airstrikes, was closing. The Australian government had just announced it could block some visa holders from entering the country. So, Jamshidian, a 32-year-old Iranian Australian, decided to act quickly. Within a week she bought her mother, who held a three-month tourist visa, a ticket to Sydney. “I thought maybe if I wait it out there is no way for us to ever meet again,” she says. Jamshidian’s 76-year-old mother arrived in Australia, via Turkey, days before the federal government’s six-month ban on Iranians with tourist visas entering the country came into effect last week. But her older sister and brother-in-law, who were also planning to visit Sydney from Tehran last month, had their tourist visas suspended under the new laws. “She and her family are under bombs every minute in Tehran. I’m worried sick for them and I feel like I can in no way support them,” she says. “I have no way to help. I can’t travel back to Iran and they can’t come here, even for a very short time.” They are among about 6,800 Iranians outside Australia with valid tourist visas affected by the ban, although some may still be given the chance to enter the country under special consideration. The laws, which have enraged refugee and humanitarian advocates, are in response to the government’s concerns that people travelling to Australia on temporary visas could seek to stay permanently because of the war in the Middle East. Jamshidian, who has lived in Australia for eight years, says the government’s decision makes the country feel like a “home that doesn’t support you”. “The Australian government was so quick to support this illegal war and shockingly quick to ban Iranian people who might have wanted to shelter from this war temporarily"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_24",
+    "chunk_index": 24,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia",
+        "Iran",
+        "United States",
+        "Israel",
+        "Ukraine",
+        "Gaza"
+      ],
+      "regions": [],
+      "cities": [
+        "Melbourne",
+        "Tehran"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Immigration Policy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "australian-citizenship",
+          "description": "The text discusses the commitment to Australian values upon citizenship."
+        },
+        {
+          "tag": "iranian-australians",
+          "description": "The article focuses on the concerns of the Iranian Australian community regarding travel bans."
+        },
+        {
+          "tag": "visa-restrictions",
+          "description": "The core topic is the temporary ban on Iranian nationals applying for tourist visas."
+        },
+        {
+          "tag": "humanitarian-visas",
+          "description": "The text compares the current ban to previous humanitarian visa pathways for other groups."
+        },
+        {
+          "tag": "geopolitical-conflict",
+          "description": "The conflict between Israel and the US is cited as the reason for the visa restrictions."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Mahdi",
+          "role": "Iranian Australian",
+          "resolved": true
+        },
+        {
+          "name": "Hussain",
+          "role": "Mahdi's brother",
+          "resolved": true
+        },
+        {
+          "name": "Tony Burke",
+          "role": "Home Affairs Minister",
+          "resolved": true
+        },
+        {
+          "name": "Penny Allman-Payne",
+          "role": "Greens senator",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Albanese government",
+          "type": "government"
+        },
+        {
+          "name": "Refugee Council",
+          "type": "ngo"
+        },
+        {
+          "name": "Department of Health, Disability and Ageing",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Temporary ban on Iranian nationals",
+          "type": "policy-change",
+          "date": null,
+          "description": "The Albanese government imposed a temporary ban on Iranian nationals applying for tourist visas.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article details the frustration of the Iranian Australian community over the temporary ban on visas, contrasting it with previous humanitarian visa pathways for Ukrainians and Palestinians. It quotes the Home Affairs Minister explaining the decision was to prevent random consequences of conflict from affecting permanent residency decisions.",
+      "key_terms": [
+        "Iranian Australians",
+        "visa ban",
+        "Albanese government",
+        "humanitarian visa",
+        "Tony Burke",
+        "Australian values"
+      ],
+      "raw_text": "somewhere safer,” she says. “I don’t feel this is aligned with the ‘Australian values’ I committed to when I was granted Australian citizenship, such as ‘equality of all people’ and ‘equality of opportunity and a fair go’.” Iranian Australians question: ‘Why us?’ Mahdi, an Iranian Australian in Melbourne, remembers his brother, Hussain, in Tehran telling him not to bother trying to get him a tourist visa to Australia as Israel and US first dropped bombs on the capital. The 43-year-old, who has been a citizen since 2014, had previously brought his parents and elder brother to Australia for a short stay years ago. But his recent attempt to invite Hussain and his wife from Iran for a brief stay shortly before the war broke out was rejected. Hussain, Mahdi explains, lives in an area close to the capital’s government buildings where Israeli and US missiles have struck. Mahdi hasn’t heard from his brother in more than two weeks. “I’m really concerned about his and his wife’s safety now,” he says. “I just want to bring them here to [give them] some relief, and to see my family here as well, because I cannot travel because of the conflict.” The Albanese government’s decision to impose the temporary ban has left many in the Iranian Australian community frustrated and confused. During previous conflicts or invasions, such as those in Ukraine and Gaza, civilians with connections to Australia were encouraged to apply for tourist visas in order to make a quick escape from violence and begin the process of gaining a temporary humanitarian visa. “Everyone is in shock, and they say they don’t know what’s the politics behind it. Why [do] they make that mistake to ban Iranians?” Mahdi says. The government has previously offered Ukrainians and Palestinians humanitarian visa pathways for those already in the country with tourist visas. The Refugee Council reported last month that nearly 15,000 temporary visas have been granted to Ukrainians since Russia’s invasion in February 2022, with more than 34,000 people arriving in that time. More than 1,000 three-year humanitarian visas have been granted to Palestinians arriving in Australia since October 2023. Department officials revealed in March that the total number of temporary visa holders in the Middle East affected by the US-Israel war on Iran exceeded 40,000. So far, a ban has only been applied to Iranian nationals. The home affairs minister, Tony Burke, told parliament his decision was made because the number of tourist visas issued to Iranians before the conflict was “as large as this”. “The government has a very clear view that decisions about permanent stays in Australia should be a deliberate decision of the government, not a random consequence of who was planning to book a holiday here,” he said.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.theguardian.com/australia-news/2026/apr/03/aged-care-funding-assessment-tool-alg orithm\n\n## **Title: ‘Letting the algorithm rip’: no legal basis for lack of human override of aged care funding tool, inquiry hears**\n\n## **Article:**\n\nThere appears to be no legal barrier for a human to override a controversial algorithm that determines financial support for elderly Australians, a Senate inquiry has heard, despite government assessors being banned from doing so. The Integrated Assessment Tool (IAT), introduced in November as part of aged care Support at Home reforms, is used to assess eligibility and assign funding levels for aged care services. But Guardian Australia has reported on how the algorithm frequently under-assesses levels of need and criticisms of the IAT after the government removed the ability for assessors to override an incorrect outcome for home support. On Wednesday night, Department of Health, Disability and Ageing staff confirmed that the government has asked for advice about how to reinstate the override function, during a hearing into Support at Home. Greens senator Penny Allman-Payne asked"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "the-gaurdian-news-bfbaedce",
+    "chunk_id": "the-gaurdian-news-bfbaedce__chunk_25",
+    "chunk_index": 25,
+    "total_chunks": 26,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "The Gaurdian",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Policy Debate",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "aged-care-reform",
+          "description": "The discussion centers on the reform and assessment process for aged care services."
+        },
+        {
+          "tag": "algorithmic-bias",
+          "description": "Concerns are raised about the potential for automated decision-making to be flawed or biased."
+        },
+        {
+          "tag": "human-override",
+          "description": "The debate focuses on the ability of human assessors to override automated assessment outcomes."
+        },
+        {
+          "tag": "legislative-scrutiny",
+          "description": "The chunk discusses the legal basis and scrutiny of aged care rules and algorithms."
+        },
+        {
+          "tag": "government-oversight",
+          "description": "The text details the role and limitations of government departments in implementing new systems."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Penny Allman-Payne",
+          "role": "Senator",
+          "resolved": true
+        },
+        {
+          "name": "Robert Day",
+          "role": "First Assistant Secretary",
+          "resolved": true
+        },
+        {
+          "name": "Paul Scarr",
+          "role": "Senator",
+          "resolved": true
+        },
+        {
+          "name": "David Pocock",
+          "role": "Independent Senator",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Aged Care Act",
+          "type": "government"
+        },
+        {
+          "name": "Guardian Australia",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Hearing into Support at Home",
+          "type": "other",
+          "date": null,
+          "description": "A hearing where department staff and senators questioned the use of the IAT algorithm.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details concerns raised by senators and whistleblowers regarding the removal of human override in the IAT assessment process, arguing that the automated system is flawed and negatively impacting older Australians. It highlights the lack of clear legal basis for the automation and the limited recourse available to those negatively affected.",
+      "key_terms": [
+        "IAT",
+        "human override",
+        "Aged Care Act",
+        "automated decision-making",
+        "support at home",
+        "legislative basis"
+      ],
+      "raw_text": "senior department staff about “the legislative basis for the inability to have human override as part of that process”. The department’s first assistant secretary, Robert Day, said: “The no override comes from the fact that that is an objective outcome.” “If you have these scores from your assessment, you get this level of classification … there’s no discretionary element,” Day said. The IAT user manual includes a section on the override function, but does not clearly link any ban on its use to a specific provision of the Aged Care Act. The Liberal senator Paul Scarr has previously raised concerns about the legality of preventing assessors from overriding the outcome, telling the Senate last month that although the user manual “refers to rule 81-10 of the Aged Care Rules,” these rules “make no reference whatsoever to overriding assessments”. “These Aged Care Rules went before the delegated legislation scrutiny committee, on which I sit,” he said. “There was no suggestion that there would be these guidelines preventing overruling of assessments.” Scarr told Guardian Australia that it was “very disturbing” that a user guide could “impose automated decision-making in clearly inappropriate circumstances”. It came after a whistleblower told Guardian Australia that the algorithm frequently leaves older Australians without adequate funding and care, or downgrades their existing support. Staff could override tool during testing phase Department staff also confirmed on Wednesday that testing of the algorithm was done by the department during 2024 and 2025, but only with human override still in place. It was not tested after the ability to override was removed. The algorithm component of the IAT formed a significant part of the questioning by senators during Wednesday’s hearing. “What’s the point of having someone who’s experienced … and not giving them the ability to actually make a change if they do see an error?” the independent senator David Pocock asked. “Where is the human in all of this?” In response, department staff said that there was no way of knowing how many times an assessor raised concerns about the outcome of the IAT, as this data was not tracked. The inquiry heard that the department has received 834 requests for internal review of IAT outcomes since it was introduced in November. A review, which takes more than two months on average, is the only recourse if the algorithm made a mistake. “We learned last night that IAT review requests have gone through the roof since November 1, and that the legal and regulatory basis for the automation of classifications and the removal of human oversight is dubious at best,” Allman-Payne told Guardian Australia on Thursday. “It’s clear that removing human override and letting the algorithm rip is having detrimental effects on older people. When people with degenerative conditions like motor neurone disease are having their assessed care needs downgraded, something is clearly wrong.”\n\n----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  }
+]

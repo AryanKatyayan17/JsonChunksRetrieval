@@ -1,0 +1,3068 @@
+[
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_0",
+    "chunk_index": 0,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Space Exploration",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "artemis-ii",
+          "description": "The mission carrying astronauts around the far side of the Moon."
+        },
+        {
+          "tag": "space-exploration",
+          "description": "The general theme of human travel beyond Earth's orbit."
+        },
+        {
+          "tag": "moon",
+          "description": "The celestial body the Artemis II mission is traveling around."
+        },
+        {
+          "tag": "nasa",
+          "description": "The agency responsible for the Artemis II mission."
+        },
+        {
+          "tag": "space-technology",
+          "description": "The advanced technology used for deep space travel."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jeremy Hansen",
+          "role": "Canadian astronaut",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Pam Bondi",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Todd Blanche",
+          "role": "Former deputy of Pam Bondi",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Nasa",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Orion",
+          "type": "other"
+        },
+        {
+          "name": "Truth Social",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Artemis II mission",
+          "type": "summit",
+          "date": null,
+          "description": "The mission carrying astronauts around the far side of the Moon.",
+          "partial": false
+        },
+        {
+          "name": "Trump removes US Attorney General Pam Bondi",
+          "type": "policy-change",
+          "date": null,
+          "description": "Donald Trump removed Pam Bondi from her post as Attorney General.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article details the Artemis II mission's journey past the Moon, noting it is the first time humans have traveled outside Earth's orbit since 1972. It also reports on Donald Trump's removal of Pam Bondi from her post as US Attorney General.",
+      "key_terms": [
+        "Artemis II",
+        "Orion spacecraft",
+        "Jeremy Hansen",
+        "Pam Bondi",
+        "Donald Trump",
+        "deep space"
+      ],
+      "raw_text": "**Link:** https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Artemis II blasts closer to the far side of the Moon**\n\n## **Article:**\n\nThe four astronauts on the Artemis II mission have now left the Earth's orbit, after their Orion spacecraft fired its main engine for a final push towards the Moon. And from the Orion capsule, Canadian astronaut Jeremy Hansen said the crew was \"feeling pretty good up here on our way to the Moon\". Artemis II is now on a looping path that will carry the crew around the far side of the Moon and back again. It is the first time since 1972 that humans have travelled outside of the Earth's orbit. Hansen, who is the first non-American to travel to the Moon - told Nasa's mission control that the crew \"firmly felt the power\" of those who have persevered and worked so hard on this mission. \"Humanity has once again shown what we are capable of,\" he said. \"It's your hopes for the future that carry us now on this journey around the Moon.\" At last, the final approval was given, and the engine burn could begin - the mission's last, big move towards the Moon. The TLI propelled the spacecraft on a journey that is expected to carry the crew farther from Earth than anyone has been before - more than 4,700 miles (7,600 km) beyond the Moon - before gravity swings them back. Nasa estimates that this could edge past the record set by Apollo 13 in 1970, depending on the fine details of the timing and trajectory. TLI is not a point of no return for Orion - even after the big burn to the Moon, controllers can still carry out the equivalent of a handbrake turn in space and bring the crew back to Earth if something goes seriously wrong. In the event of an emergency, the U-turn is the fastest way home in the first 36 hours after the TLI. After that it can be just as quick, and often simpler, to stay on course around the Moon and fall back to Earth, Orion programme manager Howard Hu said before the launch. He added that the team have \"run hundreds of thousands of [simulations] to ensure that we are able to get the crew home safely.\" As Orion surges into deep space, the views through its windows will become steadily more inspirational: the Earth shrinking to a small blue and white marble behind them, while the Moon grows from a bright disc into a heavily cratered world filling the frame. On about the sixth day of the mission, as Orion cruises beyond the Moon, the astronauts will get to see a total solar eclipse. The Moon will slide directly in front of the Sun so its bright face is completely covered to reveal its normally concealed shimmering halo, with Earth hanging off to one side.\n\n**Link:** https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Trump removes US Attorney General Pam Bondi**\n\n## **Article:**\n\nUS President Donald Trump has removed Attorney General Pam Bondi - a longtime ally and fierce defender of his administration - from her post as America's top law enforcement officer. Trump praised her in a post on Truth Social and said she would be \"transitioning\" to a role in the private sector. Bondi's time leading the justice department was often overshadowed by its handling of the release of files relating to Jeffrey Epstein and its investigation into the convicted sex offender. She is the second Trump administration official in recent weeks to be cut from her post, after Kristi Noem was ousted as homeland security chief in March. Bondi will be replaced by her former deputy, Todd Blanche. Bondi"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_1",
+    "chunk_index": 1,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Political Transition",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "atlantic-congressional-hearing",
+          "description": "The chunk discusses a combative congressional hearing where Bondi was questioned by lawmakers."
+        },
+        {
+          "tag": "epstein-investigation",
+          "description": "The text details the handling of the Epstein files and the subsequent backlash."
+        },
+        {
+          "tag": "attorney-general-departure",
+          "description": "The chunk covers the departure of Pam Bondi from her role as attorney general."
+        },
+        {
+          "tag": "political-rivalry",
+          "description": "The narrative highlights the use of investigations against political opponents."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Pam Bondi",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Todd Blanche",
+          "role": "Former Deputy/Successor",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": "President",
+          "resolved": true
+        },
+        {
+          "name": "Thomas Massie",
+          "role": "Republican congressman",
+          "resolved": true
+        },
+        {
+          "name": "Ro Khanna",
+          "role": "Democrat congressman",
+          "resolved": true
+        },
+        {
+          "name": "Nancy Mace",
+          "role": "South Carolina representative",
+          "resolved": true
+        },
+        {
+          "name": "Adam Schiff",
+          "role": "Senator",
+          "resolved": true
+        },
+        {
+          "name": "Letitia James",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "James Comey",
+          "role": "Former FBI Director",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Department of Justice",
+          "type": "government"
+        },
+        {
+          "name": "Congress",
+          "type": "government"
+        },
+        {
+          "name": "Truth Social",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Bondi's Departure",
+          "type": "policy-change",
+          "date": null,
+          "description": "Pam Bondi announced her departure from her government role to pursue a private sector position.",
+          "partial": false
+        },
+        {
+          "name": "Congressional Hearing",
+          "type": "other",
+          "date": null,
+          "description": "A combative congressional hearing where Pam Bondi was questioned by lawmakers.",
+          "partial": false
+        },
+        {
+          "name": "Epstein File Release",
+          "type": "policy-change",
+          "date": null,
+          "description": "The release of millions of unclassified files related to Epstein after Congressional action.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details Pam Bondi's departure from her government post, followed by criticism and commentary from political figures regarding her handling of the Epstein files and the Department of Justice's investigations into political opponents.",
+      "key_terms": [
+        "Pam Bondi",
+        "Todd Blanche",
+        "Epstein files",
+        "Attorney General",
+        "Department of Justice",
+        "Congressional hearing",
+        "Donald Trump"
+      ],
+      "raw_text": "said she would be \"working tirelessly\" to transfer her work to Blanche, adding that the job had \"been the honour\" of a lifetime. She added that in her new private sector position - which she did not identify - she would \"continue fighting for President Trump and this administration\". The announcement comes less than two months after a combative congressional hearing in which Bondi was peppered with questions from lawmakers - at times descending into shouting matches in which she called one Democrat a \"washed-up loser\". As recently as Thursday morning, Trump was defending Bondi, saying: \"She is a wonderful person and she is doing a good job.\" But hours later, Trump confirmed her departure on Truth Social, saying that her new private sector role would be \"announced at a date in the near future\". Trump lauded Bondi's performance as attorney general in his post, saying she had done \"a tremendous job overseeing a massive crackdown in crime across our country\". But the president had reportedly grown increasingly frustrated with Bondi, in particular over her handling of the Epstein files. When she was sworn into the post in February 2025, she vowed transparency over the Epstein case and promised to release an alleged client list associated with the disgraced financier, who died in 2019. The department later said no such list existed. In the end, millions of files related to Epstein were released under pressure - including from Trump supporters - and only after Congress passed a law requiring the Department of Justice to make unclassified records public. The agency, and subsequently Bondi, faced bipartisan backlash, with lawmakers accusing the justice department of failing to obscure some identifying information about survivors, while protecting the identities of those who were not victims. A handful of Republicans who worked with her closely over the years praised her on Thursday. \"Pam Bondi led this Department with strength and conviction and I'm grateful for her leadership and friendship,\" Blanche wrote on X. \"We will continue backing the blue, enforcing the law, and doing everything in our power to keep America safe.\" Others celebrated her departure. Among them was Kentucky Republican congressman Thomas Massie, a regular critic of Bondi's handling of the Epstein files. \"I hope the next AG will release all the Epstein files according to the law and follow up with investigations, prosecutions and arrests,\" he wrote on X. California Democrat Ro Khanna - who worked with Massie on the bipartisan law to compel the release of the files - told the BBC's Newsnight programme: \"This shows that Congress isn't a doormat.\" Khanna said lawmakers should refuse to confirm Blanche as the next attorney general unless he will \"submit to investigating and prosecuting this Epstein class, this group of men who felt that they could write their own rules, play by their own roles, and treated the rest of us as dispensable\". Another Republican critic of Bondi's, South Carolina representative Nancy Mace, accused her of having \"stonewalled every effort to hold the guilty accountable\" and \"seriously undermined\" Trump with her handling of the files. Survivors also told the BBC that Bondi had yet to meet them or respond to their emails about Epstein's wrongdoing, and that the matter had become a political liability for Trump. Bondi has called Epstein a \"monster\" and told the victims she was sorry for the abuse they endured. Most recently, a congressional committee formally summoned Bondi to answer questions over her handling of the Epstein investigation. She was expected to appear before them this month. Under her leadership, the justice department has pursued a number of criminal investigations into political opponents of the president, including California Senator Adam Schiff, New York Attorney General Letitia James and former FBI Director James Comey. In September, Trump pushed Bondi to more aggressively investigate his political adversaries."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_2",
+    "chunk_index": 2,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Minneapolis",
+        "New York"
+      ]
+    },
+    "classification": {
+      "category": "Politics",
+      "sub_category": "Political Scandal",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "trump-administration",
+          "description": "The text discusses the cabinet changes and controversies during Trump's presidency."
+        },
+        {
+          "tag": "legal-scandal",
+          "description": "The chunk mentions the investigation into federal immigration agents and Trump's hush money trial."
+        },
+        {
+          "tag": "political-credibility",
+          "description": "The quote highlights concerns about the delay affecting reputation and credibility."
+        },
+        {
+          "tag": "cabinet-changes",
+          "description": "The chunk details the departure of high-profile cabinet members."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "President",
+          "resolved": true
+        },
+        {
+          "name": "Nomura Bondi",
+          "role": "Cabinet Member",
+          "resolved": true
+        },
+        {
+          "name": "Mike Waltz",
+          "role": "National Security Adviser",
+          "resolved": true
+        },
+        {
+          "name": "Marco Rubio",
+          "role": "US Secretary of State",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Justice Department",
+          "type": "government"
+        },
+        {
+          "name": "FBI",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Hush Money Trial",
+          "type": "other",
+          "date": "May",
+          "description": "Trump's trial in New York regarding 34 counts of fraud.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the political instability and cabinet changes within the Trump administration, noting that Bondi's tenure faced scrutiny over investigations, and mentioning Trump's ongoing appeal after his hush money trial conviction.",
+      "key_terms": [
+        "Trump administration",
+        "Bondi",
+        "Justice Department",
+        "hush money trial",
+        "cabinet changes",
+        "federal immigration agents"
+      ],
+      "raw_text": "He said in a social media post addressed directly to Bondi: \"We can't delay any longer, it's killing our reputation and credibility.\" The justice department under her tenure faced questions over its handling of the investigation into federal immigration agents fatally shooting two people during confrontations in Minneapolis, Minnesota, which sparked nationwide demonstrations in January. With Trump's announcement, Bondi becomes the third high-profile member of Trump's cabinet to leave this term, following Noem and, last year, National Security Adviser Mike Waltz - whose duties were given to US Secretary of State Marco Rubio. The relatively intact inner circle of this Trump presidency stands in stark contrast to his first term in office between 2017-21, which was a revolving door of firings and replacements. She also publicly supported him by showing up at court during his hush money trial in New York, which ended in May with a conviction of 34 counts of fraud. Trump is appealing against the verdict."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_3",
+    "chunk_index": 3,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at;_campaign=rss",
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "War/Conflict",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "iranian-desperation",
+          "description": "Describes the emotional state of Iranians following a month of war."
+        },
+        {
+          "tag": "war-reporting",
+          "description": "Indicates the content is a news report about a conflict."
+        },
+        {
+          "tag": "bbc-news",
+          "description": "Identifies the source of the article as BBC News."
+        },
+        {
+          "tag": "conflict-impact",
+          "description": "Focuses on the human cost and impact of the war on civilians."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [],
+      "events": [
+        {
+          "name": "War in Iran",
+          "type": "other",
+          "date": null,
+          "description": "A conflict that has been ongoing for one month, causing desperation among the population.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article, titled 'I haven't slept for days': Iranians describe mounting desperation after one month of war,' reports on the severe emotional and physical toll the conflict is taking on the Iranian population.",
+      "key_terms": [
+        "Iranians",
+        "desperation",
+        "war",
+        "Iran",
+        "BBC News",
+        "conflict"
+      ],
+      "raw_text": "**Link:** https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at;_campaign=rss\n\n## **Title: 'I haven't slept for days': Iranians describe mounting desperation after one month of war**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_4",
+    "chunk_index": 4,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran"
+      ],
+      "regions": [],
+      "cities": [
+        "Tehran"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Economic Crisis and War Impact",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "economic-hardship",
+          "description": "The chunk details the severe economic crisis and lack of resources faced by the population."
+        },
+        {
+          "tag": "iranian-desperation",
+          "description": "Testimonies describe mounting desperation among Iranians due to the war and economic collapse."
+        },
+        {
+          "tag": "war-impact",
+          "description": "The article discusses the devastating physical and emotional toll of the conflict on civilians."
+        },
+        {
+          "tag": "sanctions",
+          "description": "The role of long-standing international sanctions on Iran is mentioned as a contributing factor to the crisis."
+        },
+        {
+          "tag": "political-unrest",
+          "description": "The population's hope for the war to bring about the fall of the government is highlighted."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Setareh",
+          "role": "Unnamed source/witness",
+          "resolved": false
+        },
+        {
+          "name": "Tina",
+          "role": "Unnamed source/witness",
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "BBC",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "War in Iran",
+          "type": "other",
+          "date": null,
+          "description": "The ongoing conflict causing economic hardship and civilian suffering.",
+          "partial": false
+        },
+        {
+          "name": "Iran-Iraq war",
+          "type": "conflict",
+          "date": "1980s",
+          "description": "A historical conflict mentioned by a source, illustrating past trauma.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article presents testimonies from various Iranians detailing the severe economic hardship, unemployment, and desperation caused by the war and sanctions. Sources express hope that the conflict will lead to the fall of the regime.",
+      "key_terms": [
+        "Iran",
+        "economic hardship",
+        "war",
+        "sanctions",
+        "unemployment",
+        "regime"
+      ],
+      "raw_text": "## **Article:**\n\nShe called out to her workmates: \"I think it's a bomb.\" They left their desks and climbed the stairs to the roof of the building. \"After that, everyone working in the company panicked. People were shouting and screaming and running away. For one to two hours the situation stayed like that complete chaos.\" That same day her boss shut the business and laid off his staff. Despite strict state censorship, the BBC has been able to use trusted sources on the ground to obtain testimony from a range of Iranians in different parts of the country. We cannot give Setareh's real name or say what kind of work she does - no detail that might possibly identify her to the regime's secret police. But we can say that she is a young woman from Tehran who loved going to work, where she could meet her friends, share stories of their lives and, of course, there was the guarantee of weekly wages. \"I can honestly say I haven't slept for several nights and days in a row. I try to relax by taking very strong painkillers so I can sleep. The anxiety is so intense that it has affected my body. When I think about the future and imagine those conditions, I truly don't know what to do.\" By \"those conditions\" she means economic hardship and her fear of future street fighting between the regime and its enemies. The war has cost Setareh her job and she is running out of money. Millions of Iranians are in a similar position. Even before the war, the economy was in deep crisis, with food prices rising by 60% in the previous year. Setareh describes mounting desperation as people run out of resources to survive. \"We cannot afford even basic food. What's in our pockets does not match market prices... Iran has also been under sanctions for years, and the problems created by the Islamic Republic means that during this time we couldn't build any savings, at least enough to survive now or depend on something. To put it simply, the people I thought might have money to lend also don't have anything.\" \"I don't know how this massive wave of unemployment will be handled. There is no support system and the government will do nothing for all these unemployed people. I believe the real war will start if this war ends without any outcome.\" The outcome she wants is the end of the regime. We received information from sources on the ground in six different cities. These were conversations with individuals from a cross-section of society - shopkeepers, taxi drivers, public sector workers and others. All described growing economic pressure and most spoke of their hope that the war might bring about the fall of the government. \"The most important issue is that this war must not reach hospitals. If the conflict continues and infrastructure is targeted and medicines cannot be imported, then we will face very serious problems.\" She is haunted by the images of war that she's witnessed in recent weeks. In the aftermath of bombings, bodies arrived at the hospital \"that were not recognisable... some had no hands, some had no legs - it was horrifying\". \"Because of bombardment in her area - her home was close to a military centre - their house was damaged. When they brought her to the hospital, neither the mother nor the foetus was alive. \"Both had died. She had been just two months away from giving birth but sadly neither she nor her baby survived. It was a very terrible situation.\" It is an image made more poignant by stories from Tina's childhood. Her mother was pregnant with her during the Iran-Iraq war of the 1980s and told her of having to flee to bomb shelters as Iraqi missiles struck their city. Nearly a million people - Iranians and Iraqis, military and civilian - are estimated to have died in the conflict, with Iran suffering the greatest number of casualties. \"Hearing those stories always made me stop and think, to imagine myself in those circumstances and place myself in her situation."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_5",
+    "chunk_index": 5,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "Human Rights Violations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "iranian-dissent",
+          "description": "The chunk discusses the danger faced by those who show dissent in Iran."
+        },
+        {
+          "tag": "political-repression",
+          "description": "The text describes the use of arrests, torture, and executions by the regime."
+        },
+        {
+          "tag": "internal-security-forces",
+          "description": "The regime has deployed its internal security forces to patrol the streets."
+        },
+        {
+          "tag": "human-rights-violations",
+          "description": "The chunk highlights the danger and repression faced by the Iranian people."
+        },
+        {
+          "tag": "regime-control",
+          "description": "The text emphasizes the danger of speaking out due to the regime's control."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [
+        {
+          "name": "regime",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": null,
+          "type": "other",
+          "date": null,
+          "description": "The chunk describes the danger of public dissent in Iran, including arrests, torture, and executions.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk warns that any public dissent in Iran is extremely dangerous, noting that the regime has deployed internal security forces and loyal supporters, leading to arrests, torture, and executions.",
+      "key_terms": [
+        "Iran",
+        "dissent",
+        "regime",
+        "internal security forces",
+        "arrests",
+        "torture",
+        "executions"
+      ],
+      "raw_text": "Now, I find myself in the same kind of situation my mother once faced. I cannot believe how quickly history repeats itself.\" Any public show of dissent in Iran is extremely dangerous. The regime has deployed its internal security forces and loyal supporters to patrol the streets. There are arrests, torture and executions. Iranians have no doubt about the danger they face if they speak"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_6",
+    "chunk_index": 6,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "India"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "Internal Conflict",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "iranian-protests",
+          "description": "The text discusses the ongoing protests and violence in Iran."
+        },
+        {
+          "tag": "political-repression",
+          "description": "The chunk mentions regime repression and the threat of violence."
+        },
+        {
+          "tag": "human-rights-violations",
+          "description": "The text alludes to arrests, torture, and executions in Iran."
+        },
+        {
+          "tag": "geopolitical-tension",
+          "description": "The chunk references US threats and the war with Iran."
+        },
+        {
+          "tag": "civil-unrest",
+          "description": "The narrative focuses on the danger and violence faced by citizens in Iran."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Behnam",
+          "role": null,
+          "resolved": false
+        },
+        {
+          "name": "Donald Trump",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "US",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Iran war",
+          "type": "conflict",
+          "date": null,
+          "description": "The conflict between Iran and external powers.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk describes the personal suffering and resilience of an Iranian individual amidst ongoing protests and repression, while also noting the geopolitical tension caused by US threats against Iran.",
+      "key_terms": [
+        "Iran protests",
+        "regime repression",
+        "Donald Trump",
+        "US threat to Iran",
+        "street violence",
+        "antibiotics"
+      ],
+      "raw_text": "out. He keeps a supply of antibiotics and painkillers in his flat in case there is renewed street violence. He is still in hiding after being shot during the last protests. Holding up an X-ray of his torso, Behnam shows the metal fragments that remain lodged in his body. \"Once you see how easily your life can be threatened - that a simple incident or a twist of fate can mean death or survival - after that, your life no longer holds the same value for you. And that experience makes you care less about yourself.\" \"I will not heal until the day we are free and in a free world [can] look back on the suffering we endured in an unfree world, and in the end laugh at it. I am certain that day will come.\" One month into the war, with US President Donald Trump threatening to bomb Iran \"back to the stone ages\" and regime repression tightening, the time of laughter seems very far away.\n\n**Link:** https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Iran war could make beer and bottled water pricier for Indians**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_7",
+    "chunk_index": 7,
+    "total_chunks": 27,
+    "metadata": {
+      "title": "Iran war could make beer and bottled water pricier for Indians",
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India",
+        "Iran"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Commodity Pricing",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "bottled-water-prices",
+          "description": "The article discusses how bottled water prices are rising due to global supply chain issues."
+        },
+        {
+          "tag": "pet-resin-supply",
+          "description": "The shortage and increased cost of PET resin pellets are impacting bottle manufacturers."
+        },
+        {
+          "tag": "strait-of-hormuz",
+          "description": "The Strait of Hormuz is a critical shipping lane whose blockage by Iran affects global oil prices."
+        },
+        {
+          "tag": "global-oil-prices",
+          "description": "The disruption in global shipping has caused global fuel prices, including crude oil, to soar."
+        },
+        {
+          "tag": "india-summer-demand",
+          "description": "Peak summer months in India lead to a surge in demand for bottled water and beverages."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Vijaysinh Dubbal",
+          "role": "president of the Maharashtra Bottled Water Manufacturers Association",
+          "resolved": true
+        },
+        {
+          "name": "Vaibhav Saraogi",
+          "role": "director of Chemco Plastic Industries Pvt Ltd",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Maharashtra Bottled Water Manufacturers Association",
+          "type": "other"
+        },
+        {
+          "name": "Data for India",
+          "type": "other"
+        },
+        {
+          "name": "Chemco Plastic Industries Pvt Ltd",
+          "type": "corporate"
+        }
+      ],
+      "events": [
+        {
+          "name": "War with Iran",
+          "type": "other",
+          "date": null,
+          "description": "The conflict with Iran is straining India's bottled water industry.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The war with Iran is straining India's bottled water industry by causing global fuel prices to soar, which increases the cost of PET resin pellets. While some brands have absorbed costs so far, manufacturers warn that sustained price increases are inevitable.",
+      "key_terms": [
+        "bottled water",
+        "PET resin",
+        "Strait of Hormuz",
+        "crude oil",
+        "Maharashtra",
+        "Bisleri",
+        "India"
+      ],
+      "raw_text": "## **Article:**\n\nIndians are bracing for summer, with temperatures expected to cross 45C in some parts of the country. But the war with Iran is already putting India's $6bn bottled water industry under strain as manufacturers struggle to access crucial raw materials. Last month, market leader Bisleri increased prices by 11%, making a box of 12 one-litre bottles costlier by 24 rupees ($0.26; £0.20). Brands like Bailley and Clear Premium Water have also increased their prices, Reuters news agency reported. According to a study by Data for India, about 15% of urban households and 6% of rural households depend on bottled water for their drinking needs. Relying on bottled water is expensive, especially for people in rural areas. But access to clean water remains a challenge in many parts of India, especially in summer, due to reasons including water shortages, groundwater contamination and infrastructure gaps. Brands and bottle manufacturers warn that a prolonged war will risk making a crucial commodity prohibitively expensive for many Indians. About 20% of the world's oil and liquefied natural gas usually passes through the narrow Strait of Hormuz, which is now almost completely blocked by Iran. The disruption in global shipping has sent global fuel prices soaring. Vijaysinh Dubbal, president of the Maharashtra Bottled Water Manufacturers Association, explains that the main reason bottled water - which is largely sold in plastic bottles - has become expensive is because of the surging costs of crude oil. The price of a barrel of Brent crude oil briefly hit $119 (£90) earlier this week, close to its highest since the start of the US-Israel war with Iran. Crude oil is used to make Polyethylene Terephthalate (PET) resin pellets - granules that are heated and passed through moulds to create PET preforms. These preforms, which look like plastic test tubes, are sold to brands and bottle manufacturers to be shaped into plastic bottles of the desired shape and size. \"The cost of preforms has increased from 115 rupees a kg to around 180 rupees per kg. There is also a shortage in the supply of preforms,\" Dubbal says, adding that about 20% of bottle manufacturing plants in Maharashtra state have temporarily shut operations. While some companies have increased prices, Dubbal says many brands and vendors have absorbed them so far, shielding consumers. So, the price of a one-litre bottle of drinking water, which sells for about 20 rupees, or that of a five-litre one, which sells for about 60-70 rupees, has largely remained unchanged. \"But absorbing extra costs is not a sustainable practice for companies. If things get worse, customers are likely to face the heat,\" he says. He adds that the strain on supply couldn't have come at a worse time, since there's a surge in demand for bottled water and non-alcoholic beverages during April and May - peak summer months in India. Vaibhav Saraogi, director of Chemco Plastic Industries Pvt Ltd, one of India's largest suppliers of PET preforms, says that a surge in the prices of preforms will impact the entire packaging industry and not just bottled water."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_8",
+    "chunk_index": 8,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Packaging Industry",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "pet-packaging-market",
+          "description": "The chunk discusses the growth and scope of the PET packaging market in India."
+        },
+        {
+          "tag": "glass-bottle-prices",
+          "description": "The text reports a significant surge in glass bottle prices."
+        },
+        {
+          "tag": "beer-industry-india",
+          "description": "The Brewers Association of India is mentioned in relation to price increases."
+        },
+        {
+          "tag": "natural-gas-impact",
+          "description": "The price rise in glass is attributed to fluctuating natural gas supply."
+        },
+        {
+          "tag": "consumer-convenience",
+          "description": "The use of PET packaging is linked to consumer demand for convenience."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Vithob Shet",
+          "role": "CEO of Vitrum Glass",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Brewers Association of India",
+          "type": "other"
+        },
+        {
+          "name": "Vitrum Glass",
+          "type": "other"
+        }
+      ],
+      "events": []
+    },
+    "content": {
+      "chunk_summary": "The chunk details the growth of India's PET packaging market and reports on the 20% surge in glass bottle prices, attributing the increase to fluctuating natural gas supply.",
+      "key_terms": [
+        "PET packaging",
+        "India market",
+        "glass bottle prices",
+        "natural gas",
+        "beer industry"
+      ],
+      "raw_text": "The size of India's PET packaging market was $1.5bn in 2024 and is expected to reach $2.2bn by 2033. Apart from bottled water and beverages, PET packaging is also used extensively in industries like beauty, pharmaceuticals and even in restaurants and food delivery as customers seek out convenience and affordability. Last month, the Brewers Association of India - which represents major global brewers like Heineken and Carlsberg - told Reuters news agency that glass bottle prices have surged around 20%, and that it has asked its member companies to approach states for a 12-15% increase in beer prices (alcohol prices are regulated by different states differently in India). Vithob Shet, CEO of Vitrum Glass, a leading manufacturer and marketer of amber glass bottles - tinted bottles largely used by pharma companies and breweries - says that the price rise is a result of the fluctuating supply of natural gas. Natural gas is used by glass manufacturers to run their furnaces, which melt sand, soda ash, limestone and recycled glass into molten glass blobs which are then shaped into bottles.\n\n**Link:** https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at;_campaign=rss\n\n## **Title: 'Be serious... don't speak every day': Macron criticises Trump approach to Iran war**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_9",
+    "chunk_index": 9,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "United States",
+        "France"
+      ],
+      "regions": [
+        "South Korea"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "emmanuel-macron",
+          "description": "The French president who made critical remarks about the conflict."
+        },
+        {
+          "tag": "donald-trump",
+          "description": "The US President whose contradictory remarks were criticized."
+        },
+        {
+          "tag": "iran-war",
+          "description": "The conflict in Iran that was the subject of the discussion."
+        },
+        {
+          "tag": "nato",
+          "description": "The alliance whose value Macron discussed in relation to commitment."
+        },
+        {
+          "tag": "geopolitical-tensions",
+          "description": "The overall context of international disputes and military actions."
+        },
+        {
+          "tag": "diplomatic-criticism",
+          "description": "Macron's public criticism of Trump's statements."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Emmanuel Macron",
+          "role": "French President",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Brigitte",
+          "role": null,
+          "resolved": false
+        },
+        {
+          "name": "Manuel Bompard",
+          "role": "Hard-left France Unbowed party member",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Nato",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "France Unbowed party",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Iran war",
+          "type": "other",
+          "date": null,
+          "description": "The conflict in Iran that has entered its second month.",
+          "partial": false
+        },
+        {
+          "name": "US strikes on Iran",
+          "type": "other",
+          "date": "June 2025",
+          "description": "US military action on Iran's nuclear facilities.",
+          "partial": false
+        },
+        {
+          "name": "February 2026 war",
+          "type": "other",
+          "date": "February 2026",
+          "description": "A war mentioned in the context of US strikes on Iran.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Emmanuel Macron criticized Donald Trump's contradictory statements regarding the Iran war and questioned the substance of alliances like NATO. He also addressed the US strikes on Iran and the subsequent closure of the Strait of Hormuz by Tehran.",
+      "key_terms": [
+        "Emmanuel Macron",
+        "Donald Trump",
+        "Iran war",
+        "NATO",
+        "Strait of Hormuz",
+        "US strikes",
+        "nuclear facilities"
+      ],
+      "raw_text": "## **Article:**\n\nThe Iran war requires a \"serious\" approach that does not change every day, Emmanuel Macron has said, in an apparent reference to US President Donald Trump's seemingly contradictory remarks about the conflict. \"This is not a show. We are talking about war and peace and the lives of men and women,\" the French president told journalists upon arrival in South Korea for a state visit. \"When you want to be serious you don't say every day the opposite of what you said the day before,\" Macron added. \"And maybe you shouldn't be speaking every day. You should just let things quieten down.\" Macron was answering questions on the US-Israel war in Iran, which has now entered its second month. France and other European countries have supported some of the US operations in the region, but have so far resisted getting dragged into the war. Trump and his administration have so far offered mixed messages on the conflict, at various times suggesting that a ceasefire was near, that the war had already been won or that the US was going to fight on. Macron also addressed Trump's recent comments in which the US president said he was reconsidering his country's membership of Nato. \"Alliances like Nato are valuable because of what is unspoken – meaning the trust behind them,\" Macron said, arguing that casting doubt on one's commitment to the organisation emptied it of its substance. Partners sign agreements and show up if issues arise, Macron added, \"rather than commenting on them every day to say that you will or will not respect them\". \"I feel like there is too much chatter, it's all over the place,\" he said. He added he was unwilling to comment on an operation that the US and the Israelis \"decided on by themselves\", Macron said. \"They then lament that they are alone in an operation they decided on alone. It's not our operation.\" Macron also mentioned the US strikes on Iran in June 2025, which Trump said had \"obliterated\" Iranian nuclear facilities. However, in the wake of the February 2026 war the US president said it was the \"last best chance to strike at Iran's nuclear weapons programme\". \"I remind you that six months ago were told that everything had been destroyed and all had been sorted out,\" Macron noted. He argued that international observers were needed to check the nuclear development situation in Iran, and a framework to prevent further enriching. \"You still have today and you'll still have in the future people who have the know-how, hidden laboratories, etc. So it's not targeted military action even lasting a few weeks which can sort out the nuclear problem for good.\" Trump has been on the offensive against France, which he accuses of failing to help in the war on Iran. At a private lunch on Wednesday, Trump mocked Macron by imitating\n\na French accent and saying that his wife Brigitte \"treats him extremely badly\" and that Macron was still \"recovering from the right to the jaw\". Trump was likely referring to a 2025 video which showed Macron being shoved in the face by Brigitte. Macron dismissed the comments as \"neither elegant nor up to standard\". \"I won't respond to them, they don't deserve a reply,\" he said. The comments on Macron's marriage have been exceptionally badly received in France, where even staunch Macron critics came to his defence. \"For Donald Trump to speak to him like that and to speak of his wife in such a manner - I find that absolutely unacceptable,\" said Manuel Bompard of hard-left France Unbowed party. Tehran has retaliated to the strikes on its territory by closing the Strait of Hormuz, a key waterway which enables the passage of a large proportion of the world's energy supply. In the absence of a quick resolution to the closure, Trump has said the countries most affected by the disruption should solve the problem themselves."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_10",
+    "chunk_index": 10,
+    "total_chunks": 27,
+    "metadata": {
+      "title": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at;_campaign=rss",
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "New York",
+        "New Jersey",
+        "California"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Legal Dispute",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "legal-suit",
+          "description": "The article details a lawsuit filed by Blake Lively against Justin Baldoni."
+        },
+        {
+          "tag": "harassment-allegations",
+          "description": "The core of the dispute involves accusations of sexual harassment on a film set."
+        },
+        {
+          "tag": "movie-industry",
+          "description": "The dispute centers around the filming of the movie It Ends With Us."
+        },
+        {
+          "tag": "judge-ruling",
+          "description": "A federal judge dismissed most of the claims in the lawsuit."
+        },
+        {
+          "tag": "defamation",
+          "description": "Defamation was one of the claims dismissed by the judge."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Blake Lively",
+          "role": "Actress",
+          "resolved": true
+        },
+        {
+          "name": "Justin Baldoni",
+          "role": "Co-star/Defendant",
+          "resolved": true
+        },
+        {
+          "name": "Judge Lewis Liman",
+          "role": "Federal Judge",
+          "resolved": true
+        },
+        {
+          "name": "Sigrid McCawley",
+          "role": "Legal Team Member",
+          "resolved": true
+        },
+        {
+          "name": "Bryan",
+          "role": "Lawyer",
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Wayfarer Studios",
+          "type": "corporate"
+        },
+        {
+          "name": "BBC",
+          "type": "other"
+        },
+        {
+          "name": "CBS",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Harassment Lawsuit",
+          "type": "other",
+          "date": "2024",
+          "description": "Blake Lively sued Justin Baldoni over alleged harassment and smear campaign on a film set.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "A federal judge dismissed most of Blake Lively's claims in her harassment lawsuit against Justin Baldoni, leaving three claims—breach of contract, retaliation, and aiding and abetting—to proceed to a civil trial in New York. The judge ruled that the alleged misconduct did not have a substantial connection to California, where Lively claimed the harassment occurred.",
+      "key_terms": [
+        "Blake Lively",
+        "Justin Baldoni",
+        "harassment lawsuit",
+        "Judge Lewis Liman",
+        "Wayfarer Studios",
+        "civil trial",
+        "It Ends With Us"
+      ],
+      "raw_text": "**Link:** https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Judge dismisses most of Blake Lively claims in harassment suit against Baldoni**\n\n## **Article:**\n\nJudge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni A federal judge has dismissed most of the claims in a sexual harassment lawsuit that actress Blake Lively filed against her It Ends with Us co-star Justin Baldoni. Judge Lewis Liman threw out 10 of 13 allegations in Lively's case, including harassment and defamation. He left in place three claims against Baldoni - breach of contract, retaliation, and aiding and abetting in retaliation - which will now go to a civil trial in New York on 18 May. The Hollywood legal battle began in 2024 when Lively sued Baldoni, accusing him of harassment and a smear campaign on the set of their hit movie. He denied it and counter-sued. A member of Lively's legal team, Sigrid McCawley, told the BBC's US partner CBS the case \"has always been and will remain focused on the devastating retaliation and the extraordinary steps the defendants took to destroy\" the actress' reputation. She noted that the sexual harassment claims were dropped, \"not because the defendants did nothing wrong\", but because of a technicality. Lively plans to testify during the trial, McCawley said, and would continue \"to shine a light on this vicious form of online retaliation\". The BBC has contacted Baldoni's lawyers for comment. A judge last year dismissed Baldoni's $400m (£295m) counter-lawsuit against Lively, which alleged civil extortion, defamation and invasion of privacy. The case stems from interactions between Baldoni and Lively on the set of It Ends With Us, an adaption of a best-selling Colleen Hoover novel. The film features Lively as the main character, Lily Bloom, a young woman who grew up witnessing domestic abuse and finds herself in the same position years later. Lively's legal team have accused Baldoni and his film studio, Wayfarer, of planning to wreck her reputation, including by social media manipulation and using friendly journalists to sow certain narratives. She shared details of the allegations in a New York Times article published before her lawsuit. Lively filed a lawsuit against Baldoni's Wayfarer Studios in December 2024, alleging he sexually harassed her on set and retaliated against her for bringing those complaints, among other allegations. In his 152-page opinion on Thursday, Judge Liman listed a host of reasons for dismissing the many allegations against Baldoni. For one, he said, harassment claims Lively brought against Baldoni under California law did not hold up because the filming - where the misconduct allegedly occurred - took place in New Jersey. \"None of these acts or occurrences provides the 'substantial connection' to California needed to sustain Lively's sexual harassment claims,\" Liman wrote. The judge also said Lively was ineligible to bring certain claims of harassment and retaliation because she was an independent contractor rather than an employee. Lively had also accused Baldoni's lawyer, Bryan"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_11",
+    "chunk_index": 11,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Brazil",
+        "UK",
+        "France",
+        "Australia",
+        "Spain"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Legal/Social Change",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "legal-system",
+          "description": "The chunk discusses changes in laws regarding pet custody after separation."
+        },
+        {
+          "tag": "family-law",
+          "description": "The article addresses shared custody arrangements for pets in separating couples."
+        },
+        {
+          "tag": "brazil",
+          "description": "Brazil is the country implementing new laws for pet custody."
+        },
+        {
+          "tag": "pet-rights",
+          "description": "The legislation reflects the importance people place on their pets."
+        },
+        {
+          "tag": "divorce-law",
+          "description": "The changes impact how pets are handled during divorce proceedings."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Pete Hegseth",
+          "role": "US Defense Secretary",
+          "resolved": true
+        },
+        {
+          "name": "Randy George",
+          "role": "Army Chief of Staff",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Instituto Pet Brasil",
+          "type": "other"
+        },
+        {
+          "name": "Brazilian Congress",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Brazil changes laws allowing separated couples joint custody over pets",
+          "type": "policy-change",
+          "date": null,
+          "description": "Courts in Brazil will determine shared custody arrangements for pets of separating couples.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk contains multiple articles, including one detailing new Brazilian laws allowing shared custody of pets for separating couples. It also provides international comparisons and mentions US Defense Secretary Pete Hegseth asking Army Chief of Staff Randy George to step down.",
+      "key_terms": [
+        "shared custody",
+        "pet laws",
+        "Brazil",
+        "divorce",
+        "Pete Hegseth",
+        "Randy George"
+      ],
+      "raw_text": "Freedman, of defaming her in a series of statements. But Liman said that because those statements and others directly referred to the allegations Baldoni was facing in court, Lively's claim of defamation did not hold up. \"To be sure, much of what Lively complains about is not actionable. The Wayfarer Parties were entitled to engage public relations and crisis management specialists to protect their reputations,\" Liman wrote. \"However, certain conduct at least arguably crossed the line.\" The judge said some of the retaliation claims Lively brought, in which she accuses Baldoni of engaging in a \"co-ordinated campaign\" to attack her character and reputation, were worthy of trial. Shortly after Lively's lawsuit, Baldoni brought defamation cases against Lively, her husband Ryan Reynolds and their publicist, claiming they were aiming to ruin his career and reputation with the allegations, as well as the New York Times. He alleged that Lively \"stole the film\" from him and Wayfarer by threatening not to promote it, and that she and others perpetuated a false narrative that Baldoni had harassed her and launched a smear campaign against her.\n\n**Link:** https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Brazil changes laws allowing separated couples joint custody over pets**\n\n## **Article:**\n\nCourts in Brazil will be able to determine shared custody arrangements for the pets of separating couples under new laws. Lawmakers in the Brazilian Congress viewed the law change as a reflection of the importance people place on their pets. The legislation means that, if a couple separates without reaching an agreement regarding their pet, \"a judge will determine the shared custody arrangement and the equitable distribution of the animal's maintenance expenses between the parties\". Currently, the country of 213 million people has about 160 million pets, according to the Instituto Pet Brasil. For the law to apply to separating couples, the animal must have spent the majority of its life with the pair. Shared custody will not be granted in cases in which one of the parties has a prior criminal record, or a history or risk of domestic violence. Members of Congress said there had been an increase in pet custody disputes in courts, while noting the law responds to \"changes that have occurred in Brazilian society in recent decades\", according to a statement accompanying the law. The statement added that couples with fewer children tend to have closer relationships with their animals, \"often considered true family members\". Currently in the UK, dogs are legally seen as inanimate objects akin to cars, houses or other personal items, meaning custody cases come down to determining who the sole owner is. In 2014, France changed its law so pets were considered \"living and feeling beings\" rather than \"moveable goods\". That change meant couples would be able to fight for shared custody in divorce cases. Australia currently has no legislation on how the courts should navigate living arrangements for pets after a break-up. The most recent example of a pet being given joint custody was in Spain in 2021. A judge granted joint custody of a dog to a separated couple who went to court to determine who the pet should live with.\n\n**Link:** https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Hegseth asks US Army Chief of Staff Gen Randy George to step down**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_12",
+    "chunk_index": 12,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Iran",
+        "Israel"
+      ],
+      "regions": [],
+      "cities": [
+        "south-western Iran"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Military/Economic Conflict",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-military-leadership",
+          "description": "The article discusses the change in the US Army Chief of Staff."
+        },
+        {
+          "tag": "us-iran-conflict",
+          "description": "The text reports on US-Israeli air strikes targeting Iranian steel plants."
+        },
+        {
+          "tag": "economic-sanctions",
+          "description": "The impact of Western sanctions on Iran's economy is mentioned."
+        },
+        {
+          "tag": "military-leadership-change",
+          "description": "The replacement of the Army Chief of Staff is detailed."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Pete Hegseth",
+          "role": "US Defense Secretary",
+          "resolved": true
+        },
+        {
+          "name": "Randy George",
+          "role": "Army Chief of Staff",
+          "resolved": true
+        },
+        {
+          "name": "Sean Parnell",
+          "role": "Chief Pentagon spokesperson",
+          "resolved": true
+        },
+        {
+          "name": "Joe Biden",
+          "role": "former President",
+          "resolved": true
+        },
+        {
+          "name": "Christopher LaNeve",
+          "role": "Army Vice Chief of Staff",
+          "resolved": true
+        },
+        {
+          "name": "Mehran Pakbin",
+          "role": "deputy head of operations at the Khuzestan Steel Company",
+          "resolved": true
+        },
+        {
+          "name": "Abbas Araghchi",
+          "role": "Iranian Foreign Minister",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "CBS News",
+          "type": "other"
+        },
+        {
+          "name": "West Point military academy",
+          "type": "other"
+        },
+        {
+          "name": "World Steel Association",
+          "type": "other"
+        },
+        {
+          "name": "Israel Defense Forces (IDF)",
+          "type": "military"
+        },
+        {
+          "name": "Central Command (Centcom)",
+          "type": "military"
+        },
+        {
+          "name": "Khuzestan Steel Company",
+          "type": "corporate"
+        },
+        {
+          "name": "Mobarakeh Steel Company",
+          "type": "corporate"
+        },
+        {
+          "name": "Islamic Revolution Guard Corps (IRGC)",
+          "type": "military"
+        }
+      ],
+      "events": [
+        {
+          "name": "US-Israel war with Iran",
+          "type": "conflict",
+          "date": null,
+          "description": "The conflict involving the US, Israel, and Iran is mentioned.",
+          "partial": false
+        },
+        {
+          "name": "Air strikes on Iranian steel plants",
+          "type": "conflict",
+          "date": null,
+          "description": "Multiple rounds of US-Israeli air strikes targeted Iran's major steel facilities.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article covers two main topics: the forced retirement of US Army Chief of Staff Randy George and the shutdown of Iran's largest steel plants following US-Israeli air strikes. The strikes are expected to cause major damage to Iran's economy.",
+      "key_terms": [
+        "Pete Hegseth",
+        "Randy George",
+        "Army Chief of Staff",
+        "Iran steel plants",
+        "US-Israel air strikes",
+        "economic sanctions"
+      ],
+      "raw_text": "## **Article:**\n\nUS Defense Secretary Pete Hegseth has asked Army Chief of Staff Randy George to step down from his post, according to CBS News, the BBC's US partner. Chief Pentagon spokesperson Sean Parnell said in a statement on social media that George \"will be retiring from his position as the 41st Chief of Staff of the Army effective immediately\". The Army chief normally serves a four-year term. George, a career military officer who graduated from the West Point military academy, was nominated for the role in 2023 by former President Joe Biden. The latest shakeup comes after Trump said in an address to the nation that the US-Israel war with Iran is expected to conclude \"very shortly\". George served as an infantry officer in the first Gulf War and in recent conflicts in Iraq and Afghanistan. It was not immediately clear why he was being asked to leave. \"We are grateful for his service, but it was time for a leadership change in the Army,\" an unnamed senior defence official told CBS. Pentagon spokesperson Parnell said: \"The Department of War is grateful for General George's decades of service to our nation. We wish him well in his retirement.\" He will be replaced by Army Vice Chief of Staff Gen Christopher LaNeve who will become the acting army chief of staff, according to US media. Parnell said LaNeve is \"a battle-tested leader with decades of operational experience and is completely trusted by Secretary Hegseth to carry out the vision of this administration without fault\". The US Military Academy at West Point posted photos on Wednesday of George meeting with troops, saying he \"shared experience-driven guidance with cadets preparing to lead\".\n\n**Link:** https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Iran's two largest steel plants shut down due to air strikes, companies say**\n\n## **Article:**\n\nIran's two largest steel plants have been shut down due to multiple rounds of US-Israeli air strikes, the companies operating them say. \"Our initial estimate is that restarting these units will take at least six months and up to one year,\" Mehran Pakbin, deputy head of operations at the Khuzestan Steel Company in south-western Iran, was quoted as saying by Iranian media. Mobarakeh Steel Company said its production lines in the centre of the country had \"completely shut down following the high volume of attacks\". The strikes, which Israeli media and Iran's foreign minister said were first launched by Israel in co-ordination with the US last Friday, could cause major damage to Iran's economy. Iran is the 10th biggest producer of steel globally, according to data from the World Steel Association. In addition to using steel domestically for construction and manufacturing, it exports the material across the world. Any halt to production could have major implications to supply chains and businesses across the country, which for years have been affected by comprehensive Western sanctions. The BBC has reached out to the Israel Defense Forces (IDF) and the US military's Central Command (Centcom) for comment. Iranian Foreign Minister Abbas Araghchi said in a social media post on Friday: \"Israel has hit two of Iran's largest steel factories, a power plant and civilian nuclear sites among other infrastructure. Israel claims it acted in co-ordination with the US.\" Israeli media reported that an Israeli security source had said the strikes were expected to cause billions of dollars in damage to the Iranian economy, and that the steel plants were linked to Iran's Islamic Revolution Guard Corps (IRGC). On Thursday, the"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_13",
+    "chunk_index": 13,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Tehran",
+        "Karaj"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Military Conflict",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "iran-us-tensions",
+          "description": "The chunk discusses escalating military tensions between Iran and the US."
+        },
+        {
+          "tag": "missile-attacks",
+          "description": "The text reports on missile and drone attacks launched from Iran."
+        },
+        {
+          "tag": "military-escalation",
+          "description": "The article details the broadening scope of military offensives against Iran."
+        },
+        {
+          "tag": "international-law",
+          "description": "The attacks on health and pharmaceutical facilities raised concerns about international law."
+        },
+        {
+          "tag": "geopolitical-conflict",
+          "description": "The conflict involves multiple regional powers and global security concerns."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Pete Hegseth",
+          "role": "Defence Secretary",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Islamic Republic",
+          "type": "government"
+        },
+        {
+          "name": "United Arab Emirates",
+          "type": "other"
+        },
+        {
+          "name": "Iranian government",
+          "type": "government"
+        },
+        {
+          "name": "Pasteur Institute of Iran",
+          "type": "other"
+        },
+        {
+          "name": "Iran's health ministry",
+          "type": "government"
+        },
+        {
+          "name": "Tofigh Daru Research & Engineering Company",
+          "type": "corporate"
+        },
+        {
+          "name": "IDF",
+          "type": "military"
+        },
+        {
+          "name": "Alborz governor's office",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Missile attacks from Iran",
+          "type": "other",
+          "date": null,
+          "description": "Israeli military reported new incoming missile attacks from Iran.",
+          "partial": false
+        },
+        {
+          "name": "Attack on Pasteur Institute of Iran",
+          "type": "other",
+          "date": "23 March",
+          "description": "A medical research centre in Tehran was attacked, described as a direct assault on international health security.",
+          "partial": false
+        },
+        {
+          "name": "Attack on Tofigh Daru Research & Engineering Company",
+          "type": "other",
+          "date": null,
+          "description": "An attack was reported on a large pharmaceutical company in Iran.",
+          "partial": false
+        },
+        {
+          "name": "Air strikes on bridge linking Tehran to Karaj",
+          "type": "other",
+          "date": "Thursday",
+          "description": "A highway bridge linking the capital Tehran to Karaj was hit by air strikes.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details escalating military tensions, reporting missile attacks from Iran and subsequent strikes by US and Israeli forces on various targets within Iran, including health and pharmaceutical facilities. It concludes with Donald Trump's commentary on the state of Iran.",
+      "key_terms": [
+        "Iran",
+        "Israel",
+        "UAE",
+        "missile attacks",
+        "Donald Trump",
+        "Pasteur Institute",
+        "Tofigh Daru",
+        "Tehran",
+        "military escalation"
+      ],
+      "raw_text": "Israeli military reported several new incoming missile attacks from Iran, while the United Arab Emirates (UAE) said its military had \"engaged with\" 19 missiles and 26 drones launched from Iran. US and Israeli forces look to have been hitting a wider range of targets in Iran in recent weeks, with US President Donald Trump and Defence Secretary Pete Hegseth saying on Wednesday that the US would bring Iran \"back to the stone ages\". The comments sparked concern among Iranians - even those who support US-Israeli intervention against the Islamic Republic - that the scope of the offensive is broadening beyond the Iranian government and military. There have also been attacks on health-linked facilities, with a spokesperson for Iran's health ministry confirming on Thursday that a medical research centre in Tehran - the Pasteur Institute of Iran - was attacked on 23 March. The spokesman described it as \"a direct assault on international health security\" and said it breached the Geneva Conventions. On Tuesday, the Iranian government said there was an attack on one of the largest pharmaceutical companies in Iran - Tofigh Daru Research & Engineering Company - which produces anaesthetic and cancer drugs. The IDF said in a statement that it had carried out the strike and alleged that the company had transferred \"chemical substances, including fentanyl, that were used for research and development of chemical weapons\". Separately, on Thursday, a highway bridge linking the capital Tehran to the nearby city of Karaj was hit by air strikes, Iran's semi-official Fars news agency reported. Two people were killed, according to the deputy for security at the Alborz governor's office. There was no immediate comment from the US military, but Trump wrote on Truth Social: \"The biggest bridge in Iran comes tumbling down, never to be used again.\" \"Much more to follow! IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE, AND THERE IS NOTHING LEFT OF WHAT STILL COULD BECOME A GREAT COUNTRY!\" he added.\n\n**Link:** https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Ancient golden helmet recovered more than a year after Dutch heist**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_14",
+    "chunk_index": 14,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Romania",
+        "Netherlands"
+      ],
+      "regions": [],
+      "cities": [
+        "Assen",
+        "New York City"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Cultural Heritage Recovery",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "golden-helmet",
+          "description": "The article discusses the recovery of a 2,500-year-old golden helmet."
+        },
+        {
+          "tag": "drents-museum",
+          "description": "The theft occurred at the Drents Museum in Assen, Netherlands."
+        },
+        {
+          "tag": "cultural-heritage",
+          "description": "The artifacts were part of an exhibition called \"Dacia - empire of gold and silver\"."
+        },
+        {
+          "tag": "international-theft",
+          "description": "The theft involved artifacts on loan from Romania to a Dutch museum."
+        },
+        {
+          "tag": "legal-proceedings",
+          "description": "The recovery was part of a pre-trial agreement involving suspects' defense lawyers."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Robert van Langh",
+          "role": "director of the Drents Museum",
+          "resolved": true
+        },
+        {
+          "name": "RareI-Petru Stan",
+          "role": "Romanian prosecutor",
+          "resolved": true
+        },
+        {
+          "name": "Corien Fahner",
+          "role": "Dutch public prosecutor",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Drents Museum",
+          "type": "government"
+        },
+        {
+          "name": "Romania's national history museum",
+          "type": "government"
+        },
+        {
+          "name": "Dutch government",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Theft of CoIofeneIti helmet and bracelets",
+          "type": "other",
+          "date": null,
+          "description": "The theft of Romanian artifacts from the Drents Museum in Assen.",
+          "partial": false
+        },
+        {
+          "name": "Recovery of Romanian artifacts",
+          "type": "other",
+          "date": null,
+          "description": "The return of the golden helmet and bracelets to the museum.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "A 2,500-year-old golden helmet and two golden bracelets, stolen from the Drents Museum in Assen, Netherlands, were recovered after over a year. The recovery involved negotiations and a pre-trial agreement, prompting discussions about security for priceless artifacts and involving Romanian and Dutch officials.",
+      "key_terms": [
+        "golden helmet",
+        "Drents Museum",
+        "Romania",
+        "Assen",
+        "cultural artifacts",
+        "theft",
+        "pre-trial agreement"
+      ],
+      "raw_text": "## **Article:**\n\nA 2,500-year-old golden helmet considered one of Romania's greatest treasures has been recovered more than a year after it was stolen during a raid on a Dutch museum. It and two golden bracelets dating back to about 450BC were unveiled as having been returned to the museum on Thursday, secured behind a glass case with two armed police guarding them. A third bracelet has not yet been found. The theft of the CoIofeneIti helmet and bracelets by an armed gang who broke into the Drents Museum in Assen caused outrage in Romania and raised questions about security for priceless artefacts on loan to other countries. \"We are happy that we are now witnessing here the recovery of the Romanian artefacts,\" she added. The treasures had been on loan from Romania's national history museum when they were stolen, as part of an exhibition called \"Dacia - empire of gold and silver\", telling the story of the civilisation and people who lived in present-day Romania before the Roman conquest in 106 AD. Their theft prompted a spat between the two governments that led to the Dutch government paying a reported €5.7m (£5m; $6.5m) in insurance compensation. Robert van Langh, director of the Drents Museum in the northern Netherlands, said the helmet had been slightly dented but could be restored. The bracelets remained in perfect condition, he said. Romanian prosecutor RareI-Petru Stan spoke of the \"major impact\" that the theft had had in his home country, and praised his Dutch colleagues for their \"hard work and keeping the faith\". \"We are continuing the investigation to find the last bracelet,\" he added, \"and we are grateful that we will be able to return this treasure to the Romanian people.\" Dutch public prosecutor Corien Fahner revealed that the helmet and bracelets were handed over to authorities on Wednesday following negotiations involving lawyers for the three\n\nsuspects. Two men in their mid-30s and one aged 21 will face trial later this month and Fahner said the return of the treasures was part of a pre-trial agreement with the suspects' defence lawyers. The men were arrested within days of the gang using explosives to break into the museum, but by then there was no trace of the priceless items. Several Dutch provincial museums have been targeted in recent years because of the difficulty in providing adequate security for priceless artefacts. The helmet and bracelets were in a glass case that provided little resistance to the armed group. In 2024, two works by Andy Warhol were stolen from a gallery in the southern Netherlands, and six years ago a Frans Hals painting called Two Laughing Boys was stolen from a small museum in the central town of Leerdam.\n\n**Link:** https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at;_campaign=rss\n\n## **Title: New York City: Baby shot dead in pram in 'broad daylight', police say**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_15",
+    "chunk_index": 15,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Greece"
+      ],
+      "regions": [
+        "New York City",
+        "Brooklyn"
+      ],
+      "cities": [
+        "New York City",
+        "Athens"
+      ]
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "Gun Violence",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "gun-violence",
+          "description": "The article details a baby being shot and killed due to gang-related gunfire."
+        },
+        {
+          "tag": "new-york-city",
+          "description": "The incident occurred in New York City, specifically in the Williamsburg neighborhood of Brooklyn."
+        },
+        {
+          "tag": "crime-report",
+          "description": "The text provides a detailed police report of the shooting incident."
+        },
+        {
+          "tag": "tragedy",
+          "description": "The article focuses on the devastating loss of a seven-month-old baby."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Kaori Patterson-Moore",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "Lianna Charles-Moore",
+          "role": "Mother of the victim",
+          "resolved": true
+        },
+        {
+          "name": "Jessica Tisch",
+          "role": "New York City Police Commissioner",
+          "resolved": true
+        },
+        {
+          "name": "Zohran Mamdani",
+          "role": "New York City Mayor",
+          "resolved": true
+        },
+        {
+          "name": "Bernius Maldonado",
+          "role": "Witness",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "New York City Police",
+          "type": "government"
+        },
+        {
+          "name": "CBS",
+          "type": "other"
+        },
+        {
+          "name": "New York Post",
+          "type": "media"
+        },
+        {
+          "name": "Woodhull Hospital",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Baby Shot in NYC",
+          "type": "other",
+          "date": "Wednesday",
+          "description": "A seven-month-old girl was shot and killed in New York City during a gang-related shooting.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports on the shooting death of a seven-month-old baby, Kaori Patterson-Moore, in New York City's Brooklyn neighborhood. Police Commissioner Jessica Tisch and Mayor Zohran Mamdani commented on the tragedy, emphasizing the need to combat gun violence.",
+      "key_terms": [
+        "Kaori Patterson-Moore",
+        "New York City",
+        "gun violence",
+        "Brooklyn",
+        "Lianna Charles-Moore",
+        "Jessica Tisch",
+        "gang-related shooting"
+      ],
+      "raw_text": "## **Article:**\n\nA seven-month-old girl was shot and killed while sitting in her pushchair in \"broad daylight\" in New York City, police have said. Police believe the baby, whom they named as Kaori Patterson-Moore, was the unintended victim of a gang-related shooting. Footage from the scene shows two men on a motorcycle riding against the flow of traffic through the Williamsburg neighbourhood of Brooklyn. A man on the back of the vehicle took out a gun and fired \"at least two rounds\", New York City Police Commissioner Jessica Tisch said. The bike crashed and the suspected shooter was apprehended, but a \"massive\" manhunt was under way for the driver, said the police chief. The baby's mother, Lianna Charles-Moore, tearfully told the BBC's US partner CBS: \"She's gone, and I can't ever see her again. \"I can't smell her, can't kiss her. I can't wake up and feed her her bottle. \"I can't dress her. Everything I wanted to do with her, I can't do with her anymore.\" New York City Mayor Zohran Mamdani said: \"A life that had barely begun was taken in an instant. \"Today is a devastating reminder of how much more work there is to be done to combat gun violence across this city.\" Several adults and children, two of whom were in buggies, had been on a street corner when gunfire rang out on Wednesday. \"All the kids started ducking in the corner. The family went to the store and the mom started screaming when she noticed the baby was bleeding from [her] head,\" witness Bernius Maldonado said. Footage from inside the shop, published by the New York Post, shows the moment the child's mother is about to pick up the infant and notices the injuries. The mother then becomes hysterical, and starts jumping up and down with her hands clasped behind her head. Kaori was taken to nearby Woodhull Hospital where she was pronounced dead. Police reported no other people killed or injured in the incident. \"As a mother, I cannot imagine the pain that this family is feeling or the grief that they now carry with them,\" Tisch told a news conference. \"It is unspeakable.\"\n\n**Link:** https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Man dies in storm near Athens as Saharan dust shrouds Crete**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_16",
+    "chunk_index": 16,
+    "total_chunks": 27,
+    "metadata": {
+      "title": "BBC News",
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Greece",
+        "Venezuela"
+      ],
+      "regions": [
+        "Mediterranean"
+      ],
+      "cities": [
+        "Athens",
+        "Crete",
+        "Nea Makri"
+      ]
+    },
+    "classification": {
+      "category": "Society",
+      "sub_category": "Natural Disaster",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "greece-storm-flooding",
+          "description": "A storm hit parts of Greece, causing flooding and high winds."
+        },
+        {
+          "tag": "saharan-dust-crete",
+          "description": "Saharan dust enveloped the Mediterranean island of Crete, disrupting flights."
+        },
+        {
+          "tag": "nea-makri-incident",
+          "description": "A man died in Nea Makri after being swept away by a torrent."
+        },
+        {
+          "tag": "weather-warning",
+          "description": "A red weather warning was issued for Crete due to widespread damage risk."
+        },
+        {
+          "tag": "natural-disaster-reporting",
+          "description": "The article details the impact of severe weather across Greece."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Delcy Rodríguez",
+          "role": "interim president",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Greek fire department",
+          "type": "government"
+        },
+        {
+          "name": "Greek national meteorological service",
+          "type": "government"
+        },
+        {
+          "name": "United States",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Storm Erminio",
+          "type": "other",
+          "date": null,
+          "description": "A storm that flooded streets and closed schools in Greece.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk reports on severe weather in Greece, including flooding and high winds near Athens, and a Saharan dust storm affecting Crete. It also transitions to a separate news item about the US lifting sanctions on Venezuela's interim leader.",
+      "key_terms": [
+        "Greece",
+        "Athens",
+        "Crete",
+        "storm",
+        "flooding",
+        "Saharan dust",
+        "sanctions",
+        "Venezuela"
+      ],
+      "raw_text": "## **Article:**\n\nA man has died near Athens as a storm hits parts of Greece with gale-force winds and flooding, while a Saharan dust storm enveloped the Mediterranean island of Crete. The man was found under a car in the seaside town of Nea Makri early on Thursday, according to the fire department. Storm Erminio has flooded streets, closed some schools and moored ferries. There were also reports in local media of people trapped in their vehicles. On Crete, some flights were disrupted on Wednesday after dust from an African storm filled the air, turning the sky reddy-orange. Greece's national meteorological service warned of \"long-lasting and intense rains and storms\" in most parts of the country on Thursday. Local media reports the man who died in Nea Makri, north-east of the Greek capital, Athens, is believed to have been swept away by a torrent as he tried to cross a flooded street. The man, in his 50s, was later found trapped under a car. The basement of the local police station in Nea Makri was also flooded. A bridge was knocked down on the island of Poros and vehicles have reportedly been swept away. Some schools have also been closed. The Greek fire department received 674 calls for assistance from Wednesday through to the early hours of Thursday morning. The majority were in the Attica region that encompasses Athens, with most calls concerning fallen trees. High winds have kept ferries moored in ports, with Greek media reporting some departures may resume on Thursday, weather permitting. Meanwhile, a red weather warning - meaning widespread damage and risk to life are likely - is now in place in Crete, mainly in the west and south, from midday until late on Thursday night.\n\n**Link:** https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at;_campaign=rss\n\n## **Title: US lifts sanctions on Venezuelan interim leader Delcy Rodríguez**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_17",
+    "chunk_index": 17,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Venezuela",
+        "United States",
+        "Iran"
+      ],
+      "regions": [],
+      "cities": [
+        "Caracas",
+        "New York",
+        "Washington"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Sanctions Relief and Political Transition",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-venezuela-relations",
+          "description": "The article discusses the lifting of US sanctions on Venezuela's interim leader."
+        },
+        {
+          "tag": "political-transition",
+          "description": "The text covers the process of political change and the push for democratic elections in Venezuela."
+        },
+        {
+          "tag": "sanctions-list",
+          "description": "The article mentions the removal of Delcy Rodríguez from the Specially Designated Nationals (SDN) List."
+        },
+        {
+          "tag": "human-rights",
+          "description": "Opposition activists demand the release of political prisoners in Venezuela."
+        },
+        {
+          "tag": "diplomatic-relations",
+          "description": "The text details the reopening of embassies and high-level US delegations to Venezuela."
+        },
+        {
+          "tag": "democracy-advocacy",
+          "description": "The discussion involves calls for free and fair elections and democratic processes."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Delcy Rodríguez",
+          "role": "interim president of Venezuela",
+          "resolved": true
+        },
+        {
+          "name": "Nicolás Maduro",
+          "role": "former president of Venezuela",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Anna Kelly",
+          "role": "White House spokeswoman",
+          "resolved": true
+        },
+        {
+          "name": "Marco Rubio",
+          "role": "US Secretary of State",
+          "resolved": true
+        },
+        {
+          "name": "María Corina Machado",
+          "role": "Opposition leader",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United States",
+          "type": "other"
+        },
+        {
+          "name": "Venezuela",
+          "type": "other"
+        },
+        {
+          "name": "National Assembly",
+          "type": "government"
+        },
+        {
+          "name": "Specially Designated Nationals (SDN) List",
+          "type": "other"
+        },
+        {
+          "name": "Foro Penal",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "US sanctions lift on Delcy Rodríguez",
+          "type": "policy-change",
+          "date": null,
+          "description": "The US lifted sanctions on Venezuela's interim president Delcy Rodríguez.",
+          "partial": false
+        },
+        {
+          "name": "US raid on Maduro",
+          "type": "other",
+          "date": null,
+          "description": "US forces seized Nicolás Maduro and his wife in a military raid in Caracas.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The US lifted sanctions on Venezuela's interim president, Delcy Rodríguez, following a military raid on Nicolás Maduro. While the move was praised by the US government, opposition activists criticized it, demanding the release of political prisoners and emphasizing the need for democratic elections.",
+      "key_terms": [
+        "Delcy Rodríguez",
+        "Nicolás Maduro",
+        "US sanctions",
+        "Venezuela",
+        "political prisoners",
+        "Marco Rubio"
+      ],
+      "raw_text": "## **Article:**\n\nThe United States has lifted sanctions on Venezuela's interim president Delcy Rodríguez. The move comes less than three months after US forces seized the country's previous leader, Nicolás Maduro, and his wife in a military raid in Caracas and took them to New York to face drug trafficking charges. Rodríguez, a close ally of Maduro who served as his vice-president, had been placed on the sanctions list in 2018, with the US accusing her of undermining democracy. She was sworn in as interim president by Venezuela's National Assembly, which is dominated by Maduro loyalists, days after the US raid and has been described by US President Donald Trump as \"a terrific person\". Rodríguez welcomed her removal from the Specially Designated Nationals (SDN) List. Those named on the list have their assets in the US blocked and US nationals are barred from doing business with them. Rodríguez called it \"a significant step in the right direction to normalise and strengthen relations between our countries\" in a post on X. White House spokeswoman Anna Kelly said the move showed the progress that had been made \"between our two countries to promote stability, support economic recovery and advance political reconciliation in Venezuela\". \"As President Trump has said, Delcy Rodríguez is doing a great job and is working with the United States very well,\" Kelly added. Opposition activists in the Venezuelan capital, Caracas, however, were critical of the move, arguing that the US should exert pressure on Rodríguez to release all political prisoners still held in the country's jails. The release of political prisoners had been one of the key demands US Secretary of State Marco Rubio had made of Rodríguez in the wake of Maduro's removal. While the National Assembly has passed an amnesty law and hundreds of detainees have been freed, prisoners' rights group Foro Penal says that almost 500 political prisoners remain behind bars. The lifting of sanctions is the latest sign of warming relations between the Trump administration and Rodríguez's team. Earlier this week, the US officially reopened its embassy in Caracas, seven years after closing it. A Venezuelan diplomatic team has also\n\nbeen dispatched to the US to reopen its embassy in Washington. In the months since Maduro's removal from office, several high-level US delegations have travelled to Venezuela to discuss how the US could expand its access to Venezuela's oil and mineral wealth. Critics of Rodríguez have, however, bemoaned the fact that there has been little talk of democratic elections. Opposition leader María Corina Machado, who has been living in exile since leaving Venezuela to collect the Nobel Peace Prize she was awarded in December, met Rubio on Tuesday. Despite having been sidelined by Trump in favour of Rodríguez, Machado struck an optimistic note, calling the meeting \"excellent\" and praising the US secretary of state's \"dedication to democracy, freedom and Venezuelans' well-being\". Rubio insisted that the US was making progress in Venezuela in an interview with Fox News following the meeting. Pointing to the three-pronged plan he said the US was pursuing, he assured viewers that Venezuela had moved into the second phase: that of recovery. \"Ultimately, there will have to be a transition phase. There will have to be free and fair elections in Venezuela, and that point has to come,\" he said.\n\n**Link:** https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Iranian Nobel laureate suffered suspected heart attack in prison, family says**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_18",
+    "chunk_index": 18,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran"
+      ],
+      "regions": [
+        "north-western Iran"
+      ],
+      "cities": [
+        "Zanjan",
+        "Mashhad",
+        "Tehran"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Human Rights",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "nobel-peace-prize",
+          "description": "Narges Mohammadi won the 2023 Nobel Peace Prize for her activism."
+        },
+        {
+          "tag": "imprisonment",
+          "description": "Mohammadi has spent a significant portion of her life in prison."
+        },
+        {
+          "tag": "human-rights-activism",
+          "description": "She is a prominent human rights activist in Iran."
+        },
+        {
+          "tag": "political-detention",
+          "description": "She was arrested and sentenced on charges related to state security."
+        },
+        {
+          "tag": "medical-concerns",
+          "description": "Her family fears for her life due to suspected heart problems and poor medical care in prison."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Narges Mohammadi",
+          "role": "human rights activist",
+          "resolved": true
+        },
+        {
+          "name": "Hamidreza Mohammadi",
+          "role": "brother",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Defenders of Human Rights Center",
+          "type": "ngo"
+        },
+        {
+          "name": "Human Rights Activists News Agency (HRANA)",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Suspected heart attack",
+          "type": "natural-disaster",
+          "date": null,
+          "description": "Narges Mohammadi suffered a suspected heart attack while in prison.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Narges Mohammadi's brother fears for her life after she suffered a suspected heart attack in Zanjan Prison. He criticizes prison officials for refusing medical transfer and warns that the US-Israeli war has increased the danger for prisoners.",
+      "key_terms": [
+        "Narges Mohammadi",
+        "Zanjan Prison",
+        "heart attack",
+        "human rights",
+        "Iran",
+        "Nobel Peace Prize"
+      ],
+      "raw_text": "## **Article:**\n\nThe brother of Iranian Nobel Peace Prize winner Narges Mohammadi says he fears her life is in imminent danger after she suffered a suspected heart attack in prison in north-western Iran. Hamidreza Mohammadi, who is based in Norway, told the BBC that the 53-year-old human rights activist was found unconscious in her bed by fellow inmates at Zanjan Prison last week. She was taken to the prison infirmary but officials refused to transfer her to a hospital despite her history of heart and lung problems, he said. She also suffers from severe blood pressure fluctuations. He demanded that she be released immediately for a thorough medical examination. He also warned that strikes and explosions near the prison since the start of the US-Israeli war with Iran a month ago had only added to her stress. \"This war has had a terrible effect on prisoners in Iran. If the prison gets hit, if the prisoners need immediate medical attention, they will not get anything and their lives are in danger,\" he told the BBC's Newsday programme. \"It's been really difficult for her family... Her children have gone through a lot. Now they experience a very uncertain time when they don't know even if in the future there will be any peace or if their mother is going to live or die.\" Narges Mohammadi, the vice-president of the Defenders of Human Rights Center in Iran, was awarded the 2023 Nobel Peace Prize for her activism against female oppression in Iran and promoting human rights. She has spent more than a decade of her life in prison. In 2021, she began serving a 13-year sentence on charges of committing \"propaganda activity against the state\" and \"collusion against state security\", which she denied. In December 2024, she was given a temporary release from Tehran's notorious Evin prison on medical grounds. She continued campaigning while undergoing treatment and was arrested in the north-eastern city of Mashhad last December after giving a speech at the memorial ceremony of a fellow human rights activist. Her family said she was taken to hospital after being beaten on the head and neck during the arrest. A few weeks later, protests against Iran's clerical establishment swept across the country. At least 6,508 protesters were killed and 53,000 others arrested in an unprecedented crackdown by security forces on the unrest, according to the US-based Human Rights Activists News Agency (HRANA). In early February, Mohammadi was sentenced by a Revolutionary Court in Mashhad to an additional seven-and-a-half years in prison after being convicted of \"gathering and collusion\" and \"propaganda activities\", her lawyer said. She was transferred without warning the following week to Zanjan prison and has been"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_19",
+    "chunk_index": 19,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "Uganda"
+      ],
+      "regions": [],
+      "cities": [
+        "Tehran",
+        "Kampala",
+        "Zanjan"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Human Rights",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "political-prisoners",
+          "description": "The text discusses the detention and poor treatment of political prisoners in Iran."
+        },
+        {
+          "tag": "medical-emergency",
+          "description": "The chunk details the medical issues and lack of care provided to the detained individuals."
+        },
+        {
+          "tag": "human-rights-law",
+          "description": "The text references Iranian law regarding the release of prisoners during wartime."
+        },
+        {
+          "tag": "detention",
+          "description": "The chunk reports on the arrest and confiscation of electronics from human rights lawyers."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Narges Mohammadi",
+          "role": "Political prisoner",
+          "resolved": true
+        },
+        {
+          "name": "Hamidreza Mohammadi",
+          "role": "Family member/Advocate",
+          "resolved": true
+        },
+        {
+          "name": "Nasrin Sotoudeh",
+          "role": "Human rights lawyer",
+          "resolved": true
+        },
+        {
+          "name": "Mehraveh Khandan",
+          "role": "Daughter of Nasrin Sotoudeh",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Free Narges Coalition",
+          "type": "ngo"
+        },
+        {
+          "name": "BBC",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Arrest of Narges Mohammadi",
+          "type": "other",
+          "date": null,
+          "description": "Narges Mohammadi was detained and faced poor medical treatment in prison.",
+          "partial": false
+        },
+        {
+          "name": "Arrest of Nasrin Sotoudeh",
+          "type": "other",
+          "date": null,
+          "description": "Nasrin Sotoudeh was detained at her home in Tehran.",
+          "partial": false
+        },
+        {
+          "name": "Uganda Ggaba school attack",
+          "type": "natural-disaster",
+          "date": null,
+          "description": "Four children were brutally stabbed and killed at a nursery school in Uganda.",
+          "partial": true
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the poor medical treatment and detention conditions of Narges Mohammadi in Iran, citing her legal team's concerns. It also reports on the separate arrest of human rights lawyer Nasrin Sotoudeh in Tehran and concludes with a headline about a stabbing attack in Uganda.",
+      "key_terms": [
+        "Narges Mohammadi",
+        "Nasrin Sotoudeh",
+        "political prisoners",
+        "Iran",
+        "human rights",
+        "detention",
+        "Uganda"
+      ],
+      "raw_text": "allowed only limited communication with her family since then. Last Sunday, her legal team and one family member were allowed to visit her in prison under heightened surveillance. The Free Narges Coalition said in a statement on Tuesday that \"her general health was extremely poor, and she appeared pale and weak with significant weight loss when brought to the visitation room by a prison nurse\". It then cited Mohammadi's cellmates as saying on 24 March that she had been \"found unconscious in her bed with her eyes rolled back\" and that this lasted for more than an hour. She was carried to the prison infirmary by fellow inmates, where medication was administered to restore her consciousness, the coalition added. \"Despite this medical emergency and evident indications of a heart attack, authorities refused to transfer Mohammadi to a hospital or allow her to visit a specialist.\" Mohammadi also reported that she had suffered debilitating headaches, nausea and double vision since her violent arrest, and that bruises were still visible on her body, according to the coalition. \"According to the Iranian law, in wartime, when they [the authorities] cannot guarantee safety of the prisoners, especially prisoners who are not dangerous to society, they must be allowed to leave the prison until the war is over,\" Hamidreza Mohammadi said. \"But not only [have they not done] it, they have denied all the political prisoners any medical attention, and their excuse is 'it is wartime'. So our demand is that she immediately be released for a thorough medical examination. \"We know her medical history, we know that she has heart problems and pulmonary problems. She must be in a hospital.\" In a separate development on Thursday, the daughter of the prominent Iranian human rights lawyer and Sakharov Prize winner Nasrin Sotoudeh said her mother had been arrested in Tehran. Mehraveh Khandan wrote on Instagram that Sotoudeh, 62, had been detained \"last night while she was home alone\". When relatives later went to the house, they found \"electronic devices, including mum and dad's laptops and phones, had also been confiscated\", she said. Khandan added that she had had no contact with her mother since her arrest and that it was unclear which branch of the security forces was holding her.\n\n**Link:** https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Uganda Ggaba school attack: Four children stabbed to death in Kampala**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_20",
+    "chunk_index": 20,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Uganda"
+      ],
+      "regions": [
+        "East Africa"
+      ],
+      "cities": [
+        "Kampala"
+      ]
+    },
+    "classification": {
+      "category": "Society",
+      "sub_category": "Crime",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "uganda",
+          "description": "The incident occurred in Uganda's capital, Kampala."
+        },
+        {
+          "tag": "nursery-school-attack",
+          "description": "The attack took place at a nursery school in Kampala."
+        },
+        {
+          "tag": "child-murder",
+          "description": "Four young children were killed in the attack."
+        },
+        {
+          "tag": "police-investigation",
+          "description": "Police are investigating the motive and background of the suspect."
+        },
+        {
+          "tag": "kampala",
+          "description": "The city where the tragic incident occurred."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Racheal Kawala",
+          "role": "police spokesperson",
+          "resolved": true
+        },
+        {
+          "name": "Abas Byakagaba",
+          "role": "Police chief",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Uganda Police Force",
+          "type": "government"
+        },
+        {
+          "name": "Ggaba Early Childhood Development Program School",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Nursery school attack",
+          "type": "other",
+          "date": null,
+          "description": "Four children were brutally stabbed and killed at a nursery school in Kampala.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Four young children were brutally stabbed and killed at a nursery school in Kampala, Uganda. Police have detained a 39-year-old suspect and are investigating the crime, which has raised serious concerns about child safety in the region.",
+      "key_terms": [
+        "Uganda",
+        "Kampala",
+        "nursery school attack",
+        "child murder",
+        "police investigation",
+        "Ggaba"
+      ],
+      "raw_text": "## **Article:**\n\nFour children - aged about two and three years old - have been \"brutally stabbed and killed\" at a nursery school in the Ugandan capital, Kampala, police said. The three boys and a girl were killed instantly, said a police spokesperson, who added that the suspect had used more than one knife during the morning attack. A 39-year-old man has been detained and is being questioned as \"investigations continue to establish his motive, background, and any other relevant circumstances surrounding this heinous crime\", according to a Uganda Police Force statement on X. Angry parents had tried to lynch him before he was detained, news agency AFP quotes police spokesperson Racheal Kawala as saying. Videos of the aftermath being shared on social media show images of crowds of angry and distressed people, some believed to be parents seeking news of their children. Kawala said the suspect had recently visited the Ggaba Early Childhood Development Program School to enquire about enrolling a child and was told to return on Thursday. \"He paid for admission [and] after that proceeded and attacked these children, killing four of them instantly,\" she said. The killings happened before 11:00 local time (08:00 GMT), which was when the police responded to a distress call. The other 10 children who were in the school at the time have been handed back to their parents, she added. Investigators are at the scene in the upmarket Ggaba suburb and Kawala said more details would be provided later. Police chief Abas Byakagaba has visited the school and urged the public to remain calm while the\n\npolice continue to do their work. As sunset approached, the mood outside the school, where some staff had gathered and which remained cordoned off, was sombre. The tragic incident has sent shock waves across the country, raising serious concerns about the safety of learners in the East African nation.\n\n**Link:** https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Elon Musk's SpaceX set to go public in $1 trillion share listing**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_21",
+    "chunk_index": 21,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [],
+      "cities": [
+        "Molucca Sea"
+      ]
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Corporate Finance",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "spacex",
+          "description": "SpaceX is a company that makes rockets and space exploration technology."
+        },
+        {
+          "tag": "elon-musk",
+          "description": "Elon Musk is the billionaire associated with SpaceX and other tech ventures."
+        },
+        {
+          "tag": "ipo",
+          "description": "The chunk discusses SpaceX's planned Initial Public Offering."
+        },
+        {
+          "tag": "tech-merger",
+          "description": "The article details the intertwining of Musk's various technology companies."
+        },
+        {
+          "tag": "starlink",
+          "description": "Starlink is a satellite technology developed by SpaceX."
+        },
+        {
+          "tag": "investing",
+          "description": "The company is seeking massive cash infusion through the IPO."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Elon Musk",
+          "role": "Billionaire/Founder",
+          "resolved": true
+        },
+        {
+          "name": "Emily Zheng",
+          "role": "Senior analyst at Pitchbook",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "SpaceX",
+          "type": "corporate"
+        },
+        {
+          "name": "xAI",
+          "type": "corporate"
+        },
+        {
+          "name": "Tesla",
+          "type": "corporate"
+        },
+        {
+          "name": "Nasa",
+          "type": "government"
+        },
+        {
+          "name": "Pitchbook",
+          "type": "other"
+        },
+        {
+          "name": "US Securities and Exchange Commission",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "SpaceX IPO",
+          "type": "other",
+          "date": "June",
+          "description": "SpaceX plans to go public with an Initial Public Offering.",
+          "partial": false
+        },
+        {
+          "name": "Terafab",
+          "type": "other",
+          "date": null,
+          "description": "A massive chipmaking endeavor involving Tesla, xAI, and SpaceX.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that SpaceX is planning an Initial Public Offering (IPO) to raise funds, aiming to become a trillion-dollar company. It also details how Musk is consolidating his companies (SpaceX, xAI, Tesla) and their joint ventures like Terafab.",
+      "key_terms": [
+        "SpaceX",
+        "IPO",
+        "Elon Musk",
+        "xAI",
+        "Tesla",
+        "Terafab",
+        "Starlink"
+      ],
+      "raw_text": "## **Article:**\n\nElon Musk's SpaceX set to be worth $1 trillion with planned public listing Elon Musk's SpaceX is poised to become one of the most valuable publicly traded companies in the world. The firm, which makes rockets, space exploration technology and Starlink satellites, is privately held, but on Wednesday it made a confidential filing with authorities for an initial public offering (IPO), which would allow its shares to be traded on the stock market. The value of SpaceX is expected to surpass $1tn (£751bn) once it goes public. Musk's own holding in SpaceX would put the billionaire on track to become the world's first trillionaire. The BBC has contacted SpaceX for comment. The company is aiming to officially go public sometime in June, according to reports in Bloomberg, Reuters and the New York Times. A confidential IPO filing with the US Securities and Exchange Commission allows a company to avoid immediately revealing information to the public while it requests feedback from the regulator. The next step will be for the firm's executives to hold a \"roadshow\" - meetings with big investors to convince them to buy shares. By making shares of SpaceX available for purchase by the public, the company is looking to raise $50bn or more, according to reports. Earlier this year, SpaceX took over xAI, Musk's artificial intelligence venture. After that all-stock merger, SpaceX is believed to have become the most valuable private company in the world, with an internal valuation of $1.25tn. Recently, Musk's various companies have been becoming increasingly intertwined. Last year, xAI, best known for its chatbot Grok, took over X, the social media platform previously known as Twitter that Musk bought in 2022. Emily Zheng, a senior analyst at Pitchbook, told the BBC that by bringing xAI under SpaceX, Musk could show potential investors that he was consolidating costs and able to easily share resources between his companies. With its large-scale ambitions, SpaceX is in need of a massive cash infusion that going public can provide, Zheng added. The company is racing to keep up with the \"sheer cost of compute, infrastructure, and energy\" needed to expand, she said. Earlier this year, Tesla, Musk's electric vehicle company, revealed it had invested more than $2bn in xAI. The billionaire said a significant share of Tesla's manufacturing would begin to shift toward building robots, which would make use of xAI technology like Grok. Grok is already included in some Teslas as an AI assistant. SpaceX would also partner with Tesla and xAI in the massive chipmaking endeavour Musk announced last month, which he is calling Terafab. \"Tesla, xAI and SpaceX have all done amazing things that people did not think could be done before,\" Musk said in a March presentation discussing Terafab. Musk started SpaceX in 2002 with the aim of reducing the cost of launching crafts into space, mainly by making rockets that could be launched more than once. It first contracted with Nasa in 2006.\n\n**Link:** https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Indonesia earthquake: Magnitude 7.4 quake kills one**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_22",
+    "chunk_index": 22,
+    "total_chunks": 27,
+    "metadata": {
+      "title": "Australia to crack down on gambling ads after years of criticism",
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Indonesia",
+        "Australia"
+      ],
+      "regions": [
+        "Molucca Sea",
+        "North Sulawesi",
+        "Sulawesi",
+        "North Maluku"
+      ],
+      "cities": [
+        "Ternate",
+        "Manado",
+        "Bitung",
+        "Jakarta",
+        "Guam",
+        "Japan",
+        "Malaysia",
+        "Papua New Guinea",
+        "Philippines",
+        "Taiwan"
+      ]
+    },
+    "classification": {
+      "category": "Resources",
+      "sub_category": "Natural Disaster",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "earthquake",
+          "description": "A magnitude 7.4 earthquake struck the Molucca Sea off Indonesia's Ternate island."
+        },
+        {
+          "tag": "tsunami",
+          "description": "The initial earthquake sparked tsunami warnings, though these were later withdrawn."
+        },
+        {
+          "tag": "indonesia",
+          "description": "The disaster occurred in Indonesia, affecting multiple regions including Sulawesi and North Maluku."
+        },
+        {
+          "tag": "natural-disaster",
+          "description": "The event caused significant damage, injuries, and fatalities across the affected areas."
+        },
+        {
+          "tag": "seismic-activity",
+          "description": "The region is known for high levels of seismic activity, leading to strong tremors."
+        },
+        {
+          "tag": "disaster-report",
+          "description": "The article provides detailed accounts of the immediate aftermath and rescue efforts."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Isvara Safitri",
+          "role": "Journalist",
+          "resolved": true
+        },
+        {
+          "name": "Yayuk Oktiani",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Budi Nurgianto",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Admini",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Heyder Affan",
+          "role": "Reporter",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Pacific Tsunami Warning Center",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Antara",
+          "type": "other"
+        },
+        {
+          "name": "BBC Indonesian",
+          "type": "other"
+        },
+        {
+          "name": "AFP news agency",
+          "type": "other"
+        },
+        {
+          "name": "Siloam Hospital",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Magnitude 7.4 earthquake",
+          "type": "natural-disaster",
+          "date": null,
+          "description": "A major earthquake struck the Molucca Sea off Indonesia's Ternate island, killing at least one person.",
+          "partial": false
+        },
+        {
+          "name": "Tsunami warning",
+          "type": "natural-disaster",
+          "date": null,
+          "description": "The Pacific Tsunami Warning Center initially warned of possible tsunami waves along several coasts.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports on a Magnitude 7.4 earthquake that struck off Indonesia's Ternate island, causing casualties and triggering tsunami warnings. It includes firsthand accounts from residents detailing the intensity and chaos of the event.",
+      "key_terms": [
+        "Magnitude 7.4 earthquake",
+        "Molucca Sea",
+        "Indonesia",
+        "Tsunami warning",
+        "Seismic activity",
+        "North Sulawesi",
+        "Budi Nurgianto",
+        "Siloam Hospital"
+      ],
+      "raw_text": "## **Article:**\n\nMagnitude 7.4 earthquake hits off Indonesia, killing one A 7.4-magnitude earthquake struck in the Molucca Sea off Indonesia's Ternate island early Thursday, killing at least one person. The quake, which struck at 06:48 local time (22:48 GMT) at a depth of 35km, sparked tsunami warnings which have since been withdrawn. A 70-year-old woman in North Sulawesi died after being crushed by building debris, and another person broke their leg after jumping off a building, Indonesia's national news agency Antara reported. While the region experiences high levels of seismic activity, some residents told the BBC this was one of the strongest earthquakes they have felt in at least the past six years. The Hawaii-based Pacific Tsunami Warning Center initially warned that tsunami waves less than 0.3m (1 ft) \"were possible\" along the coasts of Guam, Japan, Malaysia, Papua New Guinea, the Philippines and Taiwan. The tsunami alert was lifted after two hours. Journalist Isvara Safitri, who lives in central Manado, recalled how furniture in her room shook for several seconds. \"It was really strong... My head even felt dizzy,\" Safitri told BBC Indonesian. Even the roads outside the house were shaking, she said, adding that the earthquake \"feels like the strongest\" she's experienced over the past six years. Yayuk Oktiani, who lives in Bitung, a city on the north-eastern coast of Sulawesi, said she often experiences tremors, \"but they're never as strong as this one\". Oktiani was at the market when \"everything started shaking\". Several stores experienced power outages and as the tremors got stronger, people fled, she told the BBC. She headed straight for her child's school, which is located \"very close\" to the sea. \"The situation there was chaotic... The teachers immediately told parents to bring their children home, even though they had only just arrived,\" she told the BBC. In Ternate, resident Budi Nurgianto said the walls in his house vibrated for what felt like more than a minute. He rushed outside, into a scene of panic. \"There were many people outside... I even saw some people leaving their house without having finished their shower,\" he told AFP news agency. Manado and Bitung are located on the island of Sulawesi, while Ternate is a volcanic island in the North Maluku province. The epicentre of the quake was roughly midway between Manado and Ternate. At least two aftershocks, with magnitudes 5.5 and 5.2, followed the major quake, with authorities warning of more to come. The national geological agency reported \"damage to buildings and injuries\" about an hour after the initial tremor, but did not provide further detail. Footage from a search and rescue team in Manado shows residents and officials walking through the rubble at a sports complex, with some shouting \"oh my God\". Large pieces of furniture were flung onto the ground, with some metallic structures bent out of shape. A patient at Siloam Hospital in Manado recalled the frantic efforts to evacuate staff and patients. \"We were sitting there drinking tea... [Initially we] didn't realise it was an earthquake. And then we heard a child scream, 'Come down, hurry up,' \" said Admini, 69. Additional reporting by Heyder Affan in Jakarta\n\n**Link:** https://www.bbc.com/news/articles/c62492e925lo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Australia to crack down on gambling ads after years of criticism**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_23",
+    "chunk_index": 23,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Australia",
+        "Burkina Faso"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Policy Change",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "australian-government",
+          "description": "The Australian government announced new reforms to gambling advertising."
+        },
+        {
+          "tag": "gambling-advertising",
+          "description": "The reforms aim to limit when and where gambling ads can appear."
+        },
+        {
+          "tag": "anthony-albanese",
+          "description": "Prime Minister Anthony Albanese spoke about the government's reforms."
+        },
+        {
+          "tag": "gambling-industry",
+          "description": "Powerful gambling agencies opposed the new restrictions."
+        },
+        {
+          "tag": "australian-policy",
+          "description": "The measures include capping TV ads and banning online ads."
+        },
+        {
+          "tag": "human-rights",
+          "description": "The chunk also reports on casualties in Burkina Faso."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Anthony Albanese",
+          "role": "Prime Minister",
+          "resolved": true
+        },
+        {
+          "name": "Kai Cantwell",
+          "role": "chief executive of Responsible Wagering Australia",
+          "resolved": true
+        },
+        {
+          "name": "Tim Costello",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Australian government",
+          "type": "government"
+        },
+        {
+          "name": "Responsible Wagering Australia",
+          "type": "other"
+        },
+        {
+          "name": "Sportsbet",
+          "type": "other"
+        },
+        {
+          "name": "Alliance for Gambling Reform",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Gambling Advertising Reforms",
+          "type": "policy-change",
+          "date": null,
+          "description": "The Australian government announced reforms to limit gambling ads on TV, radio, and online platforms.",
+          "partial": false
+        },
+        {
+          "name": "Casualties in Burkina Faso",
+          "type": "other",
+          "date": null,
+          "description": "Human Rights Watch reported over 1,800 deaths since the junta seized power.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The Australian government announced comprehensive reforms to limit gambling advertising across various platforms, including capping TV ads and banning online ads. The measures were met with strong opposition from the gambling industry, while some advocacy groups felt the changes did not go far enough. The chunk also transitions to reporting on casualties in Burkina Faso.",
+      "key_terms": [
+        "Australia",
+        "gambling advertising",
+        "Anthony Albanese",
+        "Responsible Wagering Australia",
+        "policy reform",
+        "Burkina Faso"
+      ],
+      "raw_text": "## **Article:**\n\nThe Australian government has announced long-awaited gambling advertising reforms, after years of \n\npublic pressure. The suite of measures will further limit when and where gambling ads can appear, as well as who can star in them - but it stops short of a full ban, which had cross-party support and the backing of a range of community groups. Restrictions have been fiercely opposed by powerful gambling agencies, as well as media firms and sports organisations who feared a steep revenue hit. Australians lose more money to gambling, per capita, than anywhere else in the world. A number of countries - like Italy, Belgium and Spain - have introduced total or near-total bans on gambling advertising, and a parliamentary inquiry weighing up reform in Australia recommended similar more than 1000 days ago. In a speech to the National Press Club on Thursday, Prime Minister Anthony Albanese said his government was \"getting the balance right\" with this package. \"Letting adults have a punt if they want to, but making sure our children don't see betting ads everywhere they look.\" Under the reforms, from January 1: TV ads from betting agencies will be capped at three per hour, between 6am and 8:30pm, and banned completely from any live sports broadcasts during those hours Gambling ads will be banned from radio during school pick-up and drop-off times Celebrities and sports players will not be permitted to appear in gambling advertising Gambling ads on online platforms will be banned, unless people have a logged in account, are over 18 and have the option to opt-out Gambling ads will be outlawed in sports venues and on players' and officials' uniforms The government will also crack down on illegal, offshore gaming sites, and ban more types of online gambling - like Keno and apps and websites modelled on poker machines. The measures have already prompted backlash from voices in the gambling industry. In a statement, Responsible Wagering Australia - the peak body for betting agencies - said the new measures are \"draconian\" and set a \"dangerous precedent\". \"Today it's gambling advertising, tomorrow it's alcohol, then it's sugary drinks, fast food, critical minerals and who knows what else comes next,\" chief executive Kai Cantwell said. He accused the government of blindsiding a sector that supports 30,000 jobs and \"provides critical funding to sport, racing and broadcast industries\". A spokesperson from Sportsbet - one of Australia's biggest agencies - said they were concerned the \"overly blunt\" restrictions could have \"unintended consequences\", like driving more Australians towards illegal offshore betting which isn't limited by the same conditions. \"Sportsbet recognises changing community sentiment on gambling advertising and has already taken proactive steps.\" Many of those advocating for change were also unhappy, believing the proposed changes don't go far enough. \"Imagine three cigarette ads per hour,\" Reverend Tim Costello said. \"Australian children deserve to grow up in a country that puts their wellbeing before corporate profits.\" His Alliance for Gambling Reform were among groups calling for a full gambling advertising ban on the web and broadcast platforms, and the establishment of a national industry regulator.\n\n**Link:** https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at;_campaign=rss\n\n## **Title: Over 1,800 killed since Ibrahim Traoré took power in Burkina Faso, Human Rights Watch says**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_24",
+    "chunk_index": 24,
+    "total_chunks": 27,
+    "metadata": {
+      "title": "Over 1,800 killed since Ibrahim Traoré took power in Burkina Faso, Human Rights Watch says",
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Burkina Faso"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Human Rights",
+      "sub_category": "War Crimes",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "burkina-faso",
+          "description": "The country where the reported killings took place."
+        },
+        {
+          "tag": "human-rights-watch",
+          "description": "The rights group that published the report."
+        },
+        {
+          "tag": "ibrahim-traoré",
+          "description": "The leader of Burkina Faso mentioned in the report."
+        },
+        {
+          "tag": "war-crimes",
+          "description": "The alleged nature of the abuses reported."
+        },
+        {
+          "tag": "jihadist-militants",
+          "description": "The group blamed for some of the killings."
+        },
+        {
+          "tag": "command-responsibility",
+          "description": "The legal concept HRW suggests for investigating leaders."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Ibrahim Traoré",
+          "role": "President of Burkina Faso",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Human Rights Watch",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Killings in Burkina Faso",
+          "type": "other",
+          "date": "January 2023 and August 2025",
+          "description": "Reported killings of civilians in Burkina Faso since the junta seized power.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "A new report by Human Rights Watch states that over 1,800 civilians have been killed in Burkina Faso since Ibrahim Traoré seized power, alleging acts amounting to war crimes and crimes against humanity.",
+      "key_terms": [
+        "Burkina Faso",
+        "Human Rights Watch",
+        "Ibrahim Traoré",
+        "war crimes",
+        "civilians",
+        "command responsibility"
+      ],
+      "raw_text": "## **Article:**\n\nOver 1,800 killed since junta seized power in Burkina Faso, rights group says More than 1,800 civilians have been killed in Burkina Faso since Ibrahim Traoré seized power three years ago in acts amounting to \"war crimes and crimes against humanity\", a new report says. Human Rights Watch (HRW) says about 1,837 civilians, including dozens of children, were killed in 57 incidents between January 2023 and August 2025. It attributes most of the killings - 1,255 - to the military and allied militias, with the rest blamed on Islamist militants. HRW finds President Traoré and six senior military commanders \"may be liable as a matter of command responsibility for grave abuses and should be investigated\". It also says five jihadist leaders may be culpable. The BBC has asked the Burkinabé authorities to comment on the"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_25",
+    "chunk_index": 25,
+    "total_chunks": 27,
+    "metadata": {
+      "title": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at;_campaign=rss",
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Burkina Faso"
+      ],
+      "regions": [],
+      "cities": [
+        "Djibo"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Human Rights Crisis",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "burkina-faso-crisis",
+          "description": "The chunk discusses the ongoing conflict and human rights abuses in Burkina Faso."
+        },
+        {
+          "tag": "jihadist-groups",
+          "description": "The text mentions the presence and actions of jihadist groups like JNIM and those linked to al-Qaeda."
+        },
+        {
+          "tag": "war-crimes",
+          "description": "The report accuses all sides of committing war crimes, including willful killing and attacks on civilians."
+        },
+        {
+          "tag": "international-criminal-court",
+          "description": "HRW is urging the ICC to open a preliminary investigation into alleged crimes."
+        },
+        {
+          "tag": "military-junta",
+          "description": "The chunk details the actions and accusations against the military junta in Burkina Faso."
+        },
+        {
+          "tag": "sanctions",
+          "description": "HRW calls on partners and donors to impose sanctions on Burkina Faso's army."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Philippe Bolopion",
+          "role": "HRW's executive director",
+          "resolved": true
+        },
+        {
+          "name": "Traoré",
+          "role": "Leader of the military government",
+          "resolved": true
+        },
+        {
+          "name": "Paul-Henri Sandaogo Damiba",
+          "role": "Former leader overthrown by Traoré",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Human Rights Watch",
+          "type": "ngo"
+        },
+        {
+          "name": "International Criminal Court",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Volunteers for the Defence of the Fatherland",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Conflict in Burkina Faso",
+          "type": "conflict",
+          "date": "September 2022",
+          "description": "The military government seized power after overthrowing Paul-Henri Sandaogo Damiba.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "A Human Rights Watch report details the scale of atrocities and war crimes in Burkina Faso, accusing the military junta and jihadist groups of abuses. HRW is urging the International Criminal Court to investigate the alleged crimes committed by all parties since September 2022.",
+      "key_terms": [
+        "Burkina Faso",
+        "Human Rights Watch",
+        "jihadist groups",
+        "war crimes",
+        "International Criminal Court",
+        "military junta",
+        "VDP"
+      ],
+      "raw_text": "report. They have dismissed previous accusations that their forces have killed civilians. One of the reasons the military gave for seizing power was to tackle the jihadist groups linked to al-Qaeda who have been waging an insurgency in Burkina Faso and neighbouring countries for over a decade and control huge parts of the country. The report is based on analysis of open-source information, including photos, videos and satellite imagery, and interviews with witnesses and survivors. \"All sides are responsible for the war crimes of willful killing, attacks on civilians and civilian objects, pillage and looting, and forced displacement,\" the report says. It accuses the junta of committing \"horrific abuses\" and failing to hold perpetrators to account while blocking reporting to hide the suffering of civilians caught in the violence. \"The scale of atrocities taking place in Burkina Faso is mind-boggling, as is the lack of global attention to this crisis,\" says Philippe Bolopion, HRW's executive director. The report cites one of the deadliest incidents in December 2023 in which it says the military and allied militias killed more than 400 civilians in the northern town of Djibo. A 35-year-old woman told the rights group that her two daughters died on the spot and bullets injured her and her nine-month-old son. \"Make sure no-one is breathing before heading out,\" she recounted a militia member as saying. Survivors described the killings as brutal and said they continue to suffer deep psychological trauma. \"Many survivors described the killings as 'butchery' and said they were left with deep psychological wounds,\" the report notes. The militias allied with the military are the so-called Volunteers for the Defence of the Fatherland (VDP) - civilians recruited by the junta to support the army's fight against jihadist groups. The junta has been accused of forcing critics to join the group to punish them. Traoré has previously defended conscription, saying that \"individual freedoms [are] not superior to national freedom\" and that \"a nation is not built on indiscipline and disorder\". Since the military government seized power, authorities have been accused of carrying out brutal campaigns increasingly targeting civilians in response to attacks by al-Qaeda affiliate JNIM, the biggest jihadist group in the country. Civilians described to HRW a feeling of being \"caught between a rock and a hard place\", threatened with death by JNIM while also being targeted by government forces. The rights group says JNIM has used widespread threats and violence to dominate and punish communities and has targeted civilians refusing to submit to its authority, whom it accuses of supporting the government. In August 2024, JNIM attackers \"shot dead at least 133 people and injured more than 200 in fewer than two hours\", it says. HRW is now urging the International Criminal Court to open a preliminary investigation into the alleged crimes committed by all the parties since September 2022. It has also called on Burkina Faso's partners and donors to impose sanctions and to refrain from cooperating with the country's army. Traoré seized power in September 2022 after overthrowing Paul-Henri Sandaogo Damiba, who had taken over only nine months earlier. Burkina Faso, like its neighbours Mali and Niger which are also under military rule, has moved away from working with Western countries, especially France, in its fight against the Islamist groups. All three have instead turned towards Russia for military assistance, however the violence has continued unabated. You may also be interested in: BBC Africa podcasts\n\n**Link:** https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at;_campaign=rss\n\n## **Title: Utah teen identified as victim of serial killer Ted Bundy**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "bbc-news-59b1b966",
+    "chunk_id": "bbc-news-59b1b966__chunk_26",
+    "chunk_index": 26,
+    "total_chunks": 27,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "BBC",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Utah",
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Salt Lake City",
+        "Florida"
+      ]
+    },
+    "classification": {
+      "category": "Crime",
+      "sub_category": "Serial Killer Investigation",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "utah",
+          "description": "The state where the cold case was formally closed."
+        },
+        {
+          "tag": "ted-bundy",
+          "description": "The serial killer identified as the perpetrator."
+        },
+        {
+          "tag": "cold-case",
+          "description": "The 51-year-old case involving the murdered teenager."
+        },
+        {
+          "tag": "dna-technology",
+          "description": "The new technology used to identify the victim."
+        },
+        {
+          "tag": "serial-killer",
+          "description": "The type of criminal activity described in the article."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Laura Ann Aime",
+          "role": "Victim of serial killer Ted Bundy",
+          "resolved": true
+        },
+        {
+          "name": "Ted Bundy",
+          "role": "Serial killer",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Sheriff's Department",
+          "type": "government"
+        },
+        {
+          "name": "University of Utah",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Laura Ann Aime's disappearance",
+          "type": "other",
+          "date": "1974",
+          "description": "The disappearance of Laura Ann Aime after leaving a party on Halloween.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Officials in Utah closed a 51-year-old cold case after using new DNA technology to identify Laura Ann Aime, a murdered teenager, as a victim of serial killer Ted Bundy. Bundy, who was executed in Florida in 1989, was linked to numerous killings across the US.",
+      "key_terms": [
+        "Utah",
+        "Ted Bundy",
+        "Laura Ann Aime",
+        "cold case",
+        "DNA technology",
+        "serial killer"
+      ],
+      "raw_text": "## **Article:**\n\nOfficials in Utah have formally closed a 51-year-old cold case after using new DNA technology to identify a murdered teenager as a victim of serial killer Ted Bundy. Laura Ann Aime, 17, disappeared after leaving a party on Halloween in 1974. Her body was discovered about one month later by hikers in the American Fork Canyon. Between February 1974 and February 1978, Bundy murdered at least 30\n\nwomen. He has also been linked to many more killings throughout the country. Before he was executed in Florida in 1989, Bundy confessed to Laura's killing, but since he would not elaborate or give any detail to his actual involvement in her death, \"the Sheriff's Department elected to keep this case open until investigators could prove, without a shadow of doubt\" that he was her killer, the sheriff said in a statement. Bundy is among America's most infamous serial killers, and began his spree by attacking victims throughout the US Pacific north-west. He later killed victims in Colorado, Utah and Florida. At the time of Laura's death, he was living in Salt Lake City and studying law at the University of Utah. The sheriff's statement said Laura was remembered as an \"outgoing free spirit who enjoyed outdoor activities and shared a passion for riding horses, hunting and caring for her several siblings\". Bundy was known to often approach women in public places, gain their trust with his charm or a fake injury, and then lure them to secluded areas and kill them."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  }
+]

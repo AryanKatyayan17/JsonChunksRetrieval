@@ -1,0 +1,2055 @@
+[
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_0",
+    "chunk_index": 0,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": [
+        "Assam",
+        "Tamil Nadu",
+        "Puducherry",
+        "Keralam",
+        "West Bengal",
+        "Chennai",
+        "Mumbai",
+        "Delhi",
+        "Kolkata",
+        "Hyderabad"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Political Party Dynamics",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "aam-aadmi-party",
+          "description": "The political party involved in the leadership dispute."
+        },
+        {
+          "tag": "raghav-chadha",
+          "description": "The individual who addressed the public after being removed from a key party post."
+        },
+        {
+          "tag": "rajya-sabha",
+          "description": "The upper house of India's Parliament where the dispute occurred."
+        },
+        {
+          "tag": "political-leadership",
+          "description": "The core issue of the chunk is the internal power struggle within the AAP."
+        },
+        {
+          "tag": "political-campaigning",
+          "description": "The chunk mentions the individual's absence from upcoming election campaigns."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Raghav Chadha",
+          "role": "Deputy Leader (former)",
+          "resolved": true
+        },
+        {
+          "name": "Arvind Kejriwal",
+          "role": "Former Delhi Chief Minister",
+          "resolved": true
+        },
+        {
+          "name": "Ashok Mittal",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Aam Aadmi Party",
+          "type": "ngo"
+        },
+        {
+          "name": "Rajya Sabha",
+          "type": "government"
+        },
+        {
+          "name": "The Indian Express",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "AAP leadership dispute",
+          "type": "other",
+          "date": null,
+          "description": "Dispute over Raghav Chadha's role and speaking time within the Aam Aadmi Party.",
+          "partial": false
+        },
+        {
+          "name": "Gold Price Reporting",
+          "type": "other",
+          "date": "03-04",
+          "description": "Reporting of gold and silver rates in various Indian cities.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk contains two distinct articles: the first details Raghav Chadha's public message after his removal from a key AAP post, criticizing the party's actions. The second reports the gold and silver rates in various Indian cities as of April 3rd.",
+      "key_terms": [
+        "Raghav Chadha",
+        "Aam Aadmi Party",
+        "Rajya Sabha",
+        "Gold Rate",
+        "Silver Price",
+        "Political Dispute"
+      ],
+      "raw_text": "**Link:** https://indianexpress.com/article/india/raghav-chadha-silenced-not-defeated-video-mesage-aap-r ajya-sabha-10616617/\n\n## **Title: ‘Silenced, not defeated’: Raghav Chadha’s first message after removal from AAP Rajya Sabha deputy leader’s post**\n\n## **Article:**\n\nHe questioned: “I have always raised the people’s issues. Have I done something wrong?” In the video, he sought to tell the AAP leadership: “The Aam Aadmi Party has asked the Rajya Sabha to not let Raghav Chadha speak. But why? I always spoken for the common man. I have raised issues, such as expensive food at airports, telecom firms overcharging us, toll plaza and bank loots, gig workers’ problems, etc. After raising these issues the common man was benefited. But what has the AAP lost? Why am I being silenced?” Chadha’s message came a day after the AAP wrote to the Rajya Sabha secretariat, urging to appoint Ashok Mittal as his replacement for the post of the Deputy Leader in the Upper House. AAP insiders, however, told The Indian Express that the party had not requested any reduction in Chadha’s speaking time as a Member of Parliament. Party sources suggested that Chadha is unlikely to face formal suspension and may continue as one of AAP’s 10 Rajya Sabha MPs for now. ALSO READ | Raghav Chadha’s ‘evil eye’ video message after AAP removes him from key post Chadha missing from party affairs The indications of the party’s discontent had been there for some time. Last week, Chadha, once seen as a close aide of former Delhi Chief Minister Arvind Kejriwal, was missing from the AAP’s star campaigners’ list for the upcoming Assembly elections in Assam, Tamil Nadu, Puducherry, Keralam, and West Bengal. The development comes against the backdrop of Chadha’s prolonged absence from party affairs and his silence on key issues perceived to be important for the party. He has also been missing from several public engagements led by Kejriwal. While sources maintained there was no single trigger behind the decision, they said the party had been waiting before making a move, adding that the timing still came as a surprise. Story continues below this ad\n\n**Link:** https://indianexpress.com/article/india/gold-rate-today-april-3-check-18-22-and-24-carat-gold-pric es-in-chennai-bangalore-mumbai-delhi-kolkata-hyderabad-and-other-cities-10616555/\n\n## **Title: Gold Rate Today, April 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities**\n\n## **Article:**\n\nGold Rate Today: Gold Prices in India edged lower on April 3 due to limited currency movement. Data from Good Returns shows 24-carat gold (99.9% purity) is priced at Rs 14,896 per gram, while 22-carat gold stands at Rs 13,654 per gram. The rate for 18-carat gold is Rs 11,172 per gram. Silver, too, saw a marginal dip, with the white metal trading at Rs 249.90 per gram, or Rs 2,49,900 per kilogram, indicating a slight softening in global prices. Domestic bullion prices track international rates and currency movements, particularly the rupee against the US dollar. Changes in global prices are reflected in local markets, with minor variations across cities due to taxes and other charges."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_1",
+    "chunk_index": 1,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "33 days, no answers: Family of India’s first West Asia war casualty moves Bombay HC to bring sailor’s body home",
+      "url": "https://indianexpress.com/article/india/33-days-no-answers-family-of-indias-first-west-asia-war-ca sualty-moves-bombay-hc-to-bring-sailors-body-home-10616169/",
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "West Asia"
+      ],
+      "cities": [
+        "Bombay"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Legal Dispute",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "legal-action",
+          "description": "The family filed a case in the Bombay High Court."
+        },
+        {
+          "tag": "war-casualty",
+          "description": "The case concerns the body of a sailor who was a casualty of a war in West Asia."
+        },
+        {
+          "tag": "indian-navy",
+          "description": "The incident involves a sailor who served in the Indian Navy."
+        },
+        {
+          "tag": "legal-dispute",
+          "description": "The family is seeking legal action to repatriate the body."
+        },
+        {
+          "tag": "indian-express",
+          "description": "The article is published by the Indian Express."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Family of India’s first West Asia war casualty",
+          "role": "Plaintiff/Petitioner",
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bombay HC",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Repatriation of War Casualty Body",
+          "type": "other",
+          "date": null,
+          "description": "The family moved the Bombay High Court to bring the sailor's body home after 33 days.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that the family of India's first West Asia war casualty has filed a case in the Bombay High Court to bring the sailor's body home after 33 days.",
+      "key_terms": [
+        "Bombay HC",
+        "West Asia war casualty",
+        "sailor's body",
+        "Indian Navy",
+        "repatriation",
+        "legal action"
+      ],
+      "raw_text": "**Link:** https://indianexpress.com/article/india/33-days-no-answers-family-of-indias-first-west-asia-war-ca sualty-moves-bombay-hc-to-bring-sailors-body-home-10616169/\n\n# **Title: 33 days, no answers: Family of India’s first West Asia war casualty moves Bombay HC to bring sailor’s body home**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_2",
+    "chunk_index": 2,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India",
+        "Oman"
+      ],
+      "regions": [],
+      "cities": [
+        "Bombay",
+        "Dubai",
+        "Sharjah"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Legal Dispute",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "legal-action",
+          "description": "The family filed a petition in the Bombay High Court regarding the recovery of the body."
+        },
+        {
+          "tag": "maritime-incident",
+          "description": "The incident involved a tanker hit by what was described as a missile strike off the Oman coast."
+        },
+        {
+          "tag": "repatriation-of-remains",
+          "description": "The core issue is the delay in recovering and repatriating the deceased seafarer's remains."
+        },
+        {
+          "tag": "ministry-of-external-affairs",
+          "description": "The MEA provided updates on Indian casualties in the region since the war broke out."
+        },
+        {
+          "tag": "constitutional-right",
+          "description": "The plea cites Article 21 of the Constitution regarding the right to dignity."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Amratlal",
+          "role": "Family member of the casualty",
+          "resolved": true
+        },
+        {
+          "name": "Solanki",
+          "role": "Oiler aboard MT MKD Vyom",
+          "resolved": true
+        },
+        {
+          "name": "Dixit",
+          "role": "Crew member",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ministry of External Affairs",
+          "type": "government"
+        },
+        {
+          "name": "Ministry of Ports, Shipping and Waterways",
+          "type": "government"
+        },
+        {
+          "name": "Directorate General of Shipping",
+          "type": "government"
+        },
+        {
+          "name": "V Ships India Pvt Ltd",
+          "type": "corporate"
+        },
+        {
+          "name": "Indian Consulate in Dubai",
+          "type": "government"
+        },
+        {
+          "name": "Sharjah Police",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Tanker Incident",
+          "type": "other",
+          "date": "March 1",
+          "description": "MT MKD Vyom was hit by a missile strike off the Oman coast.",
+          "partial": false
+        },
+        {
+          "name": "Indian Casualties in Region",
+          "type": "other",
+          "date": "February 28",
+          "description": "The start of the war leading to multiple Indian casualties in the region.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article details a family's legal struggle in the Bombay High Court to recover the remains of a seafarer, citing issues of dignity and delay. It names multiple government and corporate respondents involved in the incident that occurred off the Oman coast.",
+      "key_terms": [
+        "Bombay High Court",
+        "seafarer repatriation",
+        "MT MKD Vyom",
+        "Ministry of External Affairs",
+        "Oman coast",
+        "Article 21"
+      ],
+      "raw_text": "## **Article:**\n\nThe respondents include the Ministry of External Affairs, the Ministry of Ports, Shipping and Waterways, the Directorate General of Shipping, and V Ships India Pvt Ltd, which manages the vessel. “It has been 33 days. I want answers. What exactly happened to my son? I can’t imagine how he suffered, whether he was still alive, whether he was left there to die. All we want is his remains with valid certificates and an entire investigation report of the incident along with photo and video evidence,” Amratlal told The Indian Express. Solanki, who worked as an oiler aboard MT MKD Vyom, was on duty on March 1 when the vessel was hit by what the company described as a missile strike that led to an explosion and a breach in the engine room. According to a detailed incident report dated March 2, Dixit was initially reported missing but was later located near the site of the hull breach. He was declared deceased by the ship’s master. All the other 21 crew members were reported safe and unharmed. At the time, the ship was drifting approximately 50 nautical miles off the Oman coast. A towing vessel, Advantis Virgo, was dispatched to bring the damaged tanker to a port of refuge. Story continues below this ad As on March 30, eight Indian nationals have lost their lives while one remains missing in “various incidents” in the region since the war broke out on February 28, according to the Ministry of External Affairs. Of the eight, three were seafarers, it said. In the days following the incident, the family says they struggled to get clear answers. According to the petition, Mitali Solanki, after initial communication from company officials, repeatedly wrote seeking updates on his condition and then recovery of his body. Over nearly two weeks, the family received a series of almost identical replies by emails — on March 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16 and 17 — stating that efforts were underway to recover and repatriate the remains, but without providing specific details or timelines. “V Ships’ top priority remains the recovery and repatriation of Mr. Dixit A. Solanki’s mortal remains, and every possible effort is being made to expedite this process,” said one of those emails. On March 18, the company informed the family that the remains had been retrieved and were with forensic authorities. Subsequent emails reiterated this, but, according to the petition, no documentation or clear timeline was shared. It was only later, through communication from the Indian Consulate in Dubai, that the family was informed that skeletal remains had been recovered and were to be handed over to Sharjah Police local authorities for formalities related to the issuance of a death certificate. Story continues below this ad At the heart of the petition is a question of dignity. Citing Article 21 of the Constitution, the plea argues that the right to dignity extends even after death, and that authorities have a duty to ensure the timely return of mortal remains to the family. It also refers to legal obligations under maritime regulations and guidelines that require proper handling and repatriation in cases of death at sea. The family has sought directions to authorities to expedite the process, provide all relevant records, and preserve the remains until they are handed over. “The petitioner submits that one month has passed since the date of the alleged incident. The petitioners are running from pillar to post to get the correct state of affairs and repatriation of the mortal remains of the deceased for performing the after rites. However, the authorities are just passing the buck from one to another,” the petition states. Reached for a comment on the delay in repatriating Dixit’s remains, an MEA official told this newspaper: “Some"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_3",
+    "chunk_index": 3,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "UAE"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Repatriation of Remains",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "repatriation-of-remains",
+          "description": "The discussion revolves around the process of repatriating mortal remains."
+        },
+        {
+          "tag": "legal-procedures",
+          "description": "The delay is attributed to multiple layers of legal procedures."
+        },
+        {
+          "tag": "consular-assistance",
+          "description": "The Indian consulate and embassy are responsible for the entire repatriation process."
+        },
+        {
+          "tag": "diplomatic-process",
+          "description": "The process involves coordination between multiple governmental bodies."
+        },
+        {
+          "tag": "v-ships-spokesperson",
+          "description": "A spokesperson for V Ships provided updates on the situation."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Dixit Solanki",
+          "role": "Deceased",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Indian consulate",
+          "type": "government"
+        },
+        {
+          "name": "Indian embassy",
+          "type": "government"
+        },
+        {
+          "name": "V Ships",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Repatriation of Dixit Solanki's remains",
+          "type": "other",
+          "date": null,
+          "description": "The process of bringing back the mortal remains of Dixit Solanki.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "A V Ships spokesperson stated that the repatriation of Dixit Solanki's remains is complicated due to multiple legal procedures and formalities. They emphasized that the Indian consulate and embassy are responsible for the entire process, and they are following local authorities' guidelines.",
+      "key_terms": [
+        "repatriation",
+        "Dixit Solanki",
+        "V Ships",
+        "Indian consulate",
+        "legal procedures",
+        "mortal remains"
+      ],
+      "raw_text": "things are not in our hands, it is a difficult situation. There are multiple layers of legal procedures, it takes time. There is a problem with the flight, there are formalities there too. The Indian consulate concerned and the embassy are responsible for the entire process of repatriation. UAE is responsible to give legal papers only. It is in the process and it is difficult to commit a date for repatriation of remains.” V Ships spokesperson said, “We have done everything possible from our end, our first priority is the safe repatriation of Dixit Solanki’s mortal remains, however some things are not in our control. We are following the local authorities guidelines. We are trying our best. We can’t tell you the exact cause of the delay. We will communicate with the family. We cannot share the photos and videos of the ship and mortal remains. Our priority is to inform the family first and we are in touch with them.”\n\n**Link:** https://indianexpress.com/article/india/kerala-assembly-polls-in-industrial-hub-on-comeback-trailsnapshots-of-a-campaign-10616357/\n\n## **Title: Kerala Assembly polls: In industrial hub on comeback trail, snapshots of a campaign**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_4",
+    "chunk_index": 4,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": [
+        "Kalamaserry",
+        "Kochi"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Election Campaign Coverage",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "political-campaign",
+          "description": "The chunk describes the campaign activities and rivalries in a local election."
+        },
+        {
+          "tag": "kerala-politics",
+          "description": "The article focuses on political figures and developments within Kerala."
+        },
+        {
+          "tag": "election-coverage",
+          "description": "It provides snapshots of the campaign strategies of various candidates."
+        },
+        {
+          "tag": "development-focus",
+          "description": "The candidates emphasize developmental projects and infrastructure improvements."
+        },
+        {
+          "tag": "political-rivalry",
+          "description": "The text contrasts the promises and strategies of the main candidates."
+        },
+        {
+          "tag": "local-politics",
+          "description": "The coverage is centered on a specific constituency's political landscape."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Rajeev",
+          "role": "Candidate/Minister",
+          "resolved": true
+        },
+        {
+          "name": "Swami Sandeepananda Giri",
+          "role": "Celebrity/Spiritualist",
+          "resolved": true
+        },
+        {
+          "name": "Prakash Karat",
+          "role": "Party Stalwart",
+          "resolved": true
+        },
+        {
+          "name": "V E Abdul Gafoor",
+          "role": "Candidate",
+          "resolved": true
+        },
+        {
+          "name": "V K Ibrahim Kunju",
+          "role": "Public Works Minister/MLA",
+          "resolved": true
+        },
+        {
+          "name": "M B Binu",
+          "role": "Candidate",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "JD(U)",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Congress-led coalition",
+          "type": "other"
+        },
+        {
+          "name": "Muslim League",
+          "type": "other"
+        },
+        {
+          "name": "Bharath Dharma Jana Sena",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Kerala Assembly polls",
+          "type": "election",
+          "date": null,
+          "description": "The article covers the campaign for the Kerala Assembly polls.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article provides a detailed snapshot of the election campaign in Kalamasserry, highlighting the developmental promises and strategies of the main candidates, Rajeev and V E Abdul Gafoor, while also mentioning the influence of various political and social groups.",
+      "key_terms": [
+        "Kerala Assembly polls",
+        "Kalamasserry",
+        "Rajeev",
+        "V E Abdul Gafoor",
+        "developmental promises",
+        "election campaign"
+      ],
+      "raw_text": "## **Article:**\n\nBefore this one sinks in comes the next on how Rajeev revived the Cochin Cancer Research Centre, long in limbo. In half an hour with the two comrades in arms, you get a political CV that merits lifelong voter loyalty. In 10 years as MLA, of which the last five have been as minister, Rajeev has done a Deng if not a Xi in Kalamaserry, says a third enthusiast, referring to Chinese President Deng Xiaoping, who ushered in economic reforms, and current President Xi Jinping. A longtime resident of this early industrial township, this elder has seen ventures in their bloom till the 1970s and then the painful decline. The place eventually fell off the map, and the state’s IT and tourism initiatives bypassed it. In the last 10 years, the township has visibly recovered, spurred by the parallel boom of adjoining Kochi. The old-world business capital of Kerala has lately come alive as a true metropolis showcasing multiple ventures from rail and water metros to the country’s only art Biennale. Kalamassery has just what the water-bound, land-scarce Kochi needs: surplus land waiting to be freed up from the hold of stagnant industry. This is where Rajeev comes in. Is there a vision paper? The answer is drowned by a sudden commotion in the gathering. A celebrity arrives in a black BMW. Secular spiritualist Swami Sandeepananda Giri has come to cheer the candidate. Rajeev is known for his wide range of friends. Closer to the polling day (April 9), his voters will see a true sample of this fraternal spectrum in the constituency. From party stalwart Prakash Karat to literary and film stars, many of the minister’s friends are scheduled to come and speak. Everything about the campaign is well managed, except the time. The candidate is several minutes late. A youngster in the audience, accompanying his mother, quips, “Gift Rajeev uncle an HMT watch.” Before one can check if the local HMT unit makes watches, “uncle” arrives. He makes up for lost time by cutting down the speech to a pithy statement on his idea of composite development that is “incomplete without high social, cultural and secular values”. Next noon, elsewhere in the constituency, Rajeev’s main rival, the Muslim League’s V E Abdul Gafoor, takes even longer to turn up to greet a casual crowd of Congress-led coalition workers. His plank is no less developmental, and that is thanks entirely to his father, V K Ibrahim Kunju, a multiple-term MLA who, as the Public Works minister, built 19 bridges in the constituency. How does this compare to Rajeev’s promise? The answer comes from a visibly Congress campaign manager, “No election is won on infrastructure alone. There are substructures, sub-sub structures…” Read community, caste equations, and a third NDA candidate who can split votes, M B Binu of the Bharath Dharma Jana Sena.\n\n**Link:** https://indianexpress.com/article/india/why-bihar-govt-letter-on-z-plus-security-for-nitish-kumar-ir ks-his-jdu-colleagues-10616310/\n\n## **Title: Why Bihar govt letter on Z-plus security for Nitish Kumar irks his JDU colleagues**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_5",
+    "chunk_index": 5,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India",
+        "United Kingdom",
+        "Iran",
+        "US"
+      ],
+      "regions": [
+        "West Asia",
+        "Gulf"
+      ],
+      "cities": [
+        "London"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Meetings and Political Disputes",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "bihar-politics",
+          "description": "The chunk discusses internal political tensions within the JD(U) party regarding Nitish Kumar's resignation."
+        },
+        {
+          "tag": "political-controversy",
+          "description": "The controversy centers on a government letter regarding security procedures that JD(U) leaders feel is premature."
+        },
+        {
+          "tag": "diplomatic-meetings",
+          "description": "The second part details a meeting convened by the UK Foreign Secretary concerning West Asia's freedom of navigation."
+        },
+        {
+          "tag": "maritime-security",
+          "description": "The text emphasizes the importance of unimpeded transit and the safety of seafarers in international waterways."
+        },
+        {
+          "tag": "indian-energy-security",
+          "description": "India's energy security and the impact of the conflict on its seafarers are highlighted."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Nitish Kumar",
+          "role": "Chief Minister of Bihar",
+          "resolved": true
+        },
+        {
+          "name": "Samrat Choudhary",
+          "role": "Deputy CM of Bihar",
+          "resolved": true
+        },
+        {
+          "name": "Keir Starmer",
+          "role": "British Prime Minister",
+          "resolved": true
+        },
+        {
+          "name": "Yvette Cooper",
+          "role": "British Foreign Secretary",
+          "resolved": true
+        },
+        {
+          "name": "Misri",
+          "role": "Foreign Secretary (representing India)",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "JD(U)",
+          "type": "ngo"
+        },
+        {
+          "name": "Bharatiya Janata Party",
+          "type": "government"
+        },
+        {
+          "name": "Ministry of External Affairs",
+          "type": "government"
+        },
+        {
+          "name": "Associated Press",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Bihar Political Controversy",
+          "type": "policy-change",
+          "date": null,
+          "description": "Tension among JD(U) leaders over a government letter regarding security procedures following Nitish Kumar's potential resignation.",
+          "partial": false
+        },
+        {
+          "name": "West Asia Diplomatic Meeting",
+          "type": "summit",
+          "date": null,
+          "description": "A meeting convened by the UK Foreign Secretary to assess measures for restoring freedom of navigation in West Asia.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk covers two distinct topics: internal political tensions in Bihar regarding Nitish Kumar's resignation and a major diplomatic meeting in London concerning freedom of navigation and maritime security in West Asia.",
+      "key_terms": [
+        "Nitish Kumar",
+        "JD(U)",
+        "Bihar politics",
+        "West Asia",
+        "freedom of navigation",
+        "Hormuz",
+        "Ministry of External Affairs",
+        "seafarers"
+      ],
+      "raw_text": "## **Article:**\n\nThe letter has left JD(U) leaders incensed, especially since Nitish is likely to resign only after taking oath as a Rajya Sabha member on April 10. What appears to have upset the party more is that the letter came from the home department — a portfolio held by Deputy CM Samrat Choudhary of the Bharatiya Janata Party, who has emerged as a front-runner in the race to succeed Nitish Kumar. For its part, the BJP has refrained from reacting to the controversy. However, one JD(U) leader said the letter should have been issued after Nitish Kumar’s resignation. “How can a government letter anticipate the timing of a chief minister’s resignation?” a senior JD(U) leader asked. Another senior JD(U) leader told The Indian Express that the letter “amounts to hurting the rank and file of the JD(U)”. “How can the home department official assume the timing of the CM’s resignation? Why the haste? Revision of security is a standard procedure and could have been done after Nitish Kumar resigns as CM,” the leader said. Nitish Kumar resigned as a Member of Legislative Council on March 30, though he has decided to stay on as CM until the end of the inauspicious Kharmaas month on April 15. A new government is likely to take over after that. Under the Constitution, a person can be chief minister without being a member of either House of the state legislature for up to six months.\n\n**Link:** https://indianexpress.com/article/india/west-asia-war-us-iran-india-flags-unimpeded-transit-60-nat ion-meet-calls-for-reopening-hormuz-10616222/\n\n## **Title: India flags ‘unimpeded transit’, 60-nation meet calls for reopening Hormuz**\n\n## **Article:**\n\nAhead of the meeting, British Prime Minister Keir Starmer said the virtual meeting, chaired by British Foreign Secretary Yvette Cooper, would “assess all viable diplomatic and political measures we can take to restore freedom of navigation, guarantee the safety of trapped ships and seafarers and to resume the movement of vital commodities”. The Associated Press, reporting from London, said Thursday’s meeting is considered a first step, to be followed by “working-level meetings” of officials to hammer out details. It quoted Starmer saying that resuming shipping “will not be easy,” and will require “a united front of military strength and diplomatic activity” alongside partnership with the maritime industry. In a statement, the Ministry of External Affairs said, “Foreign Secretary (Misri) represented India at a meeting convened by the UK Foreign Secretary on the situation in West Asia. More than 60 countries participated in the meeting.” The MEA statement said, “Foreign Secretary (Misri) noted the importance of the principles of freedom of navigation and unimpeded transit through international waterways”. Story continues below this ad He also conveyed the impact on India’s energy security and the toll on Indian seafarers due to the ongoing conflict between US-Israel and Iran. “He (Misri) emphasised the impact of the crisis on India’s energy security and the fact that India remains the only country to have lost mariners in attacks on merchant shipping in the Gulf,” the MEA said. Three Indian"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_6",
+    "chunk_index": 6,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India",
+        "Qatar",
+        "UAE",
+        "Kuwait",
+        "Iran"
+      ],
+      "regions": [
+        "western Persian Gulf region"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Geopolitical Crisis Management",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "strait-of-hormuz",
+          "description": "The Strait of Hormuz is a critical global shipping channel for energy supply."
+        },
+        {
+          "tag": "international-diplomacy",
+          "description": "The text discusses diplomatic efforts to resolve the crisis in the Strait of Hormuz."
+        },
+        {
+          "tag": "energy-security",
+          "description": "The closure of the Strait of Hormuz impacts global oil and gas prices."
+        },
+        {
+          "tag": "indian-seafarers",
+          "description": "The chunk mentions the safety and status of Indian seafarers in the Gulf."
+        },
+        {
+          "tag": "global-trade",
+          "description": "The Strait of Hormuz is a key channel for 20 per cent of global energy supply."
+        },
+        {
+          "tag": "geopolitical-tension",
+          "description": "The crisis involves tensions between multiple nations regarding transit passage."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "P K Mishra",
+          "role": "Principal Secretary to the PM",
+          "resolved": true
+        },
+        {
+          "name": "Mishra",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ministry of External Affairs (MEA)",
+          "type": "government"
+        },
+        {
+          "name": "International Maritime Organisation",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Ministry of Personnel",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Strait of Hormuz Crisis",
+          "type": "other",
+          "date": null,
+          "description": "The crisis involves the closure of the Strait of Hormuz, impacting global energy supply.",
+          "partial": false
+        },
+        {
+          "name": "Karmayogi Sadhana Saptah",
+          "type": "other",
+          "date": null,
+          "description": "A week-long capacity-building initiative for government officials.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the ongoing crisis in the Strait of Hormuz, emphasizing the need for diplomatic de-escalation and international pressure to ensure unimpeded transit. It also shifts focus to the need for new capabilities in governance, citing P K Mishra's address on modern public service.",
+      "key_terms": [
+        "Strait of Hormuz",
+        "de-escalation",
+        "Indian seafarers",
+        "governance capabilities",
+        "P K Mishra",
+        "diplomacy"
+      ],
+      "raw_text": "seafarers have been killed and one is missing. A total of 18 Indian-flagged vessels with 485 Indian seafarers continue to remain in the western Persian Gulf region. The MEA statement said Misri also “underlined that the way out of the crisis consisted of de-escalation and a return to the path of diplomacy and dialogue among all parties concerned”. This has been India’s position ever since the start of the war on February 28. Story continues below this ad The Strait of Hormuz is the key channel through which 20 per cent of the global energy supply – and majority of the gas supply from Qatar – passes in large carriers. Qatar, UAE, Kuwait have all been hit by the closure of the Strait, and that has led to a global rise in prices of oil and gas, and impacted the supply of cooking gas in India and other countries. The government has been working with different partners and Iran on reopening the Strait of Hormuz. The Chair’s statement said the meeting discussed a number of areas of possible collective, coordinated, action”, and listed four such measures: * “Increase international diplomatic pressure, including through the UN, to send clear and co-ordinated messages to Iran to permit unimpeded transit passage through the Strait of Hormuz and to comprehensively reject the imposition of tolls on vessels which seek to pass through.” Story continues below this ad * “Explore co-ordinated economic and political measures, such as sanctions, to bear down on Iran if the Strait remains closed.” * “Work together with the International Maritime Organisation to secure the release of thousands of ships and sailors trapped in the Strait and get shipping moving again.”\n\n## **Link:**\n\nhttps://indianexpress.com/article/india/governance-today-needs-new-capabilities-mishra-10616396/\n\n## **Title: Governance today needs new capabilities: Mishra**\n\n## **Article:**\n\nUnderlining the need for new capabilities among officers, the Principal Secretary to the PM P K Mishra, on Thursday said governance had moved from rule-based to role-based, where competencies, behaviour and service orientation were key. Mishra was speaking at the inauguration of Karmayogi Sadhana Saptah, a week-long capacity-building initiative for government officials. Mishra told officials that governance today required new capabilities to address technological disruption, climate change and global uncertainties, a statement of the Ministry of Personnel said. He also said “continuous learning strengthens innovation, adaptability, and professionalism, while mindset and empathy remain critical to effective public service,” it said.\n\n**Link:** https://indianexpress.com/article/india/parliament-to-reconvene-on-april-16-for-3-days-we-have-c ertain-bills-says-rijiju-10616173/\n\n## **Title: Parliament to reconvene on April 16 for 3 days; we have certain Bills, says Rijiju**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_7",
+    "chunk_index": 7,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "South India",
+        "Northeast",
+        "West"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Parliamentary Debate",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "lok-sabha-seats",
+          "description": "The government is considering increasing the total number of Lok Sabha seats."
+        },
+        {
+          "tag": "women's-reservation-act",
+          "description": "The discussion revolves around the implementation of the Women's Reservation Act."
+        },
+        {
+          "tag": "delimitation-exercise",
+          "description": "The proposed changes affect the proportional representation of states in the Lok Sabha."
+        },
+        {
+          "tag": "political-opposition",
+          "description": "The Congress party criticized the government's proposed changes and timing."
+        },
+        {
+          "tag": "parliamentary-session",
+          "description": "The article discusses the adjournment and reconvening of both Houses of Parliament."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jairam Ramesh",
+          "role": "Congress communication head",
+          "resolved": true
+        },
+        {
+          "name": "M K Stalin",
+          "role": "DMK chief and Tamil Nadu Chief Minister",
+          "resolved": true
+        },
+        {
+          "name": "Kiren Rijiju",
+          "role": "Parliamentary Affairs Minister",
+          "resolved": true
+        },
+        {
+          "name": "Mallikarjun Kharge",
+          "role": "Rajya Sabha Leader of Opposition",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Congress",
+          "type": "ngo"
+        },
+        {
+          "name": "DMK",
+          "type": "ngo"
+        },
+        {
+          "name": "Parliament of India",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Lok Sabha Seat Increase Proposal",
+          "type": "policy-change",
+          "date": null,
+          "description": "Proposal to increase Lok Sabha seats to 816, reserving 270 for women.",
+          "partial": false
+        },
+        {
+          "name": "Parliament Adjournment",
+          "type": "other",
+          "date": "April 16",
+          "description": "Both Houses of Parliament were adjourned until April 16.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The government plans to increase Lok Sabha seats to 816, which the Congress criticized for disadvantaging smaller southern states. The article details the political debate in the Rajya Sabha regarding the timing and necessity of passing the Women's Reservation Act.",
+      "key_terms": [
+        "Lok Sabha seats",
+        "Women's Reservation Act",
+        "delimitation",
+        "Congress",
+        "M K Stalin",
+        "Kiren Rijiju",
+        "Parliament"
+      ],
+      "raw_text": "## **Article:**\n\nThe government is believed to be considering increasing the number of Lok Sabha seats to 816 from \n\n543, with around 270 to be reserved for women. The proposal seems to be to increase the Lok Sabha constituencies in such a way that the proportion of states remains the same. While the government had held informal consultations with some of the opposition parties, the main opposition Congress has so far stayed away from such deliberations and has instead asked the government to convene an all party meeting to build consensus on the issue. The Congress has already panned the government move saying the argument that a 50 per cent increase in seats across-the-board is equitable is deceptive. The Congress has accused the government of preparing a law which will disadvantage smaller states in the South, Northeast, and West. “Any increase in the gap in the existing strengths of different states in the Lok Sabha will place South Indian states at a disadvantage. For instance, currently Uttar Pradesh has 80 seats and Tamil Nadu has 39. With the proposed Bill, UP’s strength will zoom to 120 while Tamil Nadu will crawl up to at best 59. Similarly, Kerala will increase from 20 Lok Sabha seats to 30 seats, while Bihar will move from 40 to 60 seats. Overall, the southern states will gain 66 seats while the northern states will gain 200 seats,” Congress communication head Jairam Ramesh had said. While welcoming the Government move to implement 33 per cent reservation for women, DMK chief and Tamil Nadu Chief Minister M K Stalin, who has for long argued that the current proportional representation of States should not be disturbed in the delimitation exercise, had earlier urged the Centre to convene a special Parliament session in June to take up the amendments instead of pushing it when the model code of conduct was in place for Assembly elections. Both the Houses of Parliament were adjourned Thursday till April 16. The government is learnt to have conveyed to the opposition parties that the Houses are likely to meet for three days beginning April 16. While the Government did not spell out that the session is being extended to take up amendments to the Women’s Reservation Act, Parliamentary Affairs Minister Kiren Rijiju told Rajya Sabha that “we have a … duty, a commitment, which the House has given, Parliament of India has given to the women of this nation.” Story continues below this ad The Government’s move triggered a heated discussion between Treasury and Opposition benches in Rajya Sabha after the Congress asked the government to spell out its plan regarding adjournment of the session. “We have certain Bills and certain important issues which we have shared with our members from the Opposition parties also. We are going to have a very important Bill in the next two to three weeks’ time. So today, the government would propose that the House be adjourned, and we will meet very soon for a very specific period … for the purpose of the session … is already known to the members,” said Rijiju. To this, Ramesh said, “The government has a single-minded objective of getting some political advantage of passing the Bill, violating the election Model Code of Conduct … and have the Bill passed in the next two to three weeks.” He added that it was “wholly objectionable”. Ramesh said Rajya Sabha Leader of Opposition Mallikarjun Kharge has written to Rijiju asking that “the all-party meeting for the purpose which the minister is mentioning be held after the election campaign is over, or after the elections are completed on April 29”. Story continues below this ad Rijiju responded, saying, “We have a … duty, a commitment, which the House has given, Parliament of India has given to the women of this nation.” “For us, this has nothing to do with a specific state election … This is a commitment, this is a duty of the House."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_8",
+    "chunk_index": 8,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Parliamentary Debate",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "political-debate",
+          "description": "The chunk records a debate regarding the timing and necessity of parliamentary meetings."
+        },
+        {
+          "tag": "women's-reservation",
+          "description": "The discussion centers on the passage and implementation of women's reservation."
+        },
+        {
+          "tag": "general-election",
+          "description": "Speakers reference the upcoming general election in 2029."
+        },
+        {
+          "tag": "government-duty",
+          "description": "The government emphasizes its commitment and duty to the people."
+        },
+        {
+          "tag": "political-cooperation",
+          "description": "The speakers discuss the need for cooperation among political parties."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Rijiju",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Kharge",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Sanjay Singh",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Aam Aadmi Party (AAP)",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "General Election",
+          "type": "election",
+          "date": "2029",
+          "description": "The government mentions the general election coming in 2029.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The speakers, Rijiju and Kharge, debate the timing of a crucial parliamentary meeting, particularly concerning women's reservation. They argue that the government must proceed with the proposal despite opposition demands to wait until after the general election.",
+      "key_terms": [
+        "women's reservation",
+        "parliamentary meeting",
+        "general election",
+        "government timeline",
+        "political commitment"
+      ],
+      "raw_text": "We have to take it forward because we face certain limitations when looking at the time scale … The principal Opposition party has written to us asking us to convene the meeting after April 29. We have noted down,” he said. “But the problem is, the government is bound by the timeline, which is its limitation. We have a general election coming in 2029. Today, we are in April 2026 … Let us not go into the dates, but please cooperate with the government,” Rijiju said. He also said that the government has “brought a simple proposal” and there is no point of objection, and “nothing controversial”. Story continues below this ad “Women’s reservation Parliament has passed unanimously … there shouldn’t be politics around women’s reservation, that we also agree, you also do. If we don’t convene … how will we make an important decision? We have given a commitment to the people. It is our duty to fulfil it,” he said. Kharge also said he had written a letter and asked that an all-party meeting be held to allow opinions and proposals to be expressed. “We are not against women’s reservation. It has become unanimous with our support. These people… they take credit whenever they want. Everybody agrees…but at what time, how to bring it, how to do it…stop your games. If you had to do it, why didn’t you do it in three years? If you had to do it, why didn’t you bring it at the beginning of this session? We discussed rural development for three days. Could we not have discussed this? You call after the election, we will all cooperate… don’t take credit before the"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_9",
+    "chunk_index": 9,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India",
+        "Russia"
+      ],
+      "regions": [],
+      "cities": [
+        "New Delhi"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Bilateral Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "indian-politics",
+          "description": "The chunk discusses political debates in the Indian Parliament."
+        },
+        {
+          "tag": "india-russia-relations",
+          "description": "It details high-level diplomatic talks between India and Russia."
+        },
+        {
+          "tag": "energy-security",
+          "description": "The text mentions India's need to increase LNG and LPG supplies from Russia."
+        },
+        {
+          "tag": "defense-procurement",
+          "description": "The chunk covers India's procurement of S-400 missile systems from Russia."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Kharge",
+          "role": "null",
+          "resolved": true
+        },
+        {
+          "name": "Sanjay Singh",
+          "role": "Aam Aadmi Party (AAP) leader",
+          "resolved": true
+        },
+        {
+          "name": "J P Nadda",
+          "role": "Leader of the House in Rajya Sabha",
+          "resolved": true
+        },
+        {
+          "name": "Ramesh",
+          "role": "null",
+          "resolved": true
+        },
+        {
+          "name": "President Putin",
+          "role": "President of Russia",
+          "resolved": true
+        },
+        {
+          "name": "S Jaishankar",
+          "role": "External Affairs Minister of India",
+          "resolved": true
+        },
+        {
+          "name": "Ajit Doval",
+          "role": "National Security Advisor of India",
+          "resolved": true
+        },
+        {
+          "name": "Sergey Lavrov",
+          "role": "Russian Foreign Minister",
+          "resolved": true
+        },
+        {
+          "name": "Andrey Rudenko",
+          "role": "Russian Deputy Foreign Minister",
+          "resolved": true
+        },
+        {
+          "name": "Vikram Misri",
+          "role": "Foreign Secretary of India",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Aam Aadmi Party (AAP)",
+          "type": "ngo"
+        },
+        {
+          "name": "Rajya Sabha",
+          "type": "government"
+        },
+        {
+          "name": "Russian Embassy",
+          "type": "other"
+        },
+        {
+          "name": "BRICS",
+          "type": "intergovernmental"
+        }
+      ],
+      "events": [
+        {
+          "name": "India-Russia summit",
+          "type": "summit",
+          "date": "December",
+          "description": "Summit where agreements on trade and cooperation were reached.",
+          "partial": false
+        },
+        {
+          "name": "Russian Deputy Foreign Minister's visit",
+          "type": "other",
+          "date": "May 14 and 15",
+          "description": "Planned visit of Andrey Rudenko to New Delhi for BRICS meeting.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk covers two main topics: political debates in the Indian Parliament regarding women's reservation, and high-level diplomatic talks between India and Russia concerning trade, energy, and defense cooperation.",
+      "key_terms": [
+        "women's reservation",
+        "Indian Parliament",
+        "India-Russia relations",
+        "LNG supplies",
+        "S-400 missile systems",
+        "diplomatic talks"
+      ],
+      "raw_text": "election,” Kharge said. Aam Aadmi Party (AAP) leader Sanjay Singh backed Kharge’s argument. “If your intentions were pure, you could have brought it in this session. You want to do politics considering the election…not give reservation to women,” Singh said. Leader of the House in Rajya Sabha J P Nadda said the government is “competent to decide the date and time for legislative business to be done.” Story continues below this ad “You think we’ll take credit… Why don’t you consider that the Bill that you were not able to pass in 30 years … was passed in two days? We have already taken credit for it. You always see everything from the angle of politics, not humanity…,” Nadda said. To this, Opposition members responded that the matter of women’s reservation has been “remembered after 30 months”. Ramesh said, “For 30 months, they slept. Suddenly, they have discovered, we don’t need a Census, we don’t need delimitation.”\n\n## **Link:**\n\nhttps://indianexpress.com/article/india/russias-first-dy-pm-meets-modi-talk-trade-ties-boost-10616378/\n\n## **Title: Russia’s First Dy PM meets Modi; talk trade ties boost**\n\n## **Article:**\n\n“PM extended warm greetings to President Putin and said that he looked forward to their continued exchanges,” it said. Manturov, on a two-day visit to India, also held talks with External Affairs Minister S Jaishankar and National Security Advisor Ajit Doval. The Russian Embassy said Modi and Manturov discussed “specific steps to implement agreements reached” during the India-Russia summit held in December last. “Particular attention was paid to further strengthening Russia-India trade, economic, investment, energy and industrial cooperation,” it said on social media. Russian Foreign Minister Sergey Lavrov is planning to visit New Delhi on May 14 and 15 to participate in the meeting of the foreign ministers of the BRICS countries, the visiting Russian Deputy Foreign Minister Andrey Rudenko told TASS earlier this week. As India is looking at increasing LNG and LPG supplies from Russia, External Affairs Minister Jaishankar and Foreign Secretary Vikram Misri had met Russian Deputy Foreign Minister Rudenko on Monday. This comes at a time when Delhi is facing a shortage of energy in the wake of the war in West Asia, which has completed 30 days now. According to TASS, on March 27, Russia and India had expressed readiness to increase liquefied natural gas (LNG) supplies. Delivery of liquefied petroleum gas (LPG) to India is also being discussed, a source in the oil and gas industry told TASS. The Russian First Deputy PM’s visit to New Delhi comes days after India cleared procurement of a fresh batch of five S-400 missile systems from Russia. In October 2018, India had signed a $5 billion deal with Russia to buy five units of S-400 air defence missile systems. Three squadrons have already been delivered and another two are expected this year.\n\n**Link:** https://indianexpress.com/article/india/lok-sabha-passes-capf-bill-with-voice-vote-opposition-me mbers-protest-walk-out-10616370/ \n\n**Title: Lok Sabha passes CAPF Bill with voice vote; Opposition members protest, walk out**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_10",
+    "chunk_index": 10,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Parliamentary Debate",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "paramilitary-forces",
+          "description": "The discussion centers on the welfare and deployment of Central Armed Police Forces (CAPF) personnel."
+        },
+        {
+          "tag": "legislative-debate",
+          "description": "The chunk details the opposition's protest and criticism regarding a new CAPF Bill."
+        },
+        {
+          "tag": "martyr-status",
+          "description": "A key point of contention is the demand for martyr status for CAPF personnel who die on duty."
+        },
+        {
+          "tag": "political-protest",
+          "description": "Opposition members, including Dharmendra Yadav and Mahua Moitra, protested the legislation."
+        },
+        {
+          "tag": "central-government-control",
+          "description": "The debate touches upon the alleged weaponization of IPS officers from other states."
+        },
+        {
+          "tag": "law-and-order",
+          "description": "The discussion relates to the powers and deployment of central police forces."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Dharmendra Yadav",
+          "role": "Samajwadi Party MP",
+          "resolved": true
+        },
+        {
+          "name": "Mahua Moitra",
+          "role": "MP",
+          "resolved": true
+        },
+        {
+          "name": "Nityanand Rai",
+          "role": "MoS Home",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Samajwadi Party",
+          "type": "ngo"
+        },
+        {
+          "name": "Central Armed Police Forces (CAPF)",
+          "type": "government"
+        },
+        {
+          "name": "TMC",
+          "type": "ngo"
+        },
+        {
+          "name": "Supreme Court",
+          "type": "intergovernmental"
+        }
+      ],
+      "events": [
+        {
+          "name": "Lok Sabha passes CAPF Bill",
+          "type": "policy-change",
+          "date": null,
+          "description": "The bill passed the Lok Sabha, leading to protests from opposition members.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "During a parliamentary debate, opposition members like Dharmendra Yadav and Mahua Moitra criticized the proposed CAPF Bill, raising concerns about the morale of CAPF personnel, the denial of martyr status, and the alleged weaponization of IPS officers from other states.",
+      "key_terms": [
+        "CAPF Bill",
+        "Dharmendra Yadav",
+        "Mahua Moitra",
+        "martyr status",
+        "IPS officers",
+        "Lok Sabha",
+        "paramilitary personnel"
+      ],
+      "raw_text": "## **Article:**\n\nSamajwadi Party MP Dharmendra Yadav said several personnel from Central forces visited Opposition members and shared their “pain” regarding the legislation. “I wish you had heard their pain before drafting the Bill,” said Yadav. “Why are you going after the morale of lakhs of CAPF personnel? What is there in giving IPS officers centralised powers,” he said. Yadav demanded that all paramilitary personnel who die on duty should be given martyr status. “You have funds for waiving off loans of industrialists but not for soldiers who are martyred on duty,” he said. TMC’s Mahua Moitra said she was speaking in the House on behalf of every CAPF official in the country. “I speak for those CAPF officers who are killed on duty and denied the status of a martyr. The government insists on calling them operational casualties,” said Moitra. “It is the voice of CAPF officers which the government is refusing to listen to,” she said. The MP said that a CAPF cadre officer can never head their own unit and that it was unfair on personnel who spend years in the field. “How can this government deny this meritocracy to men who are shedding every drop of their blood for this country,” said Moitra. “The IPS deputation in CAPF is being weaponised against the Opposition during elections. In Bengal, what have you done today? You have removed all Bengal-cadre officers … You have brought in IPS officers from every BJP-ruled state to control the CAPF,” said Moitra. In October last year, the Supreme Court had dismissed the Centre’s plea seeking a review of its 2025 verdict that directed that IPS officers’ deputation in CAPFs up to the level of Senior Administrative Grade (SAG) should be “progressively reduced” and asked for a cadre review to be carried out in six months. Replying to the debate in the Lower House, MoS Home Nityanand Rai accused the Opposition of playing politics over the legislation.\n\n**Link:** https://indianexpress.com/article/india/military-supplies-from-israel-may-be-delayed-have-adequa te-stocks-for-current-year-hal-cmd-10616346/\n\n## **Title: Military supplies from Israel may be delayed, have adequate stocks for current year: HAL CMD**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_11",
+    "chunk_index": 11,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India",
+        "Israel",
+        "Iran"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Military Procurement",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "military-equipment-procurement",
+          "description": "The chunk discusses India's purchase of various military items from Israel."
+        },
+        {
+          "tag": "tejas-fighter-jet",
+          "description": "The Tejas is an indigenous fighter jet manufactured by HAL, which is a key topic of discussion."
+        },
+        {
+          "tag": "air-defence-systems",
+          "description": "The text mentions the procurement of air defence systems and radars from Israel."
+        },
+        {
+          "tag": "indian-air-force",
+          "description": "The chunk addresses the status and delivery timelines for the Tejas jets to the Indian Air Force."
+        },
+        {
+          "tag": "military-technology-development",
+          "description": "HAL is developing new technologies like UCAVs and prototypes for future military projects."
+        },
+        {
+          "tag": "russian-military-cooperation",
+          "description": "The discussion includes potential plans to acquire and produce Russian Su-57 fighter jets."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Sunil",
+          "role": "Spokesperson/Official (implied)",
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "HAL",
+          "type": "corporate"
+        },
+        {
+          "name": "Indian Air Force",
+          "type": "government"
+        },
+        {
+          "name": "GE Aerospace",
+          "type": "corporate"
+        },
+        {
+          "name": "The Indian Express",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Tejas Mk 1A delivery review",
+          "type": "policy-change",
+          "date": "next month",
+          "description": "A major review of the status of the LCA Mk 1 A delivery is expected with the IAF next month.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article details India's military procurement from Israel and discusses the status of the Tejas fighter jet, including engine deliveries from GE Aerospace. It also covers HAL's development of UCAVs and potential plans for acquiring Russian Su-57 jets.",
+      "key_terms": [
+        "Tejas",
+        "HAL",
+        "UCAVs",
+        "GE Aerospace",
+        "Su-57",
+        "Indian Air Force",
+        "Israel"
+      ],
+      "raw_text": "## **Article:**\n\nOver the last decade, India has purchased a range of military equipment and weapons from Israel including missiles, unmanned aerial vehicles, sensors and radars, air defence systems and small arms. For the indigenous fighter jet Tejas, manufactured by HAL, the radars, electronic warfare suite and the helmet-mounted displays are procured from Israel. “So, there may be a delay, but generally, what we have seen is that they catch up. Initially, when this war started, their plants shut down. We had our people there working with them, but once it became serious, they asked us to withdraw our people and we called them back,” he said. “So, we will just wait and watch,” he added. Asked about the lesson and trends emerging from the ongoing war influencing future military projects of HAL, Sunil told The Indian Express that the CATS Warrior is essentially its foray into the area. “These will be UCAVs, which can carry weapons and will be remotely piloted. We are focusing on that area. Today, we are building a 3-tonne prototype, and then this will gradually increase in class, from 3 tonne to five and seven tonne.” “We are focusing on that area where we are having the bigger impact. The kind of SHAHED (Iranian) drones you’re seeing are very small and very low cost, and there are a lot of players in the market today. A lot of startups are doing that already.” Story continues below this ad “We are seeing almost every day somebody has got something similar, like the SHAHED, which they are now testing, so we are not going into that space,” he said. The CATS Warrior, he said, is a self-funded project. “We have done the detailed design. The parts are under manufacture, and the fuselage is also under manufacture, so it is in the prototyping stage,” he told The Indian Express. Responding to questions\n\nfrom the media over the delivery of the Tejas Mk 1A jets, which have been significantly delayed, their current status, and the possible revised timeline for delivery to the Indian Air Force, Sunil said five jets are ready with the engines, and the sixth engine from GE Aerospace is on its way. He said that GE assured HAL that 20 engines would be delivered between June and December. It is learnt that the contract with GE includes a provision stating that if there is a delay in the delivery of F-404 engines for the Light Combat Aircraft, liquidated damages will be imposed on GE and accordingly, the cost is being imposed as per the contract. Story continues below this ad Sunil said a major review of the status of the LCA Mk 1 A delivery is expected with the IAF next month, which will help finalise the delivery timelines. Asked when the existing squadrons of LCA Tejas would be operational — they underwent extensive maintenance checks following one of the aircraft being involved in an accident at a forward air base last month — he said the jets are set to fly again next week onwards as a flaw detected in the braking software has been fixed. Asked about possible plans to get Russian Su-57 fighter jets for the IAF, he said presentations have been made to the Air Force team regarding the capabilities of the aircraft. “We have had one estimation of the capacity of our plants for the Russian equipment. A committee of Russians has also studied and said that roughly 50% of the facilities can be used for producing this aircraft, but some new investments will be required,” he said. Story continues below this ad “We are awaiting the Russian quotation about the investment. Then we will approach the Air Force that these are the kind of numbers required to produce these aircraft and these are the timelines,” he said."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_12",
+    "chunk_index": 12,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [
+        "West Asia"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Infrastructure Development",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "png-network-expansion",
+          "description": "The meeting focused on expanding the PNG infrastructure in 110 identified focus areas."
+        },
+        {
+          "tag": "urban-local-bodies",
+          "description": "These bodies were asked to expedite permissions and approvals for expanding the PNG network."
+        },
+        {
+          "tag": "mohua-statement",
+          "description": "The Ministry of Housing and Urban Affairs issued a statement regarding the infrastructure expansion."
+        },
+        {
+          "tag": "household-connections",
+          "description": "The government needs to prioritize providing household PNG connections in existing pipeline areas."
+        },
+        {
+          "tag": "action-plan",
+          "description": "Districts and urban local bodies were asked to prepare a three-week action plan with ward-wise targets."
+        },
+        {
+          "tag": "geopolitical-situation",
+          "description": "The expansion efforts are linked to the evolving geopolitical situation in West Asia."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Katikithala",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ministry of Housing and Urban Affairs (MoHUA)",
+          "type": "government"
+        },
+        {
+          "name": "Indian Government",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Meeting on PNG Expansion",
+          "type": "other",
+          "date": null,
+          "description": "Focusing on accelerating PNG infrastructure expansion in 110 areas.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The meeting focused on accelerating the expansion of PNG infrastructure in 110 identified areas and strengthening last-mile connectivity. The MoHUA directed urban local bodies to expedite approvals and create a three-week action plan to meet the unmet demand for household connections.",
+      "key_terms": [
+        "PNG infrastructure",
+        "MoHUA",
+        "urban local bodies",
+        "household connections",
+        "110 high priority areas",
+        "West Asia"
+      ],
+      "raw_text": "**Link:** https://indianexpress.com/article/india/govt-pushes-expansion-of-png-network-in-110-high-priorit y-areas-10616174/\n\n## **Title: Govt pushes expansion of PNG network in 110 high priority areas**\n\n## **Article:**\n\n“The meeting focused on accelerating the expansion of PNG infrastructure in 110 identified focus geographic areas, while also strengthening last-mile connectivity in view of the evolving geopolitical situation in West Asia,” the MoHUA statement said. The urban local bodies were asked to expedite permissions and approvals for expanding the PNG network. The MoHUA Secretary told states and urban local bodies to facilitate the mapping of the PNG pipelines, speed up the expansion of household connections and focus on meeting the unmet demand. “Key policy and regulatory measures undertaken by the government were discussed, including the need for immediate prioritisation of providing household PNG connections in areas where pipeline infrastructure is already in place with a focus on unlocking the existing potential by targeting nearly 30 lakh connections in such areas,” the statement said. The districts and urban local bodies were asked to prepare a three-week action plan, with ward-wise targets. Katikithala said there should be a focused campaign to meet the unmet potential.\n\n**Link:** https://indianexpress.com/article/india/rajnath-chairs-igom-meeting-emphasises-constant-vigil-toease-west-asia-war-effect-10616225/\n\n## **Title: Rajnath chairs IGoM meeting, emphasises constant vigil to ease West Asia war effect**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_13",
+    "chunk_index": 13,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Government Policy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "government-policy",
+          "description": "The chunk details government measures taken to mitigate the effects of global conflicts."
+        },
+        {
+          "tag": "economic-relief",
+          "description": "Specific financial measures, like customs duty exemptions, were announced to support various industries."
+        },
+        {
+          "tag": "energy-security",
+          "description": "The text discusses efforts to maintain the supply of LPG and auto LPG across the country."
+        },
+        {
+          "tag": "industrial-support",
+          "description": "The IGoM was briefed on measures to ensure industrial continuity and meet diverse sector demands."
+        },
+        {
+          "tag": "consumer-protection",
+          "description": "The government is taking action against hoarding and black marketing of essential commodities."
+        },
+        {
+          "tag": "crisis-management",
+          "description": "The meeting focused on mitigating adverse impacts arising from ongoing global conflicts."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Gyanesh Kumar",
+          "role": "Chief Election Commissioner",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ministry of Finance",
+          "type": "government"
+        },
+        {
+          "name": "TMC",
+          "type": "other"
+        },
+        {
+          "name": "Indian Express",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "IGoM meeting",
+          "type": "summit",
+          "date": null,
+          "description": "The IGoM deliberated on mitigating adverse impacts from the ongoing conflict.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The IGoM meeting discussed comprehensive measures to minimize the impact of global conflicts, including customs duty exemptions for petrochemical products, capping ATF prices, and ensuring the continuous supply of LPG and auto LPG to support various sectors and households.",
+      "key_terms": [
+        "IGoM",
+        "global trade disruptions",
+        "petrochemical products",
+        "LPG",
+        "auto LPG",
+        "industrial requirements"
+      ],
+      "raw_text": "## **Article:**\n\nHe stressed on the need to leave no stone unturned to ensure that the people of the country face the minimum effect of the conflict, the statement added. The IGoM also deliberated upon the recent developments at length, and the next steps to be taken by the Government to mitigate any adverse impact arising due to the ongoing conflict. During the meeting, the seven Empowered Groups of Secretaries briefed the IGoM on the steps being taken to tackle the situation. According to the statement, the IGoM was apprised about measures undertaken by the Ministry of Finance to address concerns arising due to global trade disruptions and provide relief and support to the industry, especially manufacturing, and bolster investor confidence. These include a full customs duty exemption on 40 critical petrochemical products till June this year, announcement of a special one-time relief measure for eligible units in SEZs to sell manufactured goods in Domestic Tariff Area (DTA) at concessional customs duty rates to be effective till March next year and the provisions of GAAR will not be invoked in respect of investments made before April 1, 2017. “These measures will reduce cost pressures on downstream sectors, including textiles, packaging and pharmaceuticals, facilitate supply stability in the country and provide requisite clarity for investors contemplating investments in India,” the statement noted. Singh appreciated the Government’s decision to impose a 25% cap on the monthly increase in Aviation Turbine Fuel prices for domestic operations, with effect from April 1, 2026, the statement noted, adding that this step will help protect the people from a sudden increase in fares. The statement noted the IGoM was informed that there have been no reports of dry-out at LPG distributorships, and delivery of domestic LPG cylinders continues as per the normal schedule and the temporary supply concerns arose due to instances of hoarding and black marketing, which triggered panic buying in certain areas. The ministers were informed that strict enforcement action is being undertaken, with raids being carried out to curb hoarding and black marketing of LPG and that action has also been taken against some LPG distributors who engaged in malpractices. The statement said that to support migrant labour and low-consumption households, the Government is ensuring adequate availability of 5 kg free trade LPG cylinders, and since March 23, 2026, over 4.3 lakh such cylinders have been sold. Special focus is being given to states where demand is higher, it said. The IGoM was apprised that industrial requirements dependent on commercial LPG are being met, with over 80% of pre-crisis supply levels being maintained to ensure continuity of operations. Special meetings have been held with ministries and stakeholders of different industries to understand their demands and meet their needs. Oil PSUs are ensuring the continued supply of auto LPG across the country. “However, some supply constraints are being faced by private operators due to their procurement challenges, which is why lines are being observed at PSU auto LPG pumps. Wherever the autos are dual feed and can use petrol, they are being encouraged to use petrol,” the statement noted. The Ministers were also informed that the number of LPG deliveries per day has been increased significantly. Piped Natural Gas (PNG) is being actively promoted for industrial use as a reliable alternative. The IGoM was also apprised that certain miscreants are deliberately attempting to create panic by circulating photoshopped and morphed images and misleading content on social media. “Such actions are being closely monitored. Citizens are strongly advised not to believe or share unverified information and to rely only on official sources for accurate updates,” the statement said. The first meeting of the IGoM took place on March 28.\n\n**Link:** https://indianexpress.com/article/india/no-word-on-motion-against-cec-match-fixing-in-broad-dayli ght-tmcs-obrien-10616211/\n\n## **Title: No word on motion against CEC, match-fixing in broad daylight: TMC’s O’Brien**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_14",
+    "chunk_index": 14,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Parliamentary Debate",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "rajya-sabha",
+          "description": "The Rajya Sabha is a council of the Indian Parliament."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Derek O’Brien",
+          "role": "TMC Rajya Sabha leader",
+          "resolved": true
+        },
+        {
+          "name": "Gyanesh Kumar",
+          "role": "Chief Election Commissioner",
+          "resolved": true
+        },
+        {
+          "name": "Nityanand Rai",
+          "role": "Minister of State for Home Affairs",
+          "resolved": true
+        },
+        {
+          "name": "Kiren Rijiju",
+          "role": "Parliamentary Affairs Minister",
+          "resolved": true
+        },
+        {
+          "name": "Mamta Banerjee",
+          "role": "Politician",
+          "resolved": true
+        },
+        {
+          "name": "Sanjay Singh",
+          "role": "AAP MP",
+          "resolved": true
+        },
+        {
+          "name": "Naidu",
+          "role": "Andhra CM",
+          "resolved": false
+        },
+        {
+          "name": "Masthan Rao Yadav Beedha",
+          "role": "TDP member",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "TMC",
+          "type": "other"
+        },
+        {
+          "name": "BJP",
+          "type": "government"
+        },
+        {
+          "name": "EC",
+          "type": "government"
+        },
+        {
+          "name": "YSRCP",
+          "type": "government"
+        },
+        {
+          "name": "TDP",
+          "type": "government"
+        },
+        {
+          "name": "AAP",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Rajya Sabha passes Jan Vishwas Bill",
+          "type": "policy-change",
+          "date": null,
+          "description": "The Rajya Sabha passed the Jan Vishwas (Amendment of Provisions) Act, 2023.",
+          "partial": false
+        },
+        {
+          "name": "Bill to recognise Amaravati as Andhra capital passed",
+          "type": "policy-change",
+          "date": null,
+          "description": "The Rajya Sabha passed the bill to recognize Amaravati as the capital of Andhra Pradesh.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk covers two main topics: Derek O’Brien accusing the BJP of 'match-fixing' regarding the removal of the CEC, and the Rajya Sabha passing the Jan Vishwas Bill and the bill to recognize Amaravati as Andhra's capital.",
+      "key_terms": [
+        "Derek O’Brien",
+        "CEC",
+        "BJP",
+        "Jan Vishwas Bill",
+        "Amaravati",
+        "Rajya Sabha"
+      ],
+      "raw_text": "## **Article:**\n\nAlmost three weeks after the Opposition submitted a notice seeking removal of Chief Election Commissioner Gyanesh Kumar, TMC Rajya Sabha leader Derek O’Brien on Thursday questioned the “silence” over it and accused the BJP of having a “tacit understanding” with the poll panel. “Notices by 193 MPs to remove CEC ignored. Now more election stunts,” said O’Brien in a post on X on Thursday. Speaking to reporters, the TMC MP said, “The opposition parties submitted a notice seeking a motion to remove CEC Kumar, but there has been no word on it so far.” He said, “We have been saying that there is a tacit understanding between the BJP and the EC. Now it has become clear that this is match-fixing in broad daylight.”\n\n**Link:** https://indianexpress.com/article/india/rajya-sabha-passes-jan-vishwas-bill-have-tried-to-bring-sw ift-and-proportionate-penalties-says-goyal-10616203/\n\n## **Title: Rajya Sabha passes Jan Vishwas Bill; have tried to bring swift and proportionate penalties, says Goyal**\n\n## **Article:**\n\nThe minister also refuted that the bill would dilute the drugs and cosmetics act. He said: “We should not go to jail or court for a small mistake in procedural compliance… (But) If someone sells spurious drugs, stocks them, imports them, manufactures them, or distributes them, and if the drugs are not approved by the drug controller… a very strict and severe criminal punishment has been imposed on them.” He also said that contrary to what the opposition parties were saying, the changes related to the agriculture and allied sectors will protect farmers’ interest. This follows the Jan Vishwas (Amendment of Provisions) Act, 2023 that had first decriminalised 183 provisions in 42 Central Acts, including the drugs and cosmetics act. Bill to recognise Amaravati as Andhra capital passed The Rajya Sabha also passed the bill to recognise Amaravati as the capital of Andhra Pradesh, with all parties except the YSRCP supporting the move. Minister of State for Home Affairs Nityanand Rai congratulated the people of Andhra Pradesh, expressing hope that the state reaches new heights of progress. Story continues below this ad While supporting the bill, several opposition members cautioned TDP about what they termed the BJP’s “use-and-throw” policy. Parliamentary Affairs Minister Kiren Rijiju countered this by saying, “We honour friendships. We don’t cheat.” He stated that it was the BJP that once protected TMC’s Mamta Banerjee in the Parliament when she was attacked by the Left. To this, AAP MP Sanjay Singh replied that Banerjee is “tigress of Bengal” and doesn’t need protection. He advised Andhra CM Naidu to take advantage of being part of the NDA government to get as much funds and benefits from the Centre till they hold the key to the government. Masthan Rao Yadav Beedha of the TDP said, “This Bill is not just a legislation, it is a moral promise that our farmers’ sacrifices will not be forgotten.”\n\n**Link:** https://indianexpress.com/article/india/raghav-chadha-aap-rajya-sabha-deputy-leader-removed-vi deo-evil-eye-emoji-10615945/\n\n## **Title: Raghav Chadha’s video message after AAP removes him from key post**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_15",
+    "chunk_index": 15,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Policy Advocacy",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "policy-reform",
+          "description": "Chadha advocated for various policy changes across multiple sectors."
+        },
+        {
+          "tag": "consumer-rights",
+          "description": "He raised concerns about unfair practices in banking and aviation."
+        },
+        {
+          "tag": "public-health",
+          "description": "The chunk details his push for free annual health check-ups and better food labeling."
+        },
+        {
+          "tag": "labor-rights",
+          "description": "He addressed the working conditions and lack of social security for gig workers."
+        },
+        {
+          "tag": "social-security",
+          "description": "The text discusses the need for paternity leave and minimum balance protection."
+        },
+        {
+          "tag": "taxation",
+          "description": "Chadha proposed joint tax filing for married couples to ease financial burden."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Raghav Chadha",
+          "role": "Politician/Advocate",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Supreme Court",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": null,
+          "type": "other",
+          "date": null,
+          "description": "Chadha's policy recommendations and critiques during a parliamentary session.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk summarizes Raghav Chadha's extensive policy critique, covering issues from recharge cycles and banking penalties to gig worker rights, aviation compensation, and the need for free annual health check-ups.",
+      "key_terms": [
+        "recharge cycle",
+        "paternity leave",
+        "minimum balance penalties",
+        "gig workers",
+        "excess baggage charges",
+        "annual health check-ups",
+        "joint tax filing"
+      ],
+      "raw_text": "## **Article:**\n\n28-day recharge cycle and incoming call validity He also criticised the 28-day recharge system, noting that users effectively pay for 13 months annually instead of 12. Chadha further raised concerns that incoming calls and essential services like OTPs are disrupted once recharge validity ends, urging reforms to protect users. Paternity leave In Parliament, Chadha argued that paternity leave should be recognised as a legal right, stating that caregiving responsibilities must be shared and fathers should not have to choose between work and supporting their families. Minimum balance penalties Highlighting banking practices, he flagged that banks have collected thousands of crores through penalties on accounts failing to maintain minimum balances. He described such charges as disproportionately affecting low-income individuals, including farmers and pensioners. Gig workers’ rights Chadha raised concerns about the working conditions of gig economy workers, particularly those under pressure from rapid delivery timelines. He criticised the lack of social security and called for fair wages and safer working conditions. Excess baggage charges and flight delays Story continues below this ad In the aviation sector, Chadha questioned why airlines impose strict excess baggage fees but are not held accountable for delays. He argued for a compensation framework that would ensure fairness for passengers. Expensive airport food and consumer costs He also flagged high prices of food at airports, describing it as a burden on travellers with limited alternatives inside restricted zones. This formed part of his broader critique of rising everyday costs. Tax burden and relief measures Chadha proposed policy ideas such as joint tax filing for married couples, arguing that such reforms could ease the financial burden on middle-class households and align India with global practices. Food labelling and public health Raising concerns about misleading food labelling, he criticised companies for marketing sugary drinks as healthy fruit products. He linked such practices to rising lifestyle diseases and called for stricter regulatory oversight. Free annual health check-ups Story continues below this ad Chadha also made a strong case for preventive healthcare, arguing that annual health check-ups should be a legal right for every citizen. According to an NDTV report, he stated in Parliament that such check-ups have become a “luxury” accessible only to the affluent, and called for state-sponsored screening programmes to enable early diagnosis and reduce long-term healthcare costs. He backed this demand with public health concerns, noting low screening rates and emphasising that early detection could significantly reduce mortality and the burden on India’s healthcare system.\n\n**Link:** https://indianexpress.com/article/india/ec-hands-over-bengal-probe-to-nia-10616107/\n\n## **Title: Poll body hands over Bengal probe to NIA after judicial officers attacked**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_16",
+    "chunk_index": 16,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": [
+        "West Bengal",
+        "Malda"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Law Enforcement/Political Incident",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "election-commission",
+          "description": "The Election Commission wrote to the NIA Director General regarding the probe."
+        },
+        {
+          "tag": "national-investigation-agency",
+          "description": "The NIA was ordered to conduct an inquiry into the incident in West Bengal."
+        },
+        {
+          "tag": "judicial-officers",
+          "description": "The judicial officers were appointed by the Supreme Court to decide on elector eligibility."
+        },
+        {
+          "tag": "supreme-court",
+          "description": "The Supreme Court ordered the investigation to be handed over to the CBI or NIA."
+        },
+        {
+          "tag": "malda-district",
+          "description": "The incident involving the judicial officers occurred in the Kaliachowk area of Malda district."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "Political figure",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Election Commission",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "National Investigation Agency",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Central Bureau of Investigation",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Supreme Court",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Ministry of Defence Production",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Judicial officers held by mob",
+          "type": "other",
+          "date": null,
+          "description": "Seven judicial officers were held inside a BDO office in Malda for hours by a surrounding mob.",
+          "partial": false
+        },
+        {
+          "name": "Oil price surge after Trump remarks",
+          "type": "other",
+          "date": null,
+          "description": "Oil prices surged 7 per cent following Donald Trump's remarks on potential strikes in Iran.",
+          "partial": false
+        },
+        {
+          "name": "India's defence exports increase",
+          "type": "other",
+          "date": null,
+          "description": "India's defence exports reached an all-time high of Rs 38,424 crore in 2025-26.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk contains three separate articles: one detailing the Election Commission's order for the NIA to investigate the detention of judicial officers in West Bengal; a second reporting on the 7% surge in oil prices following Trump's remarks on Iran; and a third stating that India's defence exports reached an all-time high in 2025-26.",
+      "key_terms": [
+        "Election Commission",
+        "NIA",
+        "West Bengal",
+        "judicial officers",
+        "oil prices",
+        "Donald Trump",
+        "defence exports",
+        "India"
+      ],
+      "raw_text": "## **Article:**\n\nHours after the Supreme Court ordered it to hand over the probe to either the Central Bureau of Investigation or the National Investigation Agency (NIA), the Election Commission on Thursday wrote to \n\nthe NIA Director General to conduct an inquiry into the incident of seven judicial officers in West Bengal being held inside a BDO office in Malda for hours as a mob surrounded them. The judicial officers are among hundreds of such officials appointed on orders of the Supreme Court to decide on the eligibility of 60.06 lakh electors in the state. The group of seven judicial officers were allegedly gheraoed and were unable to leave a BDO office in Kaliachowk area of Malda district. They were rescued by police after eight hours, and the police van they were travelling in was pelted with stones by the mob. Taking note of the incident, the Supreme Court on Thursday ordered the EC to entrust the investigation to the CBI or NIA in the course of the day. Citing the court order, the EC wrote to the NIA DG saying: “…the necessary inquiry/investigation into the matter be conducted, and a preliminary inquiry report be submitted directly to the Hon’ble Court.” An EC source said an NIA team was expected to reach the state on Friday to start their investigation. Earlier in the evening, the EC held a meeting with the West Bengal officials to review the situation, it is learnt.\n\n**Link:** https://indianexpress.com/article/india/business-economy-oil-prices-surge-brent-crude-108-trump -iran-remarks-petrol-diesel-rates-india-march-2026-10615384/\n\n## **Title: Oil jumps 7percent after Trump warns of fresh Iran strikes; petrol prices fluctuate in India**\n\n## **Article:**\n\nOil prices surged about 7 per cent on March 2, pushing Brent crude futures to $108 per barrel. In early trading, US energy stocks also climbed, with Exxon Mobil rising 3 per cent and Chevron gaining 2.6 per cent, according to Reuters. The spike followed Donald Trump’s remarks on Thursday, signalling continued military operations in Iran. Although he did not mention reopening the Strait of Hormuz, Trump said in a televised address, “We’re going to hit them extremely hard over the next two to three weeks.” He added, “We’re going to bring them back to the Stone Ages where they belong.” Meanwhile, after touching a low of 95.21, the Indian rupee strengthened by about 2 per cent to 92.8350 against the US dollar.\n\n## **Link:**\n\nhttps://indianexpress.com/article/india/india-defence-exports-increased-2025-26-ministry-10616024/\n\n## **Title: India’s defence exports increased by 62.66% in 2025-26 to reach all-time high of Rs 38,424 crore: Ministry**\n\n## **Article:**\n\nThe ministry said the sharp rise highlights the increasing global acceptance of Indian made defence products and the sector’s growing integration with the international supply chains. It stated that aside from being a successful global partner for systems/sub-systems, India is exporting defence equipment to more than 80 countries as of FY 2025-26, adding that the number of exporters went up to 145 from"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "indian-express-news-17cfa1b5",
+    "chunk_id": "indian-express-news-17cfa1b5__chunk_17",
+    "chunk_index": 17,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "Indian Express News",
+      "url": null,
+      "source": "Indian News",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "India"
+      ],
+      "regions": [],
+      "cities": [
+        "Odisha"
+      ]
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Defense Exports and Spending",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "defence-exports",
+          "description": "India's defense exports saw a significant rise in the latest fiscal year."
+        },
+        {
+          "tag": "defence-spending",
+          "description": "The Ministry of Defence utilized its capital outlay for defense services in FY 2025-26."
+        },
+        {
+          "tag": "indigenous-capabilities",
+          "description": "The increase in exports reflects global trust in India's advanced manufacturing."
+        },
+        {
+          "tag": "regulatory-reform",
+          "description": "The Department of Defence Production streamlined export processes with a new online portal."
+        },
+        {
+          "tag": "crime-reporting",
+          "description": "The chunk also reports on a woman's death by self-immolation in Odisha."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Rajnath Singh",
+          "role": "Defence Minister",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Department of Defence Production",
+          "type": "government"
+        },
+        {
+          "name": "Defence Ministry",
+          "type": "government"
+        },
+        {
+          "name": "MoD",
+          "type": "government"
+        },
+        {
+          "name": "The Indian Express",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Odisha woman succumbs to burns",
+          "type": "other",
+          "date": null,
+          "description": "A woman in Ganjam died after setting herself on fire amid alleged harassment.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk reports on India's defense sector achievements, noting a 13.3% rise in exports and increased capital outlay for defense services. It also contains a separate news report about a woman's death by self-immolation in Odisha, allegedly due to harassment.",
+      "key_terms": [
+        "defence exports",
+        "Rajnath Singh",
+        "Defence Ministry",
+        "Odisha",
+        "self-immolation",
+        "MoD",
+        "capital outlay"
+      ],
+      "raw_text": "128 — a 13.3% rise from the previous fiscal. It also highlighted the Department of Defence Production has streamlined defence export regulatory processes with a revamped online portal and simplified Standard Operation Procedure for authorisations. Commending the efforts of all stakeholders in this achievement, Defence Minister Rajnath Singh, in a post on X, said that with DPSUs contributing 54.84% and private industry 45.16%, this milestone showcases the power of a collaborative and self-reliant defence ecosystem. Story continues below this ad He also noted that this significant jump of Rs 14,802 crore in defence exports reflects the growing global trust in India’s indigenous capabilities and advanced manufacturing strength. On Wednesday, the Defence Ministry said that it has fully utilised its capital outlay of Rs 1.86 lakh crore for defence services provided for the FY 2025-26 at the Revised Estimates stage. In the FY 2025-26, AoN (Acceptance of Necessity) for 109 proposals amounting Rs 6.81 lakh crore has been accorded by MoD, compared to 56 proposals worth Rs 1.76 lakh crore approved in FY 2024-25. Also, capital procurement contracts for a total 503 proposals amounting Rs 2.28 lakh crore were signed by MoD in FY 2025-26, it said.\n\n## **Link:**\n\nhttps://indianexpress.com/article/india/odisha-ganjam-self-immolation-woman-death-case-10616029/\n\n## **Title: Days after she set herself on fire amid ‘harassment by male friend’, Odisha woman succumbs to burns**\n\n## **Article:**\n\nThe Ganjam SP told The Indian Express that police arrested the man on charges of rape and seized evidence. According to the woman’s family members, the accused had allegedly been harassing her physically and mentally after she approached him for marriage. The accused also allegedly threatened that he would publicise intimate images. Officers said that as per the preliminary investigation, it is suspected that the woman was under pressure from the family regarding marriage and also due to alleged harassment by her male friend. “We are investigating the matter, considering various aspects. Further investigation is underway to determine the exact cause that led her to take the extreme step,” said a police officer. The officer, who is part of the probe, said they are recording statements of family members and villagers to understand details of the case. Story continues below this ad The investigation also revealed that the girl had attempted to take her own life on two previous occasions in 2023, officers said."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  }
+]

@@ -1,0 +1,1703 @@
+[
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_0",
+    "chunk_index": 0,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "North Carolina"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Society",
+      "sub_category": "Child Welfare",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "child-abuse",
+          "description": "The article details the rescue of six children from a filthy home in North Carolina."
+        },
+        {
+          "tag": "neglect",
+          "description": "The children suffered from severe health issues and lack of education."
+        },
+        {
+          "tag": "police-investigation",
+          "description": "The Wake County Sheriff's Office was involved in the rescue operation."
+        },
+        {
+          "tag": "child-protection",
+          "description": "The article highlights the severe neglect and abuse suffered by the minors."
+        },
+        {
+          "tag": "social-services",
+          "description": "The involvement of CPS and the sheriff's office was crucial in the rescue."
+        },
+        {
+          "tag": "human-interest",
+          "description": "The content includes a story about a fisherman saving a shark."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Lacy Douglas Hocutt Jr.",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Rachelleigh Marie Galasso",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Kevin Phan",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Wake County Sheriff's Office",
+          "type": "government"
+        },
+        {
+          "name": "WRAL",
+          "type": "other"
+        },
+        {
+          "name": "Fox News",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Child Abuse Arrests",
+          "type": "other",
+          "date": "Wednesday",
+          "description": "A man and a woman were arrested in North Carolina on child abuse charges after six children were rescued from a filthy home.",
+          "partial": false
+        },
+        {
+          "name": "Shark Rescue",
+          "type": "other",
+          "date": "Wednesday",
+          "description": "A fisherman named Kevin Phan plunged into the ocean to save a great white shark.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk reports two separate incidents: the arrest of a couple in North Carolina for child abuse and neglect after six children were rescued from a filthy home, and a video of a fisherman saving a great white shark.",
+      "key_terms": [
+        "child abuse",
+        "North Carolina",
+        "neglect",
+        "dog kennel",
+        "shark rescue",
+        "Kevin Phan"
+      ],
+      "raw_text": "**Link:** https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-oth er-kids-filthy-home\n\n## **Title: Two arrested in NC after police find 13-year-old kept in dog kennel, 5 other kids in 'filthy' home**\n\n## **Article:**\n\nNEWYou can now listen to Fox News articles! A man and a woman in North Carolina were arrested on child abuse charges after six children were rescued from a \"filthy\" home, including one child who was kept in a dog kennel. Lacy Douglas Hocutt Jr., 34, and Rachelleigh Marie Galasso, 33, were taken into custody on Wednesday and charged with abuse, neglect and other serious crimes, the Wake County Sheriff's Office said, according to WRAL. The two suspects made their first court appearances on Thursday, when prosecutors said the alleged abuse was among the worst they had ever seen. Prosecutors said six children, ranging in age from one to 15, were removed from the home in February, with each of them having serious health issues, WRAL reported. REPEAT OFFENDER ALLEGEDLY STABS PREGNANT MOM IN RANDOM GROCERY STORE PARKING LOT ATTACK 'WITH A STEAK KNIFE' Multiple children will need to have teeth removed and are unable to eat without pain, prosecutors said. One child, 13, was kept in a dog kennel, court documents show, according to WRAL. The boy was considered to be \"so grossly underweight that it was life-threatening,\" according to the documents. NORTH CAROLINA WOMAN WHO VANISHED 24 YEARS AGO TEARFULLY REUNITES WITH DAUGHTER OUTSIDE COURT \"He now rocks back and forth, and all he yells is, 'You're never getting out. You're never getting out,' which we can only assume is what was screamed at him while he was in there,\" the assistant district attorney told a judge in court on Thursday, WRAL reported. Another child’s scoliosis was left untreated to the point that she \"will have to suffer from the condition for the remainder of her life,\" according to documents. Prosecutors also explained the extent of how filthy the home was. CLICK HERE TO DOWNLOAD THE FOX NEWS APP \"When CPS and Wake County got involved and the sheriff's office went out there, it was so filthy that investigators had to wear protective gear,\" the assistant district attorney said. The children also did not attend school, so none of them could read or write.\n\n**Link:** https://www.foxnews.com/us/heart-pounding-video-shows-fisherman-leaping-ocean-save-greatwhite-shark\n\n## **Title: Heart-pounding video shows fisherman leaping into ocean to save great white shark**\n\n## **Article:**\n\nNEWYou can now listen to Fox News articles! Wild video captured the moment a young fisherman plunged into pounding Southern California surf to wrestle a thrashing shark and free it from his fishing line. Kevin Phan, 20, was reportedly fishing at about 9 a.m. local time Wednesday on Hermosa Beach, when the sea dog caught his line from a nearby pier. In a video captured by beach-goers, Phan was seen rushing to the shoreline to untangle the flailing predator. He appeared to be dangerously close as he attempted to cut the line from the shark's mouth. SHARKS IN BAHAMAS FOUND TO HAVE COCAINE AND OTHER DRUGS IN THEIR SYSTEMS, STUDY SAYS Witnesses could be heard in the background speculating whether the shark was still alive. After a number of tumbles through the"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_1",
+    "chunk_index": 1,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Guatemala",
+        "United States"
+      ],
+      "regions": [
+        "Long Island, N.Y."
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Crime/Legal",
+      "confidence": "medium",
+      "tags": [
+        {
+          "tag": "shark-attack",
+          "description": "The chunk describes a shark attack incident at a pier."
+        },
+        {
+          "tag": "illegal-immigration",
+          "description": "The chunk reports on an illegal immigrant accused of child abuse."
+        },
+        {
+          "tag": "child-abuse",
+          "description": "The primary focus of the second article is the sexual abuse of a minor."
+        },
+        {
+          "tag": "nasa-artemis-ii",
+          "description": "The chunk concludes with a report on NASA's Artemis II mission."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Stephen Copeland",
+          "role": "Witness",
+          "resolved": true
+        },
+        {
+          "name": "George Lam",
+          "role": "Fisherman",
+          "resolved": true
+        },
+        {
+          "name": "Carlos Aguilar Reynoso",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Lauren Bis",
+          "role": "Acting DHS Assistant Secretary",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "KTLA",
+          "type": "other"
+        },
+        {
+          "name": "California State University at Long Beach",
+          "type": "other"
+        },
+        {
+          "name": "Department of Homeland Security (DHS)",
+          "type": "government"
+        },
+        {
+          "name": "U.S. Immigration and Customs Enforcement (ICE)",
+          "type": "government"
+        },
+        {
+          "name": "New York Post",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Shark Attack",
+          "type": "other",
+          "date": null,
+          "description": "A shark attack occurred at a pier, prompting local concern.",
+          "partial": false
+        },
+        {
+          "name": "Illegal Migrant Accused of Child Abuse",
+          "type": "other",
+          "date": "Thursday",
+          "description": "Carlos Aguilar Reynoso was charged with multiple sex assault and child endangerment charges.",
+          "partial": false
+        },
+        {
+          "name": "Artemis II Mission Trajectory Burn",
+          "type": "other",
+          "date": null,
+          "description": "NASA's Artemis II crew committed to a moon trajectory after a critical engine burn.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk covers three distinct topics: a shark attack incident, the arrest and charges against an illegal immigrant accused of child sexual abuse, and NASA's Artemis II mission committing to a moon trajectory.",
+      "key_terms": [
+        "shark attack",
+        "illegal migrant",
+        "child abuse",
+        "DHS",
+        "ICE",
+        "Artemis II",
+        "Orion spacecraft"
+      ],
+      "raw_text": "incoming crashing waves, Phan grabbed ahold of the shark's tail and fearlessly guided it back into the ocean, prompting cheers from onlookers. \"I saw a bunch people over there, and I ran down there like there’s something going on,\" witness Stephen Copeland told local outlet KTLA. \"He was in his underwear… he said that was the second one of the day.\" SHARK ATTACK DEATHS SURGE ABOVE DECADE AVERAGE IN 2025 Phan reportedly suffered minor cuts and scrapes, but was otherwise unharmed, according to the outlet. Other fishermen at the pier said they may avoid the casting spot due to an increase in shark sightings. CLICK HERE TO DOWNLOAD THE FOX NEWS APP \"Don’t know if I’m gonna be coming here as often because of that,\" George Lam told the news station. \"Mostly just here for smaller fish, something get a quick bite.\" Studies by the California State University at Long Beach showed juvenile great white sharks generally pose a low risk to humans at beaches. However, they frequently gather near the shore to feed on small fish.\n\n**Link:** https://www.foxnews.com/us/illegal-migrant-babysitter-accused-5-year-old-attack-now-faces-maj or-charges\n\n## **Title: Illegal migrant babysitter accused in 5-year-old attack now faces major charges**\n\n## **Article:**\n\nNEWYou can now listen to Fox News articles! An illegal immigrant from Guatemala accused of sexually abusing a 5-year-old Long Island, N.Y., girl he was babysitting has been charged with rape, federal authorities said Thursday. Carlos Aguilar Reynoso is charged with predatory sex assault against a child, vaginal sexual contact with a child, sexual abuse, acting in a manner to injure a child, and resisting arrest, the Department of Homeland Security (DHS) said. Reynoso was originally charged with only child endangerment. However, local authorities asked U.S. Immigration and Customs Enforcement (ICE) to arrest him while they gathered evidence to build a larger case against him. Reynoso, 27, was babysitting the girl as a favor to her mother. When the mother returned home from work on Feb. 1, she discovered her daughter bleeding, prompting her to take her to a hospital, authorities said. CONVICTED MURDERERS, CHILD SEX ABUSERS AMONG ILLEGAL ALIENS NABBED BY ICE ACROSS US \"While local llocal law enforcementw enforcement processed DNA evidence and built their case, they contacted ICE to arrest this pedophile so he would not be released into our communities to prey on more innocent children,\" said Acting DHS Assistant Secretary Lauren Bis. \"On March 16, ICE transferred this monster to local law enforcement to face justice for his reprehensible crimes,\" she added. ICE took Reynoso into custody on Feb. 2 as he was coming out of a police precinct, where he appeared for a desk ticket on the child endangerment charge, the New York Post previously reported. CLICK HERE TO DOWNLOAD THE FOX NEWS APP He was turned over to local authorities on March 16. A federal immigration judge issued a deportation order for Reynoso on the same day.\n\n**Link:** https://www.foxnews.com/us/nasas-artemis-ii-crew-commits-moon-trajectory-after-critical-burn-s ends-orion-deep-space\n\n## **Title: NASA's Artemis II crew commits to moon trajectory after critical burn sends Orion into deep space**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_2",
+    "chunk_index": 2,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Fox News; Source: Fox",
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Florida",
+        "Pacific Ocean"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Space Exploration",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "nasa-artemis-ii",
+          "description": "The mission involves the Artemis II crew traveling toward the moon."
+        },
+        {
+          "tag": "deep-space-travel",
+          "description": "The mission sends astronauts farther from Earth than any crewed mission in more than 50 years."
+        },
+        {
+          "tag": "translunar-injection",
+          "description": "This burn propels the spacecraft out of Earth's orbit onto a path around the moon."
+        },
+        {
+          "tag": "space-race",
+          "description": "The mission is part of a broader effort to establish a long-term human presence on the moon."
+        },
+        {
+          "tag": "moon-landing",
+          "description": "The mission tests critical systems needed for future moon landings."
+        },
+        {
+          "tag": "nasa-orion",
+          "description": "Orion is described as the most powerful spacecraft built for human spaceflight."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jeremy Hanson",
+          "role": "Canadian Space Agency astronaut",
+          "resolved": true
+        },
+        {
+          "name": "Reid Wiseman",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Victor Glover",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Christina Koch",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Chad Wolf",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NASA",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Canadian Space Agency",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Space Launch System",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Artemis II mission",
+          "type": "summit",
+          "date": "Wednesday",
+          "description": "The crew fired the main engine, committing the mission to a trajectory toward the moon.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The Artemis II crew successfully executed the translunar injection burn, placing the Orion spacecraft on a free-return trajectory toward the moon. The mission marks a major step in NASA's efforts to establish a long-term human presence on the moon and pave the way for future deep space exploration.",
+      "key_terms": [
+        "Artemis II",
+        "Orion spacecraft",
+        "translunar injection",
+        "deep space travel",
+        "lunar sphere of influence",
+        "NASA"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! NASA’s Artemis II crew fired the Orion spacecraft’s main engine, committing the mission to a trajectory toward the moon just one day after launching into deep space. The translunar injection burn, which lasted several minutes, is the most critical engine firing of the mission and propelled the spacecraft out of Earth’s orbit and onto a path that will carry the crew around the moon and back to Earth. \"With that successful TLI, the crew's feeling pretty good up here on our way to the moon, and we just wanted to communicate to everyone around the planet who's worked to make Artemis possible that we firmly felt the power of your perseverance during every second of that burn,\" Canadian Space Agency astronaut Jeremy Hanson told mission control. \"Humanity has once again shown what we are capable of, and it's your hopes for the future that carry us now on this journey around the moon.\" NASA said the burn places Orion on a \"free-return trajectory,\" a flight path that loops around the moon and naturally brings the spacecraft back toward Earth without requiring additional major propulsion. NASA RACES TO BUILD MOON BASE AS US CHALLENGES CHINA IN NEW SPACE RACE The milestone marks the moment the Artemis II mission transitions from Earth orbit operations to deep space travel, sending astronauts farther from Earth than any crewed mission in more than 50 years. Hanson and astronauts Reid Wiseman, Victor Glover and Christina Koch of the U.S. launched Wednesday evening aboard the Space Launch System rocket from Kennedy Space Center in Florida. The four-person crew lifted off at 6:35 p.m. on Wednesday, marking the first crewed mission beyond low Earth orbit since 1972 and a major step in NASA’s efforts to return humans to the moon. CHILD GOES VIRAL FOR EXCITED, BLUNT RESPONSE TO REPORTER'S QUESTION ABOUT ARTEMIS II MOON MISSION Prior to the translunar injection, the crew completed a perigee raise burn to position the spacecraft in the correct orbital geometry for the maneuver, ensuring the engine firing would place Orion precisely on its intended path. With the burn now complete, Orion will spend the next several days traveling toward the moon, with NASA planning a series of smaller trajectory correction maneuvers to keep the spacecraft on course. As the spacecraft approaches the moon, it will enter the lunar sphere of influence, the point at which the moon’s gravity becomes stronger than Earth’s pull, allowing Orion to swing around the far side before beginning its return journey. CHAD WOLF: SPACE ISN’T JUST THE FINAL FRONTIER, IT’S THE ‘ULTIMATE HIGH GROUND’ Although Artemis II will not land on the lunar surface, the mission is designed to test critical systems needed for future moon landings and deep space exploration. NASA has described Orion as the most powerful spacecraft it has built for human spaceflight, capable of carrying astronauts farther into space than at any point since the Apollo era. The mission follows the uncrewed Artemis I test flight and is intended to pave the way for future missions, including plans to return astronauts to the lunar surface in the coming years. CLICK HERE TO DOWNLOAD THE FOX NEWS APP NASA has said the broader Artemis program aims to establish a long-term human presence on the moon and lay the groundwork for eventual missions to Mars. The Artemis II crew is expected to travel around the moon over several days before returning to Earth for a planned splashdown in the Pacific Ocean.\n\n**Link:** https://www.foxnews.com/us/federal-officials-highlight-arrests-migrants-convicted-arson-other-cri mes-enforcement-continues\n\n## **Title: Federal officials highlight arrests of migrants convicted of arson, other crimes as enforcement continues**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_3",
+    "chunk_index": 3,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Fox News; Source: Fox",
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Honduras",
+        "Colombia",
+        "Mexico",
+        "Cambodia"
+      ],
+      "regions": [],
+      "cities": [
+        "Tarrant County",
+        "Texas",
+        "Miami",
+        "Florida",
+        "Philadelphia",
+        "Carmel",
+        "New York"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Enforcement/Immigration",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-immigration-and-customs-enforcement",
+          "description": "The agency responsible for arresting illegal aliens and enforcing immigration laws."
+        },
+        {
+          "tag": "illegal-alien-arrests",
+          "description": "Reported arrests of individuals convicted of various crimes, including arson and drug trafficking."
+        },
+        {
+          "tag": "public-safety-focus",
+          "description": "Officials emphasized that the arrests reflect a continued focus on public safety."
+        },
+        {
+          "tag": "criminal-convictions",
+          "description": "The arrested individuals were charged with or convicted of serious crimes."
+        },
+        {
+          "tag": "border-enforcement",
+          "description": "The overall effort to enforce laws and apprehend individuals who entered the country illegally."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Lauren Bis",
+          "role": "Acting Assistant Secretary",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": "President",
+          "resolved": true
+        },
+        {
+          "name": "Elias Torres-Collins",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Juan David Fernandez-Garcia",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Juan Flores-Perez",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Sophath Phuong",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Juan Reyes-Gonzalez",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "James Dolphs Elmore Jr.",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Tim Miller",
+          "role": "Father of victim",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "U.S. Immigration and Customs Enforcement",
+          "type": "government"
+        },
+        {
+          "name": "DHS",
+          "type": "government"
+        },
+        {
+          "name": "Galveston County District Attorney",
+          "type": "government"
+        },
+        {
+          "name": "Houston Chronicle",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Arrests of Illegal Aliens",
+          "type": "other",
+          "date": null,
+          "description": "ICE arrested several illegal aliens convicted of crimes including arson, drug trafficking, and burglary.",
+          "partial": false
+        },
+        {
+          "name": "Texas Killing Fields Cold Case",
+          "type": "other",
+          "date": null,
+          "description": "James Dolphs Elmore Jr. was charged with manslaughter and felony tampering with evidence in the death of Laura Miller.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports on U.S. Immigration and Customs Enforcement's ongoing efforts, detailing arrests of illegal aliens convicted of serious crimes across various states. It also covers a separate cold case update regarding the 'Texas Killing Fields' and the indictment of James Dolphs Elmore Jr.",
+      "key_terms": [
+        "ICE arrests",
+        "illegal aliens",
+        "arson",
+        "drug trafficking",
+        "Texas Killing Fields",
+        "enforcement efforts"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! U.S. Immigration and Customs Enforcement said it arrested several illegal aliens convicted of crimes including arson, drug trafficking and burglary as part of ongoing enforcement efforts across the country. The agency said nearly 70% of those arrested were individuals who had been charged with or convicted of crimes in the U.S., underscoring what officials described as a continued focus on public safety. \"Yesterday, the men and women of ICE continued to make American communities safer by arresting arsonists, assailants, drug dealers and other criminal illegal aliens,\" Acting Assistant Secretary Lauren Bis said in a statement. \"Under President Donald Trump, if you come to our country illegally and break our laws, we will find you and we will arrest you.\" ICE ARRESTS CONVICTED PEDOPHILES, VIOLENT ASSAILANTS AS TRUMP MEETS WITH ANGEL FAMILIES ICE highlighted several recent arrests involving individuals convicted of serious offenses. Among them was Elias Torres-Collins, a Honduran national convicted of arson in Tarrant County, Texas. DHS TAKES VICTORY LAP AFTER ARRESTING OVER 10K ILLEGAL ALIENS IN DEEP BLUE CITY DESPITE VIOLENT RIOTS In a separate case, Juan David Fernandez-Garcia, a Colombian national, was arrested after being convicted of burglary with assault in Miami, Florida. Authorities also arrested Juan Flores-Perez, a Mexican national convicted in federal court in the Southern District of Florida of conspiracy to possess 500 grams or more of methamphetamine with intent to distribute. DHS PACKAGES LATEST ICE ARRESTS AS 'CHRISTMAS GIFT TO AMERICANS' In the Northeast, Sophath Phuong, a Cambodian national, was taken into custody after being convicted in Philadelphia of burglary, possessing instruments of crime and criminal conspiracy. Juan Reyes-Gonzalez, a Colombian national, was also arrested following a burglary conviction in Carmel, New York. CLICK HERE TO DOWNLOAD THE FOX NEWS APP ICE did not provide a total number of arrests tied to the announcement but said the cases reflect broader enforcement priorities targeting individuals with criminal records.\n\n**Link:** https://www.foxnews.com/us/father-texas-killing-fields-victim-says-unknowingly-met-suspect-man y-times\n\n## **Title: Father of 'Texas Killing Fields' victim says he unknowingly met the suspect many times**\n\n## **Article:**\n\nNEWYou can now listen to Fox News articles! The father of one victim of the \"Texas Killing Fields\" cold case says he unknowingly met the newly indicted suspect many times before his arrest. James Dolphs Elmore Jr., 61, is charged with manslaughter and felony tampering with evidence in the death of Laura Miller, the Galveston County District Attorney announced on Tuesday, March 31. He is also charged with tampering with evidence in the murder of Audrey Cook. Laura Miller's father, Texas Equusearch founder Tim Miller, said he had repeated encounters with Elmore over the last four years. \"I probably met him 20, 30 times,\" Miller told reporters, according to the Houston Chronicle. 'TEXAS KILLING FIELDS' COLD CASE EXPLODES AS SUSPECT INDICTED IN TWO SLAYINGS DECADES AFTER"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_4",
+    "chunk_index": 4,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Son of late congressman charged after alleged sexual messages and payments to teen",
+      "url": "https://www.foxnews.com/us/son-late-congressman-charged-alleged-sexual-messages-payments-teen",
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "League City",
+        "Calder Road",
+        "Galveston County"
+      ]
+    },
+    "classification": {
+      "category": "Crime",
+      "sub_category": "Cold Case Investigation",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "texas-killing-fields",
+          "description": "Refers to the infamous cold case murders involving multiple women and girls."
+        },
+        {
+          "tag": "cold-case-investigation",
+          "description": "The case was reopened in 2024 by the Galveston County District Attorney’s Office."
+        },
+        {
+          "tag": "murder-indictment",
+          "description": "Elmore was taken into custody and denied bond following recent developments."
+        },
+        {
+          "tag": "true-crime-reporting",
+          "description": "The article features interviews and details from the victim's family."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Miller",
+          "role": "Father of a victim",
+          "resolved": true
+        },
+        {
+          "name": "Elmore",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Audrey Cook",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "Laura Miller",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "Donna Prudhomme",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "Heidi Fye-Villareal",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "William Reece",
+          "role": "Defendant",
+          "resolved": true
+        },
+        {
+          "name": "Kelli Cox",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "Jessica Cain",
+          "role": "Victim",
+          "resolved": true
+        },
+        {
+          "name": "Clyde Hedrick",
+          "role": "Suspect",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Galveston County District Attorney’s Office",
+          "type": "government"
+        },
+        {
+          "name": "FOX 26",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Texas Killing Fields murders",
+          "type": "other",
+          "date": "1970s and 1990s",
+          "description": "The discovery of about 30 bodies of women and girls near Calder Road.",
+          "partial": false
+        },
+        {
+          "name": "William Reece guilty plea",
+          "type": "other",
+          "date": "2022",
+          "description": "Plea guilty to murder stemming from the deaths of Laura Smither, Kelli Cox and Jessica Cain.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article details the reopening of the 'Texas Killing Fields' cold case in 2024, featuring statements from Miller, whose daughter was a victim. It lists several victims and notes that Elmore was taken into custody, while William Reece previously pleaded guilty to related murders.",
+      "key_terms": [
+        "Texas Killing Fields",
+        "cold case",
+        "Galveston County",
+        "Elmore",
+        "William Reece",
+        "murder",
+        "Calder Road"
+      ],
+      "raw_text": "30 BODIES FOUND Miller, whose 16-year-old daughter was among the victims found in the \"Texas Killing Fields,\" said Elmore would approach him and talk about the case. FOLLOW THE FOX TRUE CRIME TEAM ON X \"He reached out to me,\" Miller said. \"For what reason, I don’t know.\" Miller said that some of those conversations included details about the killings that were not widely known. SIGN UP TO GET TRUE CRIME NEWSLETTER \"He knew things,\" Miller said, according to the Chronicle. \"Some of it wasn’t public.\" At the time, Miller said he did not suspect Elmore. SEND US A TIP HERE \"You don’t think this guy could be involved,\" he said. \"You’re thinking, here’s somebody who wants to help.\" Only after the recent indictment did the conversations take on new meaning. LISTEN TO THE NEW 'CRIME & JUSTICE WITH DONNA ROTUNNO' PODCAST \"Now you look back, and it’s like, wow,\" Miller said. \"Was he telling me what he did?\" \"I trusted him,\" he said. \"I really did.\" LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB The charges stem from the infamous \"Texas Killing Fields\" murders, in which the bodies of about 30 women and girls, including Audrey Cook, Laura Miller, Donna Prudhomme and Heidi Fye-Villareal, were found near Calder Road in League City between the 1970s and 1990s. For decades, authorities have worked to determine who was responsible. In 2024, the Galveston County District Attorney’s Office reopened the case. William Reece pleaded guilty in 2022 to murder stemming from the deaths of Laura Smither, Kelli Cox and Jessica Cain, according to FOX 26. Clyde Hedrick, who died last month, was also long suspected in the murders of numerous women in Calder Road Field, according to the outlet. CLICK HERE TO DOWNLOAD THE FOX NEWS APP Elmore was taken into custody and denied bond Tuesday evening.\n\n## **Link:**\n\nhttps://www.foxnews.com/us/son-late-congressman-charged-alleged-sexual-messages-payments-teen\n\n## **Title: Son of late congressman charged after alleged sexual messages and payments to teen**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_5",
+    "chunk_index": 5,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Florida"
+      ]
+    },
+    "classification": {
+      "category": "Society",
+      "sub_category": "Crime",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "sexual-abuse",
+          "description": "The article details charges related to inappropriate conduct with a minor."
+        },
+        {
+          "tag": "child-pornography",
+          "description": "The accused was charged with possession of child pornography."
+        },
+        {
+          "tag": "pinellas-county",
+          "description": "The charges were filed by the Pinellas County Sheriff’s Office."
+        },
+        {
+          "tag": "sexual-exploitation",
+          "description": "The alleged scheme involved exchanging money and food for nude photos."
+        },
+        {
+          "tag": "congressional-figure",
+          "description": "The accused is the son of a long-serving congressman."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Patrick Rainey Young",
+          "role": "Accused",
+          "resolved": true
+        },
+        {
+          "name": "Bill Young",
+          "role": "Late Congressman",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Pinellas County Sheriff’s Office",
+          "type": "government"
+        },
+        {
+          "name": "Seminole High School",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Charges against Patrick Rainey Young",
+          "type": "other",
+          "date": "2026",
+          "description": "Patrick Rainey Young was charged with soliciting a child for unlawful sexual conduct and possession of child pornography.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that Patrick Rainey Young, son of the late Rep. Bill Young, was charged with child pornography and sexual misconduct after allegedly engaging in inappropriate conduct with a 15-year-old girl in Florida.",
+      "key_terms": [
+        "Patrick Rainey Young",
+        "child pornography",
+        "sexual misconduct",
+        "Pinellas County Sheriff’s Office",
+        "Florida",
+        "Bill Young"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! The son of one of the longest serving Republicans in Congress faces child pornography and other serious charges after allegedly engaging in inappropriate conduct with a 15-year-old girl in Florida. The Pinellas County Sheriff’s Office said 38-year-old Patrick Rainey Young, son of the late Rep. Bill Young, has been charged with single counts of soliciting a child for unlawful sexual conduct using an electronic device and harmful communication to a minor, as well as two counts of possession of child pornography. The sheriff’s Crimes Against Children Unit received information on Jan. 8, 2026, that a 38-year-old man and 15-year-old girl had engaged in inappropriate conduct. The man was later identified as Young. According to police, Young met the girl while working the scoreboard at his son’s baseball game at Seminole High School. EX-MAYOR CAUGHT IN LEWD ACT AT BOOZE-FILLED POOL PARTY, PROSECUTORS SAY He then allegedly made sexual comments about the victim’s body and gave her alcohol and nicotine, the sheriff’s office said. After the initial interaction, Young and the victim allegedly continued their relationship at baseball games, and through Instagram messages, where the two discussed sexual favors and nude photos in exchange for money. HIGH SCHOOL SENIOR FACING MORE THAN 300 FELONY CHARGES IN ALLEGED SEXTORTION SCHEME TARGETING MINORS: REPORTS Detectives learned during the investigation that Young allegedly gave the girl $300 after he received a nude photo of her. Additionally, the girl was given food in exchange for nude photos, the sheriff’s office alleged. Young was ultimately arrested and transported to the Pinellas County Jail, where he remains in custody on $10,000 bond – $5,000 for each possession of child pornography charge. WILD BODYCAM VIDEO SHOWS COPS\n\nSTORM CHAOTIC TEEN 'TAKEOVER' AS BUSINESSES THRASHED: 'THEY COME TO FIGHT Young’s father, Bill Young, died in 2013 at the age of 82. Up until that point, he was the longest-tenured Republican in the U.S. House of Representatives and served as the longtime top appropriator for the defense industry. He served in the House for 42 years and 288 days, beginning in 1971 and ending at his death. CLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\n## **Link:**\n\nhttps://www.foxnews.com/us/accused-killer-caught-missouri-after-california-jail-mistakenly-freed-him\n\n## **Title: Accused killer caught in Missouri after California jail mistakenly freed him**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_6",
+    "chunk_index": 6,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Fox News",
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "St. Louis",
+        "Missouri",
+        "Seattle",
+        "Northgate",
+        "Antioch",
+        "California",
+        "Sacramento"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Law Enforcement/Crime",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "homicide-suspect-arrest",
+          "description": "The article details the capture of a homicide suspect who was mistakenly released from jail."
+        },
+        {
+          "tag": "miscarriage-of-justice",
+          "description": "The core issue discussed is the jail staff's error in releasing the suspect."
+        },
+        {
+          "tag": "us-marshals-service",
+          "description": "The U.S. Marshals Service was involved in the multi-agency manhunt for the suspect."
+        },
+        {
+          "tag": "seattle-crime",
+          "description": "The suspect is accused of a fatal shooting that occurred in Seattle."
+        },
+        {
+          "tag": "legal-error",
+          "description": "The suspect was released despite having multiple outstanding warrants."
+        },
+        {
+          "tag": "manhunt",
+          "description": "The suspect remained at large for over five months before being located."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Isaiah Jamon Andrews",
+          "role": "homicide suspect",
+          "resolved": true
+        },
+        {
+          "name": "Theodore Wheeler",
+          "role": "victim",
+          "resolved": true
+        },
+        {
+          "name": "Shon Barnes",
+          "role": "Seattle Police Chief",
+          "resolved": true
+        },
+        {
+          "name": "victim’s mother",
+          "role": null,
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "U.S. Marshals Service",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Contra Costa County Jail",
+          "type": "government"
+        },
+        {
+          "name": "Seattle police",
+          "type": "government"
+        },
+        {
+          "name": "Fox News Digital",
+          "type": "media"
+        },
+        {
+          "name": "Contra Costa County Sheriff’s Office",
+          "type": "government"
+        },
+        {
+          "name": "KUTV",
+          "type": "media"
+        },
+        {
+          "name": "KING 5 Seattle",
+          "type": "media"
+        }
+      ],
+      "events": [
+        {
+          "name": "Fatal shooting of Theodore Wheeler",
+          "type": "other",
+          "date": "Oct. 15, 2025",
+          "description": "The shooting occurred in Seattle’s Northgate neighborhood.",
+          "partial": false
+        },
+        {
+          "name": "Mistaken release of Isaiah Jamon Andrews",
+          "type": "other",
+          "date": "Oct. 22",
+          "description": "Andrews was mistakenly released from the Contra Costa County Jail.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that a homicide suspect, Isaiah Jamon Andrews, was captured in St. Louis, Missouri, after being mistakenly released from a California jail months earlier. He is accused of the fatal shooting of Theodore Wheeler in Seattle.",
+      "key_terms": [
+        "Isaiah Jamon Andrews",
+        "U.S. Marshals Service",
+        "California jail",
+        "St. Louis, Missouri",
+        "Theodore Wheeler",
+        "homicide suspect",
+        "miscarriage of justice"
+      ],
+      "raw_text": "## **Article:**\n\nA homicide suspect who was mistakenly released from a California jail last year has been captured more than 2,000 miles away by the U.S. Marshals Service, authorities said. Isaiah Jamon Andrews, 20, was arrested Tuesday in St. Louis, Missouri, after months on the run following his accidental release from custody in October, Seattle police said Wednesday. He is accused in the fatal shooting of 20-year-old Theodore Wheeler in Seattle’s Northgate neighborhood on Oct. 15, 2025, authorities said. Andrews was initially arrested days after the shooting in Antioch, California, after a vehicle pursuit involving multiple law enforcement agencies and booked into the Contra Costa County Jail on a temporary homicide warrant. FAMILY WARNED NONPROFIT NOT TO FREE REPEAT OFFENDER WHO ALLEGEDLY KILLED MAN DAYS LATER But just days after his arrest, jail staff mistakenly released Andrews on Oct. 22, even though he was being held on local charges, a juvenile warrant out of Sacramento and an out-of-state homicide warrant tied to the Seattle case, according to authorities. The error was not discovered until after Andrews had already left the facility, triggering a multi-agency manhunt involving the U.S. Marshals Service. He remained at large for more than five months before being located and arrested without incident in St. Louis, officials said. He is expected to be extradited back to Washington state to face a first-degree murder warrant. Authorities have not publicly explained how the release happened. Fox News Digital has reached out to the Contra Costa County Sheriff’s Office for comment on what led to the error but did not receive a response. Seattle Police Chief Shon Barnes acknowledged the mistake in October. CALIFORNIA FAMILY SUES CITY FOR $40M AFTER REPEAT OFFENDER ALLEGEDLY KILLS BELOVED LAB TECH OUTSIDE LIBRARY \"Certainly, it was an error that if they had to go back and do it all again, they would’ve done something differently,\" Barnes told KUTV. \"But it’s my understanding that he was released by accident, and they are working feverishly to put him back into custody.\" At the time, Andrews was also facing local charges in California and had an outstanding juvenile warrant out of Sacramento County, according to officials. For the victim’s family, the mistake was devastating. \"I’m sad, I’m hurt, I’m disappointed. I feel like they don’t care,\" the victim’s mother told KING 5 Seattle after the mistake came to light. \"Nobody notified me.\" CLICK HERE TO DOWNLOAD THE FOX NEWS APP She said she feared for her safety after learning the suspect had been released. \"They shouldn’t have anyone in the field who would let something like this happen. Never,\" she said. \"I want someone to step up and take responsibility. They’re putting my family in danger.\"\n\n**Link:** https://www.foxnews.com/us/american-airlines-flight-diverted-detroit-after-passenger-allegedly-m akes-ominous-threat\n\n## **Title: American Airlines flight diverted to Detroit after passenger allegedly makes ominous threat**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_7",
+    "chunk_index": 7,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Detroit",
+        "New York"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Security Incident",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "false-bomb-threat",
+          "description": "A passenger made a false bomb threat on an American Airlines flight."
+        },
+        {
+          "tag": "american-airlines",
+          "description": "The airline involved in the incident was American Airlines."
+        },
+        {
+          "tag": "jason-douglas-pazol",
+          "description": "Jason Douglas Pazol was the passenger who made the threat."
+        },
+        {
+          "tag": "detroit-metro-airport",
+          "description": "The flight was diverted to the Detroit Metro Airport."
+        },
+        {
+          "tag": "false-information",
+          "description": "Pazol was charged with conveying false or misleading information."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jason Douglas Pazol",
+          "role": "Passenger",
+          "resolved": true
+        },
+        {
+          "name": "Ray Tierney",
+          "role": "Suffolk County District Attorney",
+          "resolved": true
+        },
+        {
+          "name": "Ruben Guanipa Ramirez",
+          "role": "Accused",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "American Airlines",
+          "type": "corporate"
+        },
+        {
+          "name": "Justice Department",
+          "type": "government"
+        },
+        {
+          "name": "TSA",
+          "type": "government"
+        },
+        {
+          "name": "Fox News Digital",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "American Airlines flight diversion",
+          "type": "other",
+          "date": "March 29",
+          "description": "A passenger made a false bomb threat on a Chicago-bound flight, forcing an emergency landing in Detroit.",
+          "partial": false
+        },
+        {
+          "name": "Gilgo Beach throat slashing",
+          "type": "other",
+          "date": null,
+          "description": "An illegal immigrant was charged with attempted murder in a throat-slashing attempt.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports on a passenger, Jason Douglas Pazol, who made a false bomb threat on an American Airlines flight, leading to an emergency landing in Detroit. It also transitions to a separate story about an illegal immigrant, Ruben Guanipa Ramirez, charged with attempted murder in a throat-slashing incident.",
+      "key_terms": [
+        "false bomb threat",
+        "American Airlines",
+        "Jason Douglas Pazol",
+        "Detroit Metro Airport",
+        "Gilgo Beach",
+        "attempted murder",
+        "illegal immigrant"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! A passenger on a Chicago-bound American Airlines flight made a false bomb threat, forcing the aircraft to make an emergency landing in Detroit, authorities said. Jason Douglas Pazol was having a breakdown over medication issues on flight 2819 when he told other passengers and crew: \"I will blow this f------ plane up,\" during the March 29 incident, the Justice Department said. \"I swear to God, I am going to do something terrible,\" he said, according to court documents. BAGGAGE HANDLER SLAMMED AFTER VIRAL VIDEO SHOWS GUITARS VIOLENTLY TOSSED ON TARMAC The flight was packed with 150 passengers and crew when it departed from New York's John F. Kennedy International Airport and was quickly diverted to the Detroit Metro Airport. Everyone was removed from the aircraft, and it was taken to an isolated area and checked for explosives. None were found and the passengers and crew were re-screened. TSA OFFICERS LOSE HOMES, CAN'T PAY MEDICAL BILLS, CAN'T AFFORD EASTER BASKETS FOR THEIR CHILDREN A federal complaint said that Pazol said he made the threat because he wanted to prevent \"an outburst. He felt that the passengers on the flight were not safe around him, so he made the threat to force the aircraft to land.\" No one was injured. \"I know why people say stuff like that,\" Pazol later admitted to authorities, federal prosecutors said. \"I know why people say, 'Get this f------ plane on the ground,' and 'Blow it up,' because that's what people do to get planes landed. Not because I want the plane landed, but because I am f------ sick.\" CLICK HERE TO DOWNLOAD THE FOX NEWS APP Pazol is charged with conveying false or misleading information. After authorities determined he was unarmed, Pazol was taken to a hospital for an evaluation, court documents show. Fox News Digital has reached out to American Airlines.\n\n**Link:** https://www.foxnews.com/us/migrant-charged-gilgo-beach-throat-slashing-fueling-serial-killer-cop ycat-fears\n\n## **Title: Migrant charged in Gilgo Beach throat slashing, fueling serial killer copycat fears**\n\n## **Article:**\n\nNEWYou can now listen to Fox News articles! New York prosecutors have charged an illegal immigrant from Venezuela with attempted murder in a throat-slashing attempt that experts warn could be a potential copycat attempt ahead of an expected guilty plea from the suspected Gilgo Beach serial killer. \"This defendant allegedly drove a man that he knew to a remote beach and attacked him from behind with a knife,\" Suffolk County District Attorney Ray Tierney said in a statement. \"The evidence recovered from his vehicle raises serious questions about what he intended that night.\" Ruben Guanipa Ramirez, 26, is accused of smothering an unidentified male victim's mouth with a rag before stabbing him from behind on the left side and attempting to slash his throat. ACCUSED GILGO BEACH SERIAL KILLER REX HEUERMANN EXPECTED TO PELAD GUILTY IN MURDER CASE: REPORTS Police later searched Ramirez's car, a 2024 Lexus NX250, and allegedly found multiple knives, rope, duct tape,"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_8",
+    "chunk_index": 8,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Florida Democratic Party vice chair’s husband charged with murder after she was found dead at home",
+      "url": "https://www.foxnews.com/us/florida-democratic-party-vice-chairs-husband-charged-murder-aftershe-was-found-dead-home",
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Florida",
+        "Long Island"
+      ],
+      "cities": [
+        "Riverhead",
+        "Nassau County",
+        "Queens"
+      ]
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "Crime",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "murder-case",
+          "description": "The chunk discusses the arrest and charges related to a murder case."
+        },
+        {
+          "tag": "crime-investigation",
+          "description": "The text details the evidence and investigation surrounding the alleged crime."
+        },
+        {
+          "tag": "forensic-evidence",
+          "description": "Specific items found in the suspect's car are mentioned as evidence."
+        },
+        {
+          "tag": "true-crime",
+          "description": "The content is presented in a true crime news format."
+        },
+        {
+          "tag": "legal-process",
+          "description": "Details about bail and legal proceedings are included."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Ramirez",
+          "role": "Suspect",
+          "resolved": true
+        },
+        {
+          "name": "Rex Heuermann",
+          "role": "Suspect",
+          "resolved": true
+        },
+        {
+          "name": "Joseph Giacalone",
+          "role": "Retired NYPD sergeant",
+          "resolved": true
+        },
+        {
+          "name": "Tierney",
+          "role": "Unspecified official",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Suffolk County Jail",
+          "type": "government"
+        },
+        {
+          "name": "NYPD",
+          "type": "government"
+        },
+        {
+          "name": "Nassau County",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Murder Case",
+          "type": "other",
+          "date": null,
+          "description": "The alleged murder case involving Ramirez and the victim.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the evidence found in Ramirez's car, his immigration status, and the connection drawn by observers between his alleged crimes and the case of Rex Heuermann. It also describes the victim's escape and the subsequent legal bail requirements.",
+      "key_terms": [
+        "Ramirez",
+        "Rex Heuermann",
+        "murder case",
+        "Suffolk County Jail",
+        "NYPD",
+        "bale"
+      ],
+      "raw_text": "blankets, plastic drop cloths, a \"large-wheeled bag,\" gloves and a box cutter. Ramirez entered the country in 2014 with a B2 tourist visa, non-immigrant visas granted for six months, and he never left. For several years, he benefited from temporary protected status for Venezuelans, but that expired, too, last year. SIGN UP TO GET TRUE CRIME NEWSLETTER He is being held at the Suffolk County Jail in Riverhead — the same facility housing Gilgo Beach suspect Rex Heuermann, 62. While authorities have not publicly spoken of any connection between the crimes, observers like retired NYPD sergeant Joseph Giacalone, former head of the NYPD's Bronx Cold Case Unit, see alarming similarities. \"Was this a copycat crime... related to what is happening with Rex Heuermann in the news?\" said Giacalone, who has been following the Gilgo case for years. \"They need to take a long hard look at this guy.\" SEND US A TIP HERE He said the items recovered from Ramirez’s car were particularly concerning, noting Heuermann’s alleged victims were found bound with duct tape and wrapped in burlap or plastic. Some were dismembered. Prior to the attack in the Gilgo Beach parking lot, Ramirez allegedly drove the victim to a pool hall in Nassau County and then Jones Beach, another waterfront nearby — where Heuermann once worked on the summer beach patrol. LISTEN TO THE NEW 'CRIME & JUSTICE WITH DONNA ROTUNNO' PODCAST \"During the altercation, the victim sustained defensive wounds to his hands but was able to wrestle the knife away from Ramirez,\" Tierney's office said in a statement. The victim managed to seize control of Ramirez's car, call 911 and drive himself to a friend's apartment in Queens, where the NYPD met up with him and he received medical treatment. LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB State police found Ramirez walking along the Long Island Expressway hours later. FOLLOW THE FOX TRUE CRIME TEAM ON X That's more than 20 miles from where prosecutors said the victim escaped from him on the side of Ocean Parkway — the remote waterfront highway made infamous after police found 11 bodies just east of Gilgo Beach in 2010 and 2011. CLICK HERE TO DOWNLOAD THE FOX NEWS APP Ramirez is being held on $200,000 cash bail, $500,000 bond or $2 million partially secured bond.\n\n**Link:** https://www.foxnews.com/us/florida-democratic-party-vice-chairs-husband-charged-murder-aftershe-was-found-dead-home\n\n## **Title: Florida Democratic Party vice chair’s husband charged with murder after she was found dead at home**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_9",
+    "chunk_index": 9,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "Coral Springs"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Local Politics",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "florida-democratic-party",
+          "description": "The Florida Democratic Party's vice chair's husband was charged with murder."
+        },
+        {
+          "tag": "nancy-metayer-bowen",
+          "description": "Nancy Metayer Bowen was the vice chair of the Florida Democratic Party and Coral Springs Vice Mayor."
+        },
+        {
+          "tag": "premeditated-murder",
+          "description": "The husband of the vice chair was accused of premeditated murder."
+        },
+        {
+          "tag": "bond-court-hearing",
+          "description": "Stephen Bowen appeared before a judge in a bond court hearing."
+        },
+        {
+          "tag": "political-tribute",
+          "description": "Multiple figures paid tribute to Bowen's life and career."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Nancy Metayer Bowen",
+          "role": "Vice Chair of the Florida Democratic Party and Coral Springs Vice Mayor",
+          "resolved": true
+        },
+        {
+          "name": "Stephen Bowen",
+          "role": "Husband of Nancy Metayer Bowen",
+          "resolved": true
+        },
+        {
+          "name": "Maxwell Alejandro Frost",
+          "role": "U.S. Representative from Florida",
+          "resolved": true
+        },
+        {
+          "name": "Jared Moskowitz",
+          "role": "Representative",
+          "resolved": true
+        },
+        {
+          "name": "Nikki Fried",
+          "role": "Florida Democratic Party Chair",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Florida Democratic Party",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Coral Springs City Commission",
+          "type": "government"
+        },
+        {
+          "name": "Broward County Soil and Water Conservation District",
+          "type": "government"
+        },
+        {
+          "name": "Fox News",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Murder Accusation",
+          "type": "other",
+          "date": null,
+          "description": "The husband of Nancy Metayer Bowen was accused of premeditated murder and tampering with evidence.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that Nancy Metayer Bowen, Vice Chair of the Florida Democratic Party and Coral Springs Vice Mayor, was found dead, and her husband, Stephen Bowen, was charged with premeditated murder. Several political figures and family members paid tributes to her life and service.",
+      "key_terms": [
+        "Nancy Metayer Bowen",
+        "Florida Democratic Party",
+        "Coral Springs Vice Mayor",
+        "premeditated murder",
+        "Stephen Bowen",
+        "bond court hearing"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! The husband of the vice chair of the Florida Democratic Party is accused of premeditated murder and tampering with evidence after his wife was found dead, according to jail records. Investigators confirmed that vice chair of the Florida Democratic Party and Coral Springs Vice Mayor Nancy Metayer Bowen's body was found around 10 a.m. during a welfare check. Few details have been released surrounding her death, including the cause. On Thursday morning, Stephen Bowen appeared before a judge in a bond court hearing where he was ordered held without bond. FLORIDA VICE MAYOR FOUND DEAD IN HOME AFTER 'DOMESTIC VIOLENCE INCIDENT'; HUSBAND IN POLICE CUSTODY \"I have reviewed the probable cause affidavit. The court does find probable cause for the charges,\" the judge said. Bowen was first elected to the Coral Springs City Commission in 2020 and was re-elected in 2024. She was appointed by the commission last November to serve a second, one-year term as vice mayor, according to her bio on the city’s website. Before being elected to the commission, Bowen worked as an environmental scientist who formerly served on the Broward County Soil and Water Conservation District, the South Florida Sun Sentinel\n\nreported. Bowen's family confirmed her death on her social media accounts. \"Throughout her years in public office, she led with integrity, compassion, and an unwavering sense of purpose,\" the family’s statement said. \"She believed in bringing people together, listening to those she served, and working tirelessly to create positive change in her community. To us, she was a source of strength, wisdom, and love — someone who always put others before herself. \"While many knew her as a leader and advocate, we knew her as a sister, a daughter, and a friend whose warmth and laughter filled every room. Her legacy will live on not only in the policies she helped shape, but in the countless lives she touched.\" The Coral Springs government Facebook page paid tribute to Bowen, calling her \"leadership grounded in compassion, strength, and an unwavering commitment to others.\" \"Her impact on Coral Springs is immeasurable, and her loss leaves a void in our hearts. We ask our community to keep her family, loved ones, and all who are grieving in your thoughts and prayers. In this difficult time, we stand together as one city. We will carry her light, even in this darkness.\" U.S. Rep. Maxwell Alejandro Frost, D-Fla., said he was saddened to hear of Bowen's death, remembering her as a \"tireless advocate, a dedicated progressive leader, and a powerful voice for her community.\" GET BREAKING NEWS BY EMAIL Rep. Jared Moskowitz posted on X: \"I'm in shock. I was just with her on Saturday. She just buried her brother. She was about to announce she was running for Congress.\" \"Nancy was one of the nicest people I worked with,\" he said. \"Always fighting for her community, always pushing to help. She had such a future. This is terrible.\" CLICK HERE FOR MORE US NEWS Florida Democratic Party Chair Nikki Fried said she spoke with Bowen a few days ago. CLICK HERE TO DOWNLOAD THE FOX NEWS APP \"I held her in a hug at our party’s leadership summit, never imagining it would be one of our last moments together,\" Fried said in a statement. FOLLOW US ON X \"Nancy was my friend and a friend to everyone who has ever believed that democracy was worth fighting for. The world is less bright without her in it.\" GOT A TIP?\n\n**Link:** https://www.foxnews.com/us/lead-nancy-guthrie-cop-had-no-homicide-experience-sheriff-benche d-top-detectives-sources\n\n## **Title: Lead Nancy Guthrie cop had no homicide experience, sheriff benched top detectives: sources**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_10",
+    "chunk_index": 10,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Fox News",
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [],
+      "regions": [],
+      "cities": [
+        "SAVANNAH"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Law Enforcement/Investigation",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "pima-county-sheriff",
+          "description": "The Pima County Sheriff's Department is involved in the investigation."
+        },
+        {
+          "tag": "nancy-guthrie",
+          "description": "Nancy Guthrie is the missing person at the center of the investigation."
+        },
+        {
+          "tag": "homicide-investigation",
+          "description": "The article discusses the handling of the homicide investigation."
+        },
+        {
+          "tag": "sheriff-leadership",
+          "description": "The article critiques the sheriff's management decisions regarding detectives."
+        },
+        {
+          "tag": "investigative-sources",
+          "description": "Information comes from sources with knowledge of the department."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Nancy Guthrie",
+          "role": "Missing person",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Pima County Sheriff's Department",
+          "type": "government"
+        },
+        {
+          "name": "Fox News Digital",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Nancy Guthrie's suspected abduction",
+          "type": "other",
+          "date": null,
+          "description": "The investigation into the disappearance of Nancy Guthrie.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports that sources suggest Pima County Sheriff Chris Nanos' management decisions initially pulled experienced investigators away from the search for Nancy Guthrie. The investigation involves a task force and the initial homicide squad, whose experience levels are questioned.",
+      "key_terms": [
+        "Pima County Sheriff",
+        "Nancy Guthrie",
+        "homicide squad",
+        "investigators",
+        "task force",
+        "abduction"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! As questions mount about Pima County Sheriff Chris Nanos’ handling of the search for 84-year-old Nancy Guthrie, two sources with knowledge of the department say his management decisions initially pulled the most experienced investigators off the case. Only one detective had more than three years on the homicide squad at the time of Guthrie's suspected abduction, the sources told Fox News Digital. The other five had less than two. The sergeant supervising them had zero. There was another homicide detective with less than a year of experience, but he's transferred out. Meanwhile, at least two seasoned homicide detectives had already been sidelined because they were not \"favored\" by Nanos' leadership team, according to one of the sources. They were sent over to the cold case division. SAVANNAH GUTHRIE BREAKS DOWN OVER POSSIBILITY HER MOM WAS TARGETED BECAUSE OF HER FAME, APOLOGIZES TO FAMILY The sheriff later brought one of them into the Guthrie investigation after it went into a task force phase in late February. The task force, consisting of county detectives and FBI agents, is separate from the initial homicide squad assigned to the case. Guthrie's whereabouts remain unknown, and Nanos has publicly maintained optimism that she could still be alive, telling Fox News Digital previously that \"anything's possible.\" Homicide detectives, however, have been part of the case since the first week. The homicide sergeant's apparent lack of experience is not necessarily a problem, either, according to"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_11",
+    "chunk_index": 11,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": [],
+      "cities": [
+        "Phoenix",
+        "Tucson",
+        "Providence"
+      ]
+    },
+    "classification": {
+      "category": "Cyber",
+      "sub_category": "True Crime",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "homicide-case",
+          "description": "The chunk discusses the ongoing investigation into the disappearance of Guthrie."
+        },
+        {
+          "tag": "law-enforcement-critique",
+          "description": "The text critiques the handling of the investigation by local law enforcement."
+        },
+        {
+          "tag": "legal-dispute",
+          "description": "The county board of supervisors is dealing with allegations of perjury against the sheriff."
+        },
+        {
+          "tag": "missing-person",
+          "description": "The chunk details the abduction and disappearance of Guthrie."
+        },
+        {
+          "tag": "media-coverage",
+          "description": "The information is presented through a true crime news format."
+        },
+        {
+          "tag": "investigative-journalism",
+          "description": "The text provides updates and analysis on the criminal investigation."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Joseph Giacalone",
+          "role": "retired NYPD sergeant and former professor of criminal justice",
+          "resolved": true
+        },
+        {
+          "name": "Guthrie",
+          "role": "missing person",
+          "resolved": true
+        },
+        {
+          "name": "Savannah Guthrie",
+          "role": "daughter of Guthrie",
+          "resolved": true
+        },
+        {
+          "name": "Iryna Zarutska",
+          "role": "slain Ukrainian ref",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NYPD",
+          "type": "other"
+        },
+        {
+          "name": "Pima County Sheriff's Department",
+          "type": "government"
+        },
+        {
+          "name": "Fox News Digital",
+          "type": "media"
+        },
+        {
+          "name": "county deputies union",
+          "type": "ngo"
+        },
+        {
+          "name": "county board of supervisors",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Guthrie's disappearance",
+          "type": "other",
+          "date": "Feb. 1",
+          "description": "Guthrie was believed to have been taken from her home in the Catalina Foothills.",
+          "partial": false
+        },
+        {
+          "name": "Mural project cancellation",
+          "type": "other",
+          "date": null,
+          "description": "The mayor of Providence slammed a mural project dedicated to Iryna Zarutska.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk provides updates on the investigation into Guthrie's disappearance, criticizing the local law enforcement's handling of the case. It also mentions the county board of supervisors addressing allegations of perjury against the sheriff and concludes with a separate story about a mural project in Providence.",
+      "key_terms": [
+        "Guthrie",
+        "disappearance",
+        "Pima County Sheriff's Department",
+        "Joseph Giacalone",
+        "perjury",
+        "mural project"
+      ],
+      "raw_text": "Joseph Giacalone, a retired NYPD sergeant and former professor of criminal justice. The Pima County Sheriff's Department did not immediately respond to a request for comment. \"There are other experienced detectives that should be helping,\" Giacalone told Fox News Digital. \"But also, [Nanos] has two major cities within striking distance, Phoenix and Tucson, who he could've asked for some assistance to come in and share their experience and knowledge with his people.\" FOLLOW THE FOX TRUE CRIME TEAM ON X Doing so would've been a sign of leadership, he said. \"A lack of experience can be overcome by mentorship and training,\" he added. SIGN UP TO GET TRUE CRIME NEWSLETTER At the start of the search for Guthrie, the county deputies union blasted the sheriff for a staffing decision that allegedly delayed the flight of the sheriff's high-tech search and rescue plane — with its pilot reassigned to regular street patrols. \"You have to understand, he terrorizes the entire department and makes examples out of anyone even perceived to be disloyal,\" one of the sources said. \"I know that sounds hyperbolic. It is not.\" SEND US A TIP HERE Although Guthrie's whereabouts remain unknown after more than two months, Nanos said early on in the case that homicide detectives were involved in the case. Separately, the county board of supervisors has hired outside legal counsel to guide them on how to respond to allegations that the sheriff perjured himself during a deposition in a First Amendment lawsuit brought against him by one of his own deputies. LISTEN TO THE NEW 'CRIME & JUSTICE WITH DONNA ROTUNNO' PODCAST The board plans to bring Nanos into a hearing and demand he answers questions. Guthrie is believed to have been taken from her home in the Catalina Foothills in the early morning hours of Feb. 1. LIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB A trail of blood droplets led from her front door to the edge of her driveway, but law enforcement sources said there were no signs of a struggle inside. Guthrie's daughter, \"Today\" co-host Savannah Guthrie, revealed in her first televised interview since her mom's disappearance that the back doors were propped open. CLICK HERE TO DOWNLOAD THE FOX NEWS APP DNA testing has so far not led to a publicly identified suspect or any arrests. Digital forensics recovered jarring surveillance images of a masked man at Guthrie's front door on the morning of her abduction and overnight on Jan. 11. The family is asking anyone with information on the case to dial 1-800-CALL-FBI.\n\n**Link:** https://www.foxnews.com/us/democrat-providence-mayor-slams-mural-project-dedicated-slain-ir yna-zarutska\n\n## **Title: Democrat Providence mayor slams mural project dedicated to slain Iryna Zarutska**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_12",
+    "chunk_index": 12,
+    "total_chunks": 14,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": [],
+      "cities": [
+        "Providence",
+        "North Carolina",
+        "Charlotte"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Local Politics",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "providence-mayor-statement",
+          "description": "Mayor Brett Smiley criticized the mural project as divisive and misguided."
+        },
+        {
+          "tag": "mural-project-cancellation",
+          "description": "The mural project honoring Iryna Zarutska was ultimately shut down by the business owner."
+        },
+        {
+          "tag": "political-controversy",
+          "description": "The article details the political nature of the debate surrounding the mural."
+        },
+        {
+          "tag": "community-division",
+          "description": "Smiley stated the mural was not bringing the community together."
+        },
+        {
+          "tag": "local-politics",
+          "description": "The incident involves local political figures and community art."
+        },
+        {
+          "tag": "refugee-tragedy",
+          "description": "The mural honored a slain Ukrainian refugee."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Brett Smiley",
+          "role": "Mayor of Providence",
+          "resolved": true
+        },
+        {
+          "name": "Iryna Zarutska",
+          "role": "Slain Ukrainian refugee",
+          "resolved": true
+        },
+        {
+          "name": "Decarlos Brown Jr.",
+          "role": "Suspect in murder",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "WPRI",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Mural Project Controversy",
+          "type": "other",
+          "date": null,
+          "description": "The debate over a mural honoring Iryna Zarutska in Providence.",
+          "partial": false
+        },
+        {
+          "name": "Murder of Iryna Zarutska",
+          "type": "other",
+          "date": "Aug. 22",
+          "description": "Iryna Zarutska was randomly stabbed from behind on a light-rail train.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Providence Mayor Brett Smiley criticized a canceled mural project honoring Iryna Zarutska, calling it divisive and misguided. The mural, which was planned for an LGBT bar called The Dark Lady, was eventually shut down after facing intense backlash.",
+      "key_terms": [
+        "Brett Smiley",
+        "Iryna Zarutska",
+        "Providence",
+        "mural project",
+        "divisive",
+        "LGBT bar"
+      ],
+      "raw_text": "## **Article:**\n\nThe mayor of Providence once again slammed a now-canceled mural project that would have honored Iryna Zarutska, a slain Ukrainian refugee living in North Carolina who was allegedly murdered by a career criminal on public transit last year. \"I regret the state of where we are in politics today where absolutely everything is political and controversial and hard,\" Mayor Brett Smiley said in an interview with WPRI. \"There's nothing we should be doing to take away from the tragedy of the loss of life represented here, but then it was distorted by an erroneous tweet by our president and then a movement was funded by some right-wing billionaires, and it found its way to our community.\" Smiley decried the project for not following an unspecified \"thoughtful process\" through which the city commissions public art. The mural project was privately commissioned and was being painted on the exterior of a private business. Elon Musk contributed $1 million to help fund a nationwide campaign of public murals depicting Zarutska. PROVIDENCE MAYOR CALLS FOR REMOVAL OF IRYNA ZARUTSKA MURAL, SAYS INTENT IS 'DIVISIVE,' 'MISGUIDED' \"A private owner of a building\n\ndecided to put a mural up that I don't think he understood the full context of, and I was asked whether I thought it should come down, and I thought it should,\" said Smiley. \"I didn't stifle anyone's speech, it was his decision whether to continue with it or to take it down, but it certainly wasn't bringing us together as a community. There was really angry protests on both sides, a lot of hate speech online, and so I don't think we're a stronger, more united community because of this mural, and so I thought the best thing to do was just to take it down.\" Earlier this week, Smiley put out his first statement on the mural, calling it \"divisive\" and \"misguided.\" \"The murder of the individual depicted in this mural was a devastating tragedy, but the misguided, isolating intent of those funding murals like the one across the country is divisive and does not represent Providence,\" the statement said, later adding that he wants to \"encourage our community to support local artists whose work brings us closer together rather than divide us.\" The business that planned on displaying the mural was The Dark Lady, an LGBT bar in the city. Facing backlash from the LGBT community and others, the owners of the bar first defended themselves, saying on Instagram, saying, \"Any of you who know us personally—even just for five minutes—realize the illicit intentions being portrayed here are completely false.\" The next day, the bar released a statement saying the project was being \"temporarily\" paused. Still, the business faced intense heat. On Tuesday, the bar said that after \"reflecting and learning,\" the project was officially shut down. CLICK HERE TO DOWNLOAD THE FOX NEWS APP Zarutska was killed on Aug. 22 after she was randomly stabbed from behind on a Charlotte, North Carolina light-rail train. The suspect in her unprovoked murder is Decarlos Brown Jr., who had a lengthy rap sheet including convictions for larceny, breaking and entering and armed robbery. He had previously served five years in prison. Fox News Digital reached out to Smiley's office.\n\n**Link:** https://www.foxnews.com/us/passengers-screamed-turn-around-flames-shot-from-delta-jet-engin e-moments-after-takeoff\n\n## **Title: Passengers screamed 'turn around' as flames shot from Delta jet engine moments after takeoff**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "fox-news-ea4c4dd7",
+    "chunk_id": "fox-news-ea4c4dd7__chunk_13",
+    "chunk_index": 13,
+    "total_chunks": 14,
+    "metadata": {
+      "title": "Fox News",
+      "url": null,
+      "source": "Fox",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Brazil"
+      ],
+      "regions": [],
+      "cities": [
+        "São Paulo"
+      ]
+    },
+    "classification": {
+      "category": "Cyber",
+      "sub_category": "Aviation Incident",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "delta-air-lines",
+          "description": "The airline involved in the incident."
+        },
+        {
+          "tag": "aviation-safety",
+          "description": "The core topic of the article is aircraft safety."
+        },
+        {
+          "tag": "mechanical-failure",
+          "description": "The cause of the incident was a mechanical problem with the engine."
+        },
+        {
+          "tag": "airbus-a330-300",
+          "description": "The specific model of the aircraft involved."
+        },
+        {
+          "tag": "são-paulo",
+          "description": "The city where the incident occurred and the flight returned to."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [
+        {
+          "name": "Delta Air Lines",
+          "type": "corporate"
+        },
+        {
+          "name": "Fox News Digital",
+          "type": "other"
+        },
+        {
+          "name": "Federal Aviation Administration",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Delta Flight 104 Incident",
+          "type": "other",
+          "date": "Sunday",
+          "description": "A mechanical problem struck the left engine of Delta Flight 104 moments after takeoff.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Delta Flight 104 experienced a mechanical issue with its left engine shortly after departing São Paulo, forcing a rapid return to the airport. The flight landed safely, and no injuries were reported.",
+      "key_terms": [
+        "Delta Air Lines",
+        "São Paulo",
+        "mechanical issue",
+        "Delta Flight 104",
+        "Airbus A330-300",
+        "engine failure"
+      ],
+      "raw_text": "## **Article:**\n\nNEWYou can now listen to Fox News articles! Passengers screamed and pleaded to \"turn around\" as flames shot from an engine of a Delta Air Lines aircraft moments after takeoff, forcing the flight bound for Atlanta to make a rapid return to São Paulo, Brazil. Delta Flight 104, an Airbus A330-300 carrying 272 passengers and 14 crew, had just departed São Paulo/Guarulhos International Airport on Sunday when a mechanical problem struck its left engine, the airline confirmed to Fox News Digital. Videos recorded by passengers show sparks and bursts of flame coming from the engine, lighting up the night sky as the aircraft gained altitude. \"Turn around!\" passengers can be heard shouting. FOLLOW US ON X Pilots declared an emergency, shut down the affected engine and circled back to the airport, landing safely shortly after departure. Airport Rescue and Firefighting (ARFF) teams were standing by on the runway and video showed crew spraying down the aircraft. Video from inside the cabin shows passengers erupting into cheers and applause, some shouting in relief after the aircraft came to a stop. CLICK HERE FOR MORE US NEWS No injuries were reported. Fox News Digital has reached out to the Federal Aviation Administration for additional information. CLICK HERE TO DOWNLOAD THE FOX NEWS APP Delta said the flight returned \"following an indication of a mechanical issue with the aircraft's left engine\" and that the crew followed established procedures. GET BREAKING NEWS BY EMAIL Passengers were taken back to the terminal and later rebooked. \"The safety of our customers and crew is our highest priority. We apologize to our customers for this delay in their travels,\" the airline said in a statement to Fox News Digital.\n\n# ----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  }
+]

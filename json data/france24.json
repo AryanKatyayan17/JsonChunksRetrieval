@@ -1,0 +1,2126 @@
+[
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_0",
+    "chunk_index": 0,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "Middle East live: UN Security Council to vote on force to protect Hormuz access",
+      "url": "https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-vote-on-force-to-protect-hormuz-access",
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Security",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "un-security-council",
+          "description": "The United Nations Security Council is scheduled to vote on a force."
+        },
+        {
+          "tag": "hormuz-strait",
+          "description": "The discussion concerns protecting access through the Hormuz Strait."
+        },
+        {
+          "tag": "international-security",
+          "description": "The topic relates to maintaining stability and access in the Middle East."
+        },
+        {
+          "tag": "force-protection",
+          "description": "A potential military force is being considered to secure the strait."
+        }
+      ]
+    },
+    "entities": {
+      "people": [],
+      "organizations": [
+        {
+          "name": "United Nations Security Council",
+          "type": "intergovernmental"
+        }
+      ],
+      "events": [
+        {
+          "name": "UN Security Council vote",
+          "type": "other",
+          "date": null,
+          "description": "The UNSC is set to vote on a force to protect Hormuz access.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "This chunk serves as a headline and introduction for an article detailing that the UN Security Council is scheduled to vote on establishing a force to protect access through the Hormuz Strait.",
+      "key_terms": [
+        "UN Security Council",
+        "Hormuz access",
+        "force",
+        "Middle East",
+        "vote"
+      ],
+      "raw_text": "**Link:** https://www.france24.com/en/middle-east/20260403-middle-east-live-un-security-council-to-voteon-force-to-protect-hormuz-access\n\n## **Title: Middle East live: UN Security Council to vote on force to protect Hormuz access**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": false,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_1",
+    "chunk_index": 1,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "United States",
+        "Israel",
+        "Kuwait"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "cities": [
+        "Tel Aviv",
+        "Eilat"
+      ]
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "Middle East Tensions",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "iran-us-tensions",
+          "description": "The chunk reports on recent military confrontations between Iran and the US."
+        },
+        {
+          "tag": "israel-iran-conflict",
+          "description": "It details Israeli military responses to missiles fired from Iran."
+        },
+        {
+          "tag": "nato-crisis",
+          "description": "The text discusses the strain on the NATO alliance due to geopolitical tensions."
+        },
+        {
+          "tag": "military-escalation",
+          "description": "Multiple reports cover missile strikes and drone attacks in the region."
+        },
+        {
+          "tag": "geopolitical-instability",
+          "description": "The overall theme is the increasing instability in the Middle East."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United States Central Command (CENTCOM)",
+          "type": "government"
+        },
+        {
+          "name": "Mehr news agency",
+          "type": "other"
+        },
+        {
+          "name": "Israel's military",
+          "type": "government"
+        },
+        {
+          "name": "Iran's Revolutionary Guards",
+          "type": "government"
+        },
+        {
+          "name": "France 24",
+          "type": "other"
+        },
+        {
+          "name": "NATO",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Kuwait Petroleum Corporation (KPC)",
+          "type": "corporate"
+        },
+        {
+          "name": "KUNA",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "US F-35 shot down over central Iran",
+          "type": "conflict",
+          "date": "03/04/2026",
+          "description": "A report claims a second US F-35 fighter jet was shot down over central Iran.",
+          "partial": false
+        },
+        {
+          "name": "Israeli military response to missiles from Iran",
+          "type": "conflict",
+          "date": "03/04/2026",
+          "description": "Israel's air defenses operated to down missiles fired from Iran, causing damage in central Israel.",
+          "partial": false
+        },
+        {
+          "name": "Trump's warning on Iran infrastructure",
+          "type": "policy-change",
+          "date": "04/2026",
+          "description": "Donald Trump warned of striking and destroying bridges and electric power plants in Iran.",
+          "partial": false
+        },
+        {
+          "name": "Drone attack on Kuwait refinery",
+          "type": "conflict",
+          "date": "03/04/2026",
+          "description": "A drone attack on a Kuwait national oil company refinery sparked fires.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk provides multiple updates on escalating tensions in the Middle East, including reports of a downed US fighter jet over Iran, Israeli military responses to Iranian missiles, and warnings from Donald Trump regarding strikes on Iranian infrastructure. It also notes the strain on the NATO alliance and a drone attack on a Kuwaiti refinery.",
+      "key_terms": [
+        "Iran",
+        "US F-35",
+        "Israel",
+        "NATO",
+        "Kuwait",
+        "Middle East",
+        "Trump",
+        "missiles"
+      ],
+      "raw_text": "03/04/2026 - 07:17 Iran says second US F-35 fighter jet shot down, report says Iran says a second US F-35 fighter jet has been shot down over central Iran, according to the semi-official Mehr news agency. The pilot's survival is unlikely, Mehr reported. US Central Command in the region (CENTCOM) has not commented on the report. 03/04/2026 - 07:10 Israeli military responds to 'identified missiles fired from Iran' Israel's military has said its air defences were operating to down missiles fired from Iran, as Tehran keeps up its retaliatory fire on the country. There were no immediate reports of any casualties. The military said in a statement it had \"identified missiles launched from Iran toward the territory of the State of Israel\". It said \"defensive systems are operating to intercept the threat\". Israel's Magen David Adom emergency services said an unintercepted missile hit central Israel, injuring no one but causing damage to homes, roads and some cars. According to Israeli military radio, a train station in Tel Aviv was damaged by shrapnel, without saying from where it had been fired. Iran's Revolutionary Guards said in a statement published by broadcaster IRIB early Friday that it had targeted areas of Tel Aviv and the port city of Eilat with long-range missiles. 03/04/2026 - 07:04 Trump's anger over Iran thrusts NATO into fresh crisis The NATO alliance has in recent years survived existential challenges - ranging from the war in Ukraine to multiple bouts of pressure and insults from President Donald Trump, who has questioned its core mission and threatened Ito seize Greenland. But it is the US-Israeli war with Iran, thousands of miles from Europe, that has nearly broken the 76-year-old bloc and threatens to leave it in its weakest state since its creation, say analysts and diplomats. Trump, enraged that European countries have declined to send their navies to open up the Strait of Hormuz to global shipping following the start of the war, has declared he is considering withdrawing from the alliance in media interviews. In a speech on Wednesday night, Trump criticised US Iallies but stopped short of condemning NATO, Ias many experts thought he might. But combined with other barbs aimed at Europeans in recent weeks, Trump's comments have provoked unprecedented concern that the US will not come to the aid of European allies should they be attacked, whether Ior not Washington formally walks away. The result, say analysts and diplomats, is that the alliance created in the Cold War that has long served as the basic fabric of European security is fraying and the mutual defense agreement at its core is no longer taken as a given. 03/04/2026 - 07:00 Kuwait oil refinery units on fire after drone attack A drone attack on a refinery owned by Kuwait's national oil company on Friday sparked fires at several of its units, state media said. \"Kuwait Petroleum Corporation (KPC) told KUNA that the Mina Al-Ahmadi refinery was targeted in a drone attack early this morning, resulting in fires in several operational units,\" official news agency KUNA reported, adding that emergency teams were working to contain the blazes. 03/04/2026 - 04:59 Trump warns of strikes on Iran bridges and power plants US President Donald Trump warned on Thursday about striking and destroying bridges and electric power plants in Iran in his latest threat to hit the country's infrastructure. The US military \"hasn't even started destroying what's left in Iran. Bridges next, then Electric Power Plants,\" Trump wrote on social media."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_2",
+    "chunk_index": 2,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "France 24 News",
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "South Korea",
+        "France",
+        "Japan"
+      ],
+      "regions": [],
+      "cities": [
+        "Seoul"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Bilateral Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "france-south-korea-partnership",
+          "description": "France and South Korea are upgrading their relationship to a global strategic partnership."
+        },
+        {
+          "tag": "emmanuel-macron-visit",
+          "description": "French President Emmanuel Macron is conducting a state visit to South Korea."
+        },
+        {
+          "tag": "strategic-regional-role",
+          "description": "The visit aims to strengthen France's strategic and economic role in the region."
+        },
+        {
+          "tag": "middle-east-tensions",
+          "description": "The Middle East crisis is expected to be a central topic of discussion."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Emmanuel Macron",
+          "role": "President of France",
+          "resolved": true
+        },
+        {
+          "name": "Lee Jae Myung",
+          "role": "President of South Korea",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Blue House",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "South Korea and France upgrade ties",
+          "type": "summit",
+          "date": "03/04/2026",
+          "description": "South Korea and France are upgrading their relations to a global strategic partnership.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "South Korea and France are set to upgrade their relationship to a global strategic partnership during a state visit by French President Emmanuel Macron. The visit, which includes a summit with South Korean President Lee Jae Myung, aims to strengthen France's strategic and economic role in the region, with the Middle East crisis expected to be a key discussion point.",
+      "key_terms": [
+        "global strategic partnership",
+        "Emmanuel Macron",
+        "Lee Jae Myung",
+        "South Korea",
+        "France",
+        "state visit",
+        "Middle East crisis"
+      ],
+      "raw_text": "His post said that Iran's leadership \"knows what has to be done, and has to be done, FAST!\" 03/04/2026 - 04:50 South Korea and France to upgrade ties to global strategic partnership South Korean President Lee Jae Myung and French President Emmanuel Macron are set to upgrade relations between the countries to a \"global strategic partnership,\" Korea's Blue House said in a statement on Friday. Macron arrived in South Korea on Thursday for a two-day state visit after also visiting Japan and is due to hold a summit with Lee in Seoul later on Friday. It is the first state visit by a French president since 2015 and French officials have said the trip aims to strengthen France's strategic and economic role in the region at a time of \"strong international and regional tensions.\" French officials previously said the Middle East crisis would be \"at the heart of discussions,\" pointing to"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_3",
+    "chunk_index": 3,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "France 24 News",
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Japan",
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Financial Markets/Geopolitics",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "nikkei-rally",
+          "description": "Japan's Nikkei share average rallied, trimming weekly losses."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jamal Alrowaiei",
+          "role": "United Nations ambassador for Bahrain",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United Nations Security Council",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Bahrain",
+          "type": "government"
+        },
+        {
+          "name": "United States",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "UN Security Council vote on Hormuz shipping",
+          "type": "agreement",
+          "date": "03/04/2026",
+          "description": "The UN Security Council will vote on a draft resolution to authorize defensive force to protect shipping in the Strait of Hormuz from Iranian attacks.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk reports on the rally of Japan's Nikkei share average, driven by AI stocks and hopes for restored Gulf oil shipments. It also details the UN Security Council's upcoming vote on authorizing force to protect shipping in the Strait of Hormuz from Iranian attacks.",
+      "key_terms": [
+        "Nikkei",
+        "AI stocks",
+        "Strait of Hormuz",
+        "UN Security Council",
+        "Iran",
+        "oil shipments"
+      ],
+      "raw_text": "the shared economic exposure of both nations. 03/04/2026 - 04:14 Nikkei rallies, trims weekly losses on oil shipment hopes Japan's Nikkei share average rallied on Friday, trimming its losses for the week, following global efforts to restore Gulf oil shipments interrupted by the war in Iran. Artificial intelligence (AI)-related stocks led the Nikkei higher, with the gauge rising 1.31% to 53,147.35 in early trade, poised for a 0.4% retreat on the week. The broader Topix climbed 1.12% to 3,652.13. 03/04/2026 - 04:13 UN Security Council to vote on force to protect Hormuz shipping The UN Security Council will vote Friday on a draft resolution brought by Bahrain to authorise the use of \"defensive\" force to protect shipping in the Strait of Hormuz from Iranian attacks. Iran has placed a stranglehold on the key shipping lane – threatening fuel supplies and roiling the global economy – in retaliation for US-Israeli strikes that triggered the month-old Middle East war. \"We cannot accept economic terrorism affecting our region and the world, the whole world is being affected by the developments,\" Bahrain's United Nations ambassador Jamal Alrowaiei said this week. He said the text, which has gone through several amendments and is supported by the United States, \"comes at a critical juncture.\"\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/technology/20260403-artemis-ii-astronauts-ignite-engines-and-hea d-for-lunar-flyby\n\n## **Title: Artemis II astronauts ignite engines and head for lunar flyby**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_4",
+    "chunk_index": 4,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Space Exploration",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "nasa",
+          "description": "The National Aeronautics and Space Administration is leading the Artemis program."
+        },
+        {
+          "tag": "artemis-ii",
+          "description": "The Artemis II mission is a test flight for a lunar fly-around."
+        },
+        {
+          "tag": "lunar-flyby",
+          "description": "The mission will take the crew past the moon to view the far side."
+        },
+        {
+          "tag": "space-exploration",
+          "description": "The article details the technical and historical aspects of modern space travel."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Reid Wiseman",
+          "role": "Commander",
+          "resolved": true
+        },
+        {
+          "name": "Victor Glover",
+          "role": "Pilot",
+          "resolved": true
+        },
+        {
+          "name": "Christina Koch",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Jeremy Hansen",
+          "role": null,
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NASA",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Apollo",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Artemis II mission",
+          "type": "summit",
+          "date": "Thursday night",
+          "description": "The astronauts fired their engines and headed toward the moon.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "NASA's Artemis II astronauts successfully fired their engines for a lunar fly-around, marking a significant step toward establishing a permanent moon base. The mission saw the crew become the farthest humans have traveled from Earth and provided unprecedented views of the lunar far side.",
+      "key_terms": [
+        "Artemis II",
+        "lunar flyby",
+        "Orion capsule",
+        "NASA",
+        "moon base",
+        "lunar far side"
+      ],
+      "raw_text": "NASA’s Artemis II astronauts fired their engines and blazed toward the moon Thursday night, breaking free of the chains that have trapped humanity in shallow laps around Earth since Apollo. The so-called translunar ignition came 25 hours after liftoff, putting the three Americans and a Canadian on course for a lunar fly-around early next week. Their Orion capsule bolted out of orbit around Earth right on cue and chased the moon to nearly 250,000 miles (400,000 kilometres) away. It was the first such engine firing for a space crew since Apollo 17 set out on that era’s final moonshot on 7 December 1972. NASA reported preliminary indications that it went well. NASA had the Artemis II crew stick close to home for a day to test their capsule’s life-support systems before clearing them for lunar departure. Now committed to the moon, the Artemis II test flight is the opening act for NASA’s grand plans for a moon base and sustained lunar living. Commander Reid Wiseman, pilot Victor Glover, Christina Koch and Jeremy Hansen will dash past the moon, then hang a U-turn and zip straight home without stopping on land. In the process, they will become the farthest humans have ever travelled from Earth, breaking the Apollo 13 distance record set in 1970. They also may become the fastest during reentry at flight’s end on 10 April. Glover, Koch and Hansen have already made history as the first Black, the first woman and the first non-US citizen to launch to the moon. Apollo’s 24 lunar travellers were all white men. To set the mood for the day’s main event, Mission Control woke the crew with John Legend’s “Green Light” featuring André 3000 and a medley of NASA teams cheering them. “We are ready to go,” pilot Victor Glover said. Mission Control gave the final go-ahead minutes before the critical engine firing, telling the astronauts they were embarking on “humanity’s lunar homecoming arc” to bring them back to Earth. Koch replied: “With this burn to the moon, we do not leave Earth. We choose it.” The next major milestone will be Monday’s lunar flyby. Orion will zoom 4,000 miles (6,400 kilometres) beyond the moon before turning back, providing unprecedented and illuminated views of the lunar far side, at least for human eyes. The crew will even witness a total solar eclipse as the moon temporarily blocks the sun from their perspective. While awaiting their orbital departure earlier Thursday, the astronauts savoured views of Earth from tens of thousands of miles high. Koch told Mission Control they could make out entire coastlines and even the South Pole, her old stomping ground. “It is just absolutely phenomenal,”\n\nradioed Koch, who spent a year at an Antarctic research station before joining NASA. NASA is counting on the test flight to kickstart the Artemis programme and lead to a moon landing by two astronauts in 2028. Orion’s toilet may need some design tweaks before that happens. The so-called lunar loo malfunctioned as soon as the Artemis crew reached orbit Wednesday evening. Mission Control guided Koch through some plumbing tricks, and she finally got it going, but not before using contingency urine storage bags. Controllers also managed to bump up the cabin temperature. It was so cold earlier that the astronauts had to dig into their suitcases for long-sleeved clothes. The contingency urine bags came in handy later. Mission Control ordered the crew to fill a number of empty bags with water from the capsule’s dispenser. A valve issue arose following liftoff, and NASA wanted plenty of drinking water on hand in case the problem worsened. The astronauts used straws and syringes to fill more than 2 gallons (7 litres) before pivoting to the moon. (FRANCE 24 with AP)\n\n----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_5",
+    "chunk_index": 5,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": "https://www.france24.com/en/americas/20260402-trump-signs-order-threatening-up-to-100-tariffs -on-pharmaceuticals",
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "France",
+        "United Kingdom",
+        "European Union",
+        "Japan",
+        "Korea",
+        "Switzerland"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Trade Tariffs",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "pharmaceutical-tariffs",
+          "description": "The article discusses new tariffs on patented drugs."
+        },
+        {
+          "tag": "donald-trump",
+          "description": "Donald Trump signed an executive order regarding pharmaceutical tariffs."
+        },
+        {
+          "tag": "trade-agreements",
+          "description": "The order relates to 'most favoured nation' pricing deals and trade frameworks."
+        },
+        {
+          "tag": "national-security",
+          "description": "The administration deemed the tariffs necessary to address national security concerns."
+        },
+        {
+          "tag": "biopharmaceutical-manufacturing",
+          "description": "The text mentions America's large footprint in biopharmaceutical manufacturing."
+        },
+        {
+          "tag": "import-taxes",
+          "description": "Trump has launched a barrage of new import taxes on America's trading partners."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "President",
+          "resolved": true
+        },
+        {
+          "name": "Stephen J. Ubl",
+          "role": "CEO of pharmaceutical company trade group PhRMA",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "PhRMA",
+          "type": "other"
+        },
+        {
+          "name": "Pfizer",
+          "type": "corporate"
+        },
+        {
+          "name": "Eli Lilly",
+          "type": "corporate"
+        },
+        {
+          "name": "Bristol Myers Squibb",
+          "type": "corporate"
+        },
+        {
+          "name": "European Union",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Japan",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Korea",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Switzerland",
+          "type": "intergovernmental"
+        }
+      ],
+      "events": [
+        {
+          "name": "Trump signs order threatening up to 100% tariffs on pharmaceuticals",
+          "type": "policy-change",
+          "date": "2026-04-02",
+          "description": "Trump signed an executive order threatening up to 100% tariffs on patented drugs.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "President Donald Trump signed an executive order imposing potential tariffs of up to 100% on patented pharmaceuticals, unless companies secure favorable pricing deals or build US facilities. The order also sets specific tariff rates for major trading partners like the EU, Japan, and the UK.",
+      "key_terms": [
+        "pharmaceutical tariffs",
+        "Donald Trump",
+        "executive order",
+        "patented drugs",
+        "most favoured nation",
+        "import taxes"
+      ],
+      "raw_text": "**Link:** https://www.france24.com/en/americas/20260402-trump-signs-order-threatening-up-to-100-tariffs -on-pharmaceuticals\n\n## **Title: Trump signs order threatening up to 100% tariffs on pharmaceuticals**\n\n## **Article:**\n\nPresident Donald Trump signed an executive order Thursday that could slap long-threatened pharmaceutical tariffs of up to 100% on some patented drugs from companies that don't reach deals with his administration in the coming months. Companies that have signed a “most favoured nation” pricing deal and are actively building facilities in the US to onshore production of patented pharmaceuticals and their ingredients will have a 0% tariff. For those that don’t have a pricing deal but are building such projects in the US, a 20% tariff will apply but will increase to 100% in four years. A senior administration official told reporters on a press call that companies still have months to negotiate before the 100% tariffs kick in – 120 days for bigger companies, and 180 days for everyone else. The official, speaking on condition of anonymity to preview the executive order before it was issued, did not identify any companies or drugs that were in jeopardy of getting hit with the increased tariffs but noted the administration had already reached 17 pricing deals with major drugmakers, 13 of which have signed. In the order, Trump wrote that he deemed such actions necessary “to address the threatened impairment of the national security posed by imports of pharmaceuticals and pharmaceutical ingredients.” It arrived on the first anniversary of Trump’s so-called Liberation Day, when the president unveiled sweeping new import taxes on nearly every country in the world that sent the stock market reeling. Those “Liberation Day” tariffs were among the duties the Supreme Court overturned in February. Some warned of consequences of the coming tariffs announced Thursday. Stephen J. Ubl, CEO of pharmaceutical company trade group PhRMA, said taxes “on cutting-edge medicines will increase costs and could jeopardise billions in US investments.\" He pointed to America's already large footprint in biopharmaceutical manufacturing and noted medicines sourced from other countries “overwhelmingly come from reliable US allies.” Trump has launched a barrage of new import taxes on America’s trading partners since the start of his second term and repeatedly pledged that sky-high levies on foreign-made drugs were on the way. But the administration has also used the threat of new levies to strike deals with major companies – like Pfizer, Eli Lilly and Bristol Myers Squibb – over the last year, with promises of lower prices for new drugs. Beyond company-specific rates, a handful of countries have reached trade frameworks with the US to further cap tariffs on drugs sent to the US. The EU, Japan, Korea and Switzerland will see a 15% US tariff on patented pharmaceuticals, matching previously agreed rates for most goods, and the UK will get 10% – which Thursday’s order noted would"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_6",
+    "chunk_index": 6,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "US",
+        "UK"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Economy",
+      "sub_category": "Trade/Tariffs",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-tariffs",
+          "description": "The chunk details various tariffs imposed by the Trump administration on imported goods."
+        },
+        {
+          "tag": "international-trade",
+          "description": "The text discusses trade agreements and tariffs between the US and other countries."
+        },
+        {
+          "tag": "pharmaceuticals",
+          "description": "The chunk mentions tariff rates for British medicines exported to the US."
+        },
+        {
+          "tag": "economic-policy",
+          "description": "The article covers the use of trade laws and tariffs as economic policy."
+        },
+        {
+          "tag": "supply-chain",
+          "description": "The text discusses the impact of tariffs on the global supply chain."
+        },
+        {
+          "tag": "us-politics",
+          "description": "The content reports on the economic agenda and actions of the Trump administration."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "President",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Trump administration",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Tariff Imposition",
+          "type": "policy-change",
+          "date": null,
+          "description": "Trump imposed tariffs on imported steel, aluminium, copper, and other goods using various legal authorities.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk details the Trump administration's use of various tariffs on imported goods, including steel, aluminum, and copper, and discusses the legal basis and economic rationale behind these tariffs.",
+      "key_terms": [
+        "tariffs",
+        "Trump administration",
+        "steel",
+        "aluminum",
+        "copper",
+        "trade deficit",
+        "Section 232"
+      ],
+      "raw_text": "“then reduce to zero” under future trade agreements. The UK previously said it secured a 0% tariff rate for all British medicines exported to the US for at least three years. Read moreTrump administration launches TrumpRx website for access to discounted drugs In addition Thursday, Trump rolled out an update on his 50% tariffs on imported steel, aluminium and copper. Starting Monday, tariff rates on those metals will be calculated based on the “full customs value” of what US customers pay when buying foreign metal under the latest order, which the administration officials claimed will keep importers from other countries from escaping higher payments. Products fully made of steel, aluminium and copper will continue to be tariffed at 50% for most countries. But the administration is also shifting how tariffs are calculated for derivative metals – or finished goods that contain some of these metals, but are not made entirely of them. For a product with metal that amounts to less than 15% of its entire weight (like the cap on a perfume bottle) only country-specific tariffs will now apply, officials told reporters Thursday. But for products with more metal, such as a largely steel washing machine, they said a 25% tariff will apply to the whole value. Read moreTrump slaps 100 percent tariffs on drugs, trucks and 'kitchen cabinets' Thursday’s orders reflect the latest example of Trump tapping into sectoral duties. The president used Section 232 of the 1962 Trade Expansion Act to impose the levies, the same authority he cited to slap import taxes on cars, lumber and even kitchen cabinets. And many expect to see more product-specific import taxes down the road. That’s because a ruling from the Supreme Court struck down tariffs Trump imposed using another law – the 1977 International Emergency Economic Powers Act – to immediately slap tariffs on any country, at nearly any level. While the February 20 court decision marked a significant blow to Trump’s economic agenda, the president still has plenty of options to keep taxing imports aggressively. Beyond sectoral levies, Trump also imposed a 10% tariff on all imports under a separate legal power mere hours after the Supreme Court’s ruling, but that duty can only last for 150 days. Some two dozen states already challenged the new tariffs. Trump has argued his steep new import taxes are necessary to bring back wealth that was “stolen” from the US. He says they will narrow America’s decades-old trade deficit and bring manufacturing back to the country. But Trump has also turned to tariffs amid personal grudges, or in response to political critics. And upending the global supply chain has proven costly for businesses and households that are already strained by rising prices. (FRANCE 24 with AP)\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/trump-sacks-attorney-general-replaces-with-ex-personal-lawyer\n\n## **Title: Trump sacks attorney general, replaces with ex-personal lawyer**\n\n## **Article:**\n\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. US President Donald Trump fired Attorney General Pam Bondi on Thursday and named his former personal lawyer to serve as the acting chief of the Justice Department. The move, which the Republican president announced in a social media post, comes amid criticism of Bondi's handling of the Epstein files and her failure to successfully prosecute several perceived Trump political foes. FRANCE 24's Monte Francis reports. Video by:\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/tv-shows/a-propos/20260402-any-weapon-europe-buys-from-the-u s-is-a-liability-rearmament-expert-says\n\n# **Title: 'Any weapon Europe buys from the US is a liability', rearmament expert says**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_7",
+    "chunk_index": 7,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "France",
+        "United States",
+        "Ukraine",
+        "Russia"
+      ],
+      "regions": [],
+      "cities": [
+        "Donetsk",
+        "Dnipropetrovsk",
+        "Kramatorsk",
+        "Sloviansk"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Defense Spending",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "nato-defense",
+          "description": "European NATO countries are increasing their defense spending."
+        },
+        {
+          "tag": "us-dependence",
+          "description": "An expert warns that buying weapons from the US creates technological dependence."
+        },
+        {
+          "tag": "geopolitical-conflict",
+          "description": "The article discusses the stalling of Russia's military campaign in Ukraine."
+        },
+        {
+          "tag": "ukraine-war",
+          "description": "Ukrainian forces recaptured territory from Russian forces in March."
+        },
+        {
+          "tag": "tariffs-trade",
+          "description": "The chunk mentions the lingering effects of Trump's tariffs on global trade."
+        },
+        {
+          "tag": "military-analysis",
+          "description": "The Institute for the Study of War (ISW) provided analysis on the conflict."
+        },
+        {
+          "tag": "tech-restriction",
+          "description": "Russia's restriction of access to Telegram is noted as a factor slowing its advance."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Guntram Wolff",
+          "role": "Senior Fellow at Bruegel",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bruegel",
+          "type": "other"
+        },
+        {
+          "name": "France 24",
+          "type": "other"
+        },
+        {
+          "name": "Institute for the Study of War (ISW)",
+          "type": "other"
+        },
+        {
+          "name": "American Enterprise Institute (AEI)",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Russia's military campaign in Ukraine stalls",
+          "type": "other",
+          "date": "2024",
+          "description": "Russia recorded no territorial gains on the front line in Ukraine in March for the first time in two and half years.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk contains multiple reports, including an expert warning about US weapon dependence for European NATO countries, and detailed military analysis showing that Russia's advance in Ukraine stalled in March, despite previous gains.",
+      "key_terms": [
+        "NATO",
+        "US dependence",
+        "defense spending",
+        "Ukraine",
+        "Russia",
+        "tariffs",
+        "ISW"
+      ],
+      "raw_text": "From the show European NATO countries have reduced their reliance on the US for weapons imports while significantly increasing their defense spending in the past year. Speaking with FRANCE 24's Sharon Gaffney, Guntram Wolff, Senior Fellow at Bruegel, says that \"any weapon we buy as Europeans from the United States is a liability both in terms of technology dependence but also in terms of missing growth and domestic ecosystem that would develop\".\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/one-year-on-what-remains-of-trump-s-tariffs\n\n## **Title: One year on, what remains of Trump's tariffs?**\n\n## **Article:**\n\nFrom the show It's been a year since US President Donald Trump unveiled sweeping new tariffs, which would change the global trade landscape. But after a year of upheaval and uncertainty, what remains of the 'Liberation Day' duties? Also in the show - soaring oil prices lead to a jump in car-pooling services in France.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/europe/20260402-russia-military-campaign-in-ukraine-stalls-for-firs t-time-in-more-than-two-years\n\n## **Title: Russia's military campaign in Ukraine stalls for first time in more than two years**\n\n## **Article:**\n\nRussia's army recorded no territorial gains on the front line in Ukraine in March for the first time in two and half years, AFP analysis of data from the Institute for the Study of War (ISW) showed. Ukrainian forces managed to recapture 9 square kilometres in March as Moscow's forces slowed down across the entire front line, according to the analysis. This figure excludes infiltration operations conducted by Russian forces beyond the front line, as well as advances claimed by the Russian side but neither confirmed nor denied by the ISW. The ISW worked with the Critical Threats Project (part of the American Enterprise Institute, or AEI), another US think-tank specialising in conflict. The Russian army has been slowing its advance since late 2025 due to counter-offensives in the southeast of the country, with 319 square kilometres of gains in January and 123 square kilometres in February, the smallest advances since April 2024. Read moreDeadly Russian strikes damage port, maternity hospital The ISW attributed the slowdown of the Russian army in recent months to Ukrainian counter-offensives, but also to \"Russia's ban on using Starlink terminals in Ukraine\" and \"the Kremlin's efforts to restrict access to Telegram\". The messaging app, very popular among Russians including those fighting on the front\n\nline, has been barely usable in recent months due to blocks imposed by the authorities. As in February, Russia has lost ground on the southern section of the front line, between the Donetsk and Dnipropetrovsk regions, where it occupied more than 400 square kilometres at the end of January. This area shrank to 200 square kilometres in February and to 144 square kilometres in March. The situation was, however, unfavourable for Kyiv further north in the Donetsk region, towards the two major regional cities of Kramatorsk and Sloviansk. Read moreRussian strikes on Ukraine kill at least 5 In 2025, the Russian army made more progress in Ukraine than in the preceding 24 months. But in the first three months of 2026, Russian territorial gains were half those of the same period in 2025. Four years after the start of Russia's full-scale invasion of Ukraine, Moscow occupies just over 19 percent of the country, the majority of which was seized during the first weeks of the conflict. Approximately seven percent, including Crimea and areas in the Donbas region, was already under Russian or pro-Russian separatist control before the invasion. (FRANCE 24 with AFP)\n\n----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_8",
+    "chunk_index": 8,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Iran",
+        "Burkina Faso",
+        "Belgium",
+        "France"
+      ],
+      "regions": [],
+      "cities": [
+        "Washington DC",
+        "Accra"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "donald-trump",
+          "description": "The chunk discusses Donald Trump's political actions and statements."
+        },
+        {
+          "tag": "pam-bondi",
+          "description": "Pam Bondi was fired by Donald Trump as Attorney General."
+        },
+        {
+          "tag": "us-army",
+          "description": "The US Army Chief of Staff was asked to retire."
+        },
+        {
+          "tag": "iran-war",
+          "description": "The chunk fact-checks Donald Trump's claims regarding the war in Iran."
+        },
+        {
+          "tag": "emmanuel-macron",
+          "description": "French President Emmanuel Macron commented on Donald Trump's remarks."
+        },
+        {
+          "tag": "nato",
+          "description": "The chunk mentions tensions over NATO and US-Israeli strikes on Iran."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Pam Bondi",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Ichief IPete Hegseth",
+          "role": "Pentagon Chief",
+          "resolved": false
+        },
+        {
+          "name": "David Smith",
+          "role": "Washington DC bureau chief",
+          "resolved": true
+        },
+        {
+          "name": "Emmanuel Macron",
+          "role": "French President",
+          "resolved": true
+        },
+        {
+          "name": "Ayatollah Ali Khamenei",
+          "role": "Former Supreme Leader of Iran",
+          "resolved": true
+        },
+        {
+          "name": "Vedika Bahl",
+          "role": "Analyst",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Justice Department",
+          "type": "government"
+        },
+        {
+          "name": "Pentagon",
+          "type": "government"
+        },
+        {
+          "name": "Human Rights Watch",
+          "type": "ngo"
+        },
+        {
+          "name": "Islamic Republic",
+          "type": "government"
+        },
+        {
+          "name": "NATO",
+          "type": "intergovernmental"
+        }
+      ],
+      "events": [
+        {
+          "name": "Trump sacks attorney general Bondi",
+          "type": "policy-change",
+          "date": "Thursday",
+          "description": "Donald Trump fired Pam Bondi and named a former personal lawyer as acting chief of the Justice Department.",
+          "partial": false
+        },
+        {
+          "name": "US Army Chief of Staff retirement request",
+          "type": "policy-change",
+          "date": null,
+          "description": "Pentagon Chief Ichief IPete Hegseth asked US Army Chief of Staff Randy George to retire.",
+          "partial": false
+        },
+        {
+          "name": "Burkina army/jihadists killing civilians",
+          "type": "other",
+          "date": "2023-2025",
+          "description": "Human Rights Watch reports that forces in Burkina Faso killed over 1,800 civilians.",
+          "partial": false
+        },
+        {
+          "name": "Trump's address on the war in Iran",
+          "type": "other",
+          "date": null,
+          "description": "Fact-checking of Trump's claims regarding Iran's regime change and US economic independence.",
+          "partial": false
+        },
+        {
+          "name": "Macron's response to Trump",
+          "type": "other",
+          "date": "Thursday",
+          "description": "French President Macron stated that Donald Trump's mocking comments about his marriage did not merit a response.",
+          "partial": false
+        }
+      ],
+      "content": {
+        "chunk_summary": "The chunk covers several international news stories, including Donald Trump firing Pam Bondi and asking the US Army Chief of Staff to retire; Human Rights Watch reporting on civilian deaths in Burkina Faso; fact-checking Trump's claims about Iran; and French President Macron commenting on Trump's remarks.",
+        "key_terms": [
+          "Donald Trump",
+          "Pam Bondi",
+          "Emmanuel Macron",
+          "Iran",
+          "Burkina Faso",
+          "US Army Chief of Staff"
+        ]
+      },
+      "cross_references": {
+        "unresolved_references": [],
+        "continues_from_previous": true,
+        "continues_to_next": false
+      }
+    },
+    "content": {
+      "raw_text": "**Link:** https://www.france24.com/en/trump-sacks-attorney-general-bondi-hegseth-reportedly-asks-us-ar my-chief-of-staff-to-step-down\n\n## **Title: Trump sacks attorney general Bondi, Hegseth asks US Army Chief of Staff to step down**\n\n## **Article:**\n\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement. One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. US President Donald Trump fired Attorney General Pam Bondi on Thursday after months of strained relations and named his former personal lawyer to serve as the acting chief of the Justice Department. Pentagon Ichief IPete Hegseth has asked the IU.S. IArmy IChief Iof Staff IRandy George to step Idown Iand take immediate Iretirement. The Guardian Washington DC bureau chief David Smith reports.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023\n\n## **Title: Burkina army, jihadists killed more than 1,800 civilians since 2023**\n\n## **Article:**\n\nFrom the show In tonight's edition, Human Rights Watch says Burkina Faso’s government forces and jihadists together killed more than 1800 civilians between 2023 and 2025. Also, a collapsed, unfinished school in Accra kills four people and injures nearly 30, raising concerns over unsafe classrooms. And Belgium is resisting a U.S.-backed AI firm’s attempt to access historic mining maps that could reveal valuable mineral deposits.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/fact-checking-trump-s-address-on-the-iran-war\n\n## **Title: checking Trump's address on the war in Iran**\n\n## **Article:**\n\nAmong the most striking assertions was Trump’s declaration that the United States had toppled Iran's government and achieved “regime change” following the deaths of several senior officials, including former Supreme Leader Ayatollah Ali Khamenei. However, despite those losses at the top of the leadership structure, there is no indication that Iran’s governing system has collapsed or is unravelling, or that power has shifted away from the Islamic Republic. Analysts say the core institutions of the regime remain intact, with no clear signs of political transition underway. The president also claimed that the United States currently has “no inflation” and is “totally independent” of Middle Eastern oil. These statements conflict with the latest US government economic data, which shows inflation was already up from a year ago, before the war in Iran broke out. It also overlooks the effect of oil as a global commodity, which is reflected in the prices paid by Americans at the gas pumps. Vedika Bahl takes a closer look at Donald Trump’s claims, and talks through the facts in Truth or Fake.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/macron-says-trump-marriage-jibe-does-not-merit-response\n\n## **Title: Macron says Trump marriage jibe does not 'merit response'**\n\n## **Article:**\n\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. French President Emmanuel Macron said on Thursday Donald Trump's mocking comments about his marriage did not merit a response, calling them \"neither elegant nor appropriate\" for the situation. But after days of tensions over US-Israeli strikes on Iran and over NATO, an apparently irritated Macron launched a broadside of his own, saying \"there is too much talk\" and \"this is not a show\". Video by:\n\n----------------------------------------------------------------------------------------------------"
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_9",
+    "chunk_index": 9,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "France 24 News; Source: France 24",
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "France",
+        "United States",
+        "Iran",
+        "Europe",
+        "Israel",
+        "Lebanon"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "cities": [
+        "Beirut"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Relations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "nato-pressure",
+          "description": "The chunk discusses NATO being under pressure regarding the Iran war."
+        },
+        {
+          "tag": "trump-strategy",
+          "description": "Donald Trump's war strategy is criticized for creating volatility in European security."
+        },
+        {
+          "tag": "space-exploration",
+          "description": "The text highlights space exploration as both a scientific and philosophical endeavor."
+        },
+        {
+          "tag": "israel-lebanon",
+          "description": "The chunk addresses Israel's strategic goals in Lebanon, focusing on dismantling Hezbollah."
+        },
+        {
+          "tag": "foreign-policy",
+          "description": "The content covers various international policy discussions, including US-Iran and Israel-Lebanon conflicts."
+        },
+        {
+          "tag": "geopolitical-tension",
+          "description": "The overall theme is the high level of geopolitical tension involving multiple global powers."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Hélène Conway-Mouret",
+          "role": "French Senator, Vice Chair of the Foreign Affairs Committee",
+          "resolved": true
+        },
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Ivo Daalder",
+          "role": "Former US Ambassador to NATO and Senior Fellow at the Belfer Center at Harvard University",
+          "resolved": true
+        },
+        {
+          "name": "Yezid Sayigh",
+          "role": "senior fellow at the Malcolm H. Kerr Carnegie Middle East Center in Beirut",
+          "resolved": true
+        },
+        {
+          "name": "François Picard",
+          "role": "Host/Presenter",
+          "resolved": false
+        },
+        {
+          "name": "Nadia Massih",
+          "role": "Host/Presenter",
+          "resolved": false
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NATO",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Belfer Center at Harvard University",
+          "type": "other"
+        },
+        {
+          "name": "Malcolm H. Kerr Carnegie Middle East Center",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Iran war",
+          "type": "other",
+          "date": null,
+          "description": "The war strategy involving Iran is criticized for creating volatility.",
+          "partial": false
+        },
+        {
+          "name": "Artemis II",
+          "type": "other",
+          "date": null,
+          "description": "A mission mentioned as an essential stepping stone for space exploration.",
+          "partial": false
+        },
+        {
+          "name": "Israel's Lebanon endgame",
+          "type": "other",
+          "date": null,
+          "description": "The strategic goal to dismantle Hezbollah in Lebanon.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "This chunk summarizes multiple international news segments, covering NATO's pressure over the Iran war, critiques of Donald Trump's strategy, the philosophical aspects of space exploration, and Israel's strategic goals in Lebanon.",
+      "key_terms": [
+        "NATO",
+        "Iran war",
+        "Donald Trump",
+        "space exploration",
+        "Artemis II",
+        "Israel-Lebanon",
+        "Hezbollah"
+      ],
+      "raw_text": "**Link:** https://www.france24.com/en/tv-shows/spotlight/20260402-europe-nato-under-pressure-over-ira n-war-trump-strong-with-the-weak-and-weak-with-the-strong\n\n**Title: Europe, NATO under pressure over Iran war: 'Trump strong with the weak and weak with the strong'**\n\n## **Article:**\n\nFrom the show François Picard is pleased to welcome Hélène Conway-Mouret, French Senator, Vice Chair of the Foreign Affairs Committee. According to Conway-Mouret, Donald Trump’s Iran war strategy is creating incredible volatility for European security, transatlantic relations, and even domestic politics in the US. All the while, NATO withdrawal is being levied as a threat to force European compliance.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/he-wasn-t-convincing-to-the-world-and-to-the-american-people-for mer-us-ambassador-to-nato-says\n\n## **Title: 'He wasn't convincing to the world and to the American people', former US ambassador to NATO says**\n\n## **Article:**\n\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. Speaking with FRANCE 24's Mark Owen, Ivo Daalder, Former US Ambassador to NATO and Senior Fellow at the Belfer Center at Harvard University, says that US President Donald Trump's address to the nation failed to convince, stressing that communication about the war \"is almost a repeat of Vietnam. We're now hearing not body counts but how many targets have been hit [...] it seems like we're bombing for bombing's sake\". Video by:\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/tv-shows/spotlight/20260402-thomas-pesquet-on-space-exploratio n-we-re-all-on-the-same-boat-we-have-to-take-care-of-the-ship\n\n## **Title: Thomas Pesquet on space exploration: 'We’re all on the same boat, we have to take care of the ship'**\n\n## **Article:**\n\nSpace exploration, in his view, is always a dual endeavor: it is both an intrinsic human drive to explore and a structured scientific effort to generate knowledge in environments inaccessible on Earth. Missions like Artemis II are essential stepping stones: testing systems, expanding operational boundaries, and preparing us for more ambitious goals such as lunar habitation and, eventually, human missions to Mars. At the same time, spaceflight reveals something deeply philosophical. From orbit, you see Earth as finite, fragile, and shared. This shift in perspective, what we call the “overview effect”, reinforces the responsibility we have toward our planet and each other. Ultimately, exploration is not just about going farther; it is about understanding better: both the universe and ourselves.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/tv-shows/middle-east-matters/20260402-israel-s-lebanon-endgame -dismantle-hezbollah-entirely-as-a-political-and-social-movement\n\n## **Title: Israel's Lebanon endgame: 'Dismantle Hezbollah entirely as a political and social movement'**\n\n## **Article:**\n\nFrom the show Nadia Massih is pleased to welcome Yezid Sayigh, a senior fellow at the Malcolm H. Kerr Carnegie Middle East Center in Beirut. He sees Israel’s military actions in southern Lebanon within a broader political and strategic framework that extends beyond immediate battlefield objectives. Sayigh argues that while military operations are visible and urgent, they are deeply intertwined with domestic political imperatives in Israel, regional power calculations, and the structural fragility of the Lebanese state.\n\n----------------------------------------------------------------------------------------------------\n\n## **Link:**\n\nhttps://www.france24.com/en/us-and-israel-again-bombing-what-were-clearly-non-military-sites-in-iran"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_10",
+    "chunk_index": 10,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "cities": [
+        "Tehran"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Geopolitical Conflict Analysis",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "us-israel-conflict",
+          "description": "The article discusses the ongoing conflict between the US and Israel."
+        },
+        {
+          "tag": "iran-bombing",
+          "description": "It reports on alleged US and Israeli bombing of non-military sites in Iran."
+        },
+        {
+          "tag": "middle-east-instability",
+          "description": "The text analyzes the potential for long-term instability in the Middle East."
+        },
+        {
+          "tag": "trump-us-policy",
+          "description": "It mentions Donald Trump's comments regarding the conflict."
+        },
+        {
+          "tag": "geopolitical-analysis",
+          "description": "The chunk provides an analysis of US global power and regional conflicts."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "US president",
+          "resolved": true
+        },
+        {
+          "name": "Reza Sayah",
+          "role": "Reporter",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "France 24",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "US and Israel bombing Iran",
+          "type": "other",
+          "date": null,
+          "description": "Alleged bombing of non-military sites in Iran by US and Israeli forces.",
+          "partial": false
+        },
+        {
+          "name": "Iran war tests US strength and resolve",
+          "type": "other",
+          "date": null,
+          "description": "Analysis of how the war impacts US global standing.",
+          "partial": false
+        },
+        {
+          "name": "Israel's death penalty law",
+          "type": "other",
+          "date": null,
+          "description": "Discussion of Israel's death penalty law as retaliatory and electorally motivated.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The article reports on alleged US and Israeli bombing of non-military sites in Iran and analyzes the broader geopolitical implications for the US and the Middle East. It also discusses Israel's death penalty law.",
+      "key_terms": [
+        "US",
+        "Israel",
+        "Iran",
+        "bombing",
+        "Middle East",
+        "geopolitics",
+        "Donald Trump",
+        "France 24"
+      ],
+      "raw_text": "## **Title: US and Israel 'again bombing what were clearly non-military sites' in Iran**\n\n## **Article:**\n\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site. Reporting from Tehran for FRANCE 24, Reza Sayah says that \"today again US and Israeli forces bombed what were clearly non-military sites in broad daylight and later in the day US president Donald Trump seemed to boast about it\"\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/tv-shows/the-debate/20260402-no-longer-so-mighty-iran-war-testsus-strength-and-resolve\n\n## **Title: No longer so mighty? Iran war tests US strength and resolve**\n\n## **Article:**\n\nHow should Gulf, European and Asian allies react to this ‘I break it, you fix it’ attitude to warfare? Is it in fact too late to walk away? And even if Washington washes its hands of the war it started with Israel, how to avoid a fresh ten-year cycle of instability in the Middle East? For the United States, is this a passing blemish? Will midterm elections save those rooting for a return to the world order as it was? History shows that despite setbacks, like the failed 1980 bid to rescue US hostages in Iran, the\n\ninsurgencies that left the United States bogged down in Iraq and Afghanistan, the US ultimately emerged undiminished as the world’s undisputed top superpower. But Trump's now picked a fight an enemy that's both a state and seems able to employ insurgency tactics. Is this a turning point, the one after which the mighty United States of America no longer seems so mighty? Produced by François Picard, Aline Bottin, Juliette Laffont, Ilayda Habip, Charles Wente.\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/middle-east/20260402-an-eye-for-an-eye-israel-death-penalty-law-i s-retaliatory-and-electorally-motivated\n\n## **Title: 'An eye for an eye': Israel’s death penalty law is retaliatory and electorally motivated**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_11",
+    "chunk_index": 11,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Palestinian territories",
+        "occupied West Bank",
+        "Judea and Samaria",
+        "Gaza Strip"
+      ],
+      "cities": [
+        "Hebron",
+        "Ramallah",
+        "Nablus"
+      ]
+    },
+    "classification": {
+      "category": "Politics",
+      "sub_category": "Legislation and Human Rights",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "israel-death-penalty-law",
+          "description": "The chunk details the passage of a law applying the death penalty to convicted 'terrorists' in Israel."
+        },
+        {
+          "tag": "knesset-legislation",
+          "description": "The law was passed by a 62–48 vote in the Israeli Knesset."
+        },
+        {
+          "tag": "palestinian-rights",
+          "description": "The law is criticized for de facto targeting Palestinians in the occupied West Bank."
+        },
+        {
+          "tag": "itamar-ben-gvir",
+          "description": "Itamar Ben-Gvir, Israel’s far-right Minister of National Security, celebrated the passage of the law."
+        },
+        {
+          "tag": "capital-punishment",
+          "description": "The legislation enshrines capital punishment for certain acts of terrorism."
+        },
+        {
+          "tag": "west-bank-protests",
+          "description": "Palestinians condemned the law, leading to protests and shuttered shops in major West Bank cities."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Itamar Ben-Gvir",
+          "role": "Minister of National Security",
+          "resolved": true
+        },
+        {
+          "name": "Limor Son Har Melech",
+          "role": "Member of Otzma Yehudit",
+          "resolved": true
+        },
+        {
+          "name": "Nissim Vaturi",
+          "role": "Knesset deputy speaker",
+          "resolved": true
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "role": "Leader of Likud party",
+          "resolved": true
+        },
+        {
+          "name": "Adolf Eichmann",
+          "role": "Nazi war criminal",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Knesset",
+          "type": "government"
+        },
+        {
+          "name": "Otzma Yehudit",
+          "type": "political party"
+        },
+        {
+          "name": "Likud",
+          "type": "political party"
+        },
+        {
+          "name": "Israeli military court",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Death Penalty for Terrorists Bill Passage",
+          "type": "policy-change",
+          "date": "March 31",
+          "description": "The Knesset passed a law to apply the death penalty to convicted 'terrorists'.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Israel passed a law applying the death penalty to convicted 'terrorists,' which was celebrated by far-right Minister Itamar Ben-Gvir. The law mandates capital punishment for Palestinians in the occupied West Bank and sparked widespread condemnation and protests.",
+      "key_terms": [
+        "death penalty",
+        "Israel",
+        "Knesset",
+        "terrorists",
+        "occupied West Bank",
+        "Itamar Ben-Gvir",
+        "capital punishment"
+      ],
+      "raw_text": "\"This is historic! With God's help, soon we will execute them one by one!\" These were the words spoken by Israel’s far-right Minister of National Security Itamar Ben-Gvir on Monday, March 31, just after a 62–48 vote in the Israeli Knesset that passed a law to apply the death penalty to convicted ‘terrorists’. Ben-Gvir celebrated the Death Penalty for Terrorists Bill by popping open bottles of champagne and embracing fellow supporters at the Knesset. In the run-up to the vote, he had worn a lapel pin in the shape of a noose, symbolising his support for the legislation. Limor Son Har Melech, a member of Itamar Ben-Gvir's nationalist party, Otzma Yehudit (Jewish Power), was in tears as she read out the results. Melech had introduced the law along with Nissim Vaturi, Knesset deputy speaker and member of Benjamin Netanyahu's Likud party. The law effectively enshrines capital punishment for Palestinians who \"intentionally cause the death of a person with the aim of denying the existence of the State of Israel”. It has sparked fierce criticism in Israel, the Palestinian territories and abroad for its retaliatory nature, de facto targeting of Palestinians and electorally motivated reasoning. Death by default The law says that Palestinians in the occupied West Bank – referred to as Judea and Samaria in the text – would face the death penalty by default if the homicide is classified as an act of terrorism by the Israeli military court, barring specific appeals. The Knesset stated in Hebrew that the bill mandates that a “resident of the area, except for an Israeli citizen or Israel resident, who intentionally caused the death of a person in an act of terrorism, shall be imposed with the death penalty, unless the military court finds that special circumstances exist under which it is appropriate to impose a sentence of life imprisonment”. It remains unclear what the “special circumstances” are. “Resident of the region”, in this case, refers to anyone registered in the region's population register or who resides in the region, according to the law. It excludes Israeli citizens or residents, which in this case means settlers. Read moreBedouins in Israel’s Negev desert face bomb shelter shortage The law is not retroactive and will only apply to Palestinians arrested after it comes into effect. Death sentence \"by hanging\" would be carried out within 90 days of the final conviction, with a possible postponement of up to 180 days. The Gaza Strip is not mentioned in the text, but a separate bill, which is currently being debated in the Knesset, is intended to establish a special court for the prosecution of those who participated in the October 7 massacre. The bill is set to be presented in parliament in the first week of the Knesset summer session, which begins on March 10. Although the death penalty has been technically legal in limited forms since Israel's founding, the country has only carried out two state-authorised executions. The first took place in 1948, against an army captain wrongly accused of high treason. The second was against Nazi war criminal Adolf Eichmann, who was hanged for genocide and crimes against humanity in 1962. Condemned at home and abroad Palestinians were horrified by the law, and shuttered shops and public institutions across the main cities of Hebron, Ramallah, and Nablus in the West Bank on Wednesday. Dozens of citizens – including activists, political factions and civil society groups – also"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_12",
+    "chunk_index": 12,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Israel",
+        "Spain",
+        "United States"
+      ],
+      "regions": [
+        "West Bank"
+      ],
+      "cities": [
+        "Ramallah"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "International Law and Human Rights",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "death-penalty-law",
+          "description": "The chunk discusses the recent passage of a death penalty law for terrorists in Israel."
+        },
+        {
+          "tag": "west-bank-occupation",
+          "description": "The text repeatedly references the legal status of the West Bank as an occupied territory."
+        },
+        {
+          "tag": "international-condemnation",
+          "description": "Several European countries and international bodies condemned the law as discriminatory or a regression."
+        },
+        {
+          "tag": "human-rights-violation",
+          "description": "Multiple organizations denounced the law for stripping away fair-trial safeguards."
+        },
+        {
+          "tag": "political-conflict",
+          "description": "The law is framed within the context of political maneuvering and upcoming elections."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Raman",
+          "role": "psychologist",
+          "resolved": false
+        },
+        {
+          "name": "Mahmoud Abbas",
+          "role": "Palestinian Authority president",
+          "resolved": true
+        },
+        {
+          "name": "Itamar Ben Gvir",
+          "role": "Minister of National Security",
+          "resolved": true
+        },
+        {
+          "name": "Elhanan Miller",
+          "role": "Israeli rabbi and researcher",
+          "resolved": true
+        },
+        {
+          "name": "Akram Hassoun",
+          "role": "Arab member of the Israeli parliament",
+          "resolved": true
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "role": "Prime Minister (implied)",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Association for Civil Rights in Israel",
+          "type": "ngo"
+        },
+        {
+          "name": "Council of Europe",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "United Nations High Commissioner for Human Rights",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "Amnesty International",
+          "type": "ngo"
+        }
+      ],
+      "events": [
+        {
+          "name": "Death Penalty for Terrorists Bill",
+          "type": "policy-change",
+          "date": null,
+          "description": "The passage of a law imposing the death penalty for terrorists in Israel.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The passage of the Death Penalty for Terrorists Bill in Israel was met with widespread condemnation from human rights groups, international bodies, and neighboring countries. Critics, including Elhanan Miller and Amnesty International, denounced the law as discriminatory and unconstitutional, while political figures like Akram Hassoun defended it as a deterrent.",
+      "key_terms": [
+        "Death Penalty for Terrorists Bill",
+        "West Bank",
+        "Apartheid",
+        "Human Rights",
+        "International Law",
+        "Itamar Ben Gvir"
+      ],
+      "raw_text": "gathered to protest the law on the streets. Ramallah-based psychologist Raman, 53, told news agency AFP that \"there isn't a single person standing here who doesn't have a brother, a husband, a son, or even a neighbour in prison. There is no Palestinian family without a prisoner\". Palestinian Authority president Mahmoud Abbas of the Fatah party called for general strikes, while Hamas said the passing of the law \"reflected the bloody nature of the occupation and its policy based on killing and terrorism\". Minutes after the adoption of the Death Penalty for Terrorists Bill into law, Israeli human rights organisation Association for Civil Rights in Israel said they had filed an emergency appeal with the Supreme Court. In a damning post on their website, they described the law as “depressing and infuriating”, condemning the “disgraceful jubilation surrounding such a repugnant law by the racist and extremist Minister of National Security Itamar Ben Gvir and other members of the government”. They had earlier described the law as discriminatory, racist, and unconstitutional. The Knesset \"is not authorised to legislate directly for the West Bank, since the military commander is the legal sovereign in the occupied territory”, they pointed out. Israeli rabbi and researcher Elhanan Miller shares that view. In an interview with FRANCE 24’s Arabic channel, he said he expected the law to be overturned by Israel’s Supreme Court – “It is illegal to apply Israeli law in the West Bank to Palestinians as it is an occupied territory under military control,\" he explained. Several European countries have expressed their concern as well. Spain said the law was \"a further step towards apartheid\", and the EU urged Israel to “abide by its previous position”, saying that the approval of the Death Penalty Bill “marks a grave regression”, noting its “de facto discriminatory character”. The Council of Europe has threatened to revoke Israel's observer status, while the United Nations High Commissioner for Human Rights believes that the application of this law would be considered a war crime. Human rights organisation Amnesty International denounced the law as \"carte blanche to execute Palestinians while stripping away the most basic fair-trial safeguards\", and pointed out that Israeli military courts had a \"conviction rate of over 99% for Palestinian defendants.\" A politically motivated law “This judiciary is a stain on Israel, with its discrimination between Palestinians and Israelis in the West Bank,” said Miller. “It is an unjust law for developed and advanced Western countries, introduced by the extremist minister Itamar Ben-Gvir in an attempt to score points before the elections.” The next parliamentary elections must be held before October 27, 2026. “Netanyahu is afraid of the coming elections and wants to curry favour with the Israeli ideological right, at the expense of Israel’s image in the world and in the West in particular [where this law is criticized],” Miller added. Ben-Gvir doesn't deny the political context, gloating on X about fulfilling his election promise, saying in Hebrew, \" We promised. We delivered.\" Akram Hassoun, an Arab member of the Israeli parliament and member of Benjamin Netanyahu's governing coalition, voted in favour of the bill and acknowledged the political motivations. Read moreIsrael's new death penalty law is more of 'an annexation law' \"This law was proposed by the coalition to which I belong,\" he explained on FRANCE 24's Arabic channel. \"If you want this coalition to support you on an issue that concerns Israeli Arabs, you have to support what concerns them.\" Lamenting what he considers \"a misinterpretation of the text by the media in an electoral context\", Hassoun said that, fundamentally, the law targets \"terrorists who want to kill innocent people\" and \"is intended as a deterrent for any citizen who does not believe in the sanctity of life, so that no one is killed, neither Arab nor Jew\"."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_13",
+    "chunk_index": 13,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "France 24 News",
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "Israel",
+        "Palestine"
+      ],
+      "regions": [
+        "occupied West Bank"
+      ],
+      "cities": []
+    },
+    "classification": {
+      "category": "Conflicts",
+      "sub_category": "Violence/Law",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "international-law",
+          "description": "The discussion revolves around the application of law regarding taking life."
+        },
+        {
+          "tag": "conflict-violence",
+          "description": "The text addresses violence and killing in the context of the occupied West Bank."
+        },
+        {
+          "tag": "religious-conflict",
+          "description": "The statement mentions various faiths (Jewish, Arab, Muslim, Christian, Druze)."
+        },
+        {
+          "tag": "human-rights",
+          "description": "The discussion touches upon the sanctity of life and execution."
+        },
+        {
+          "tag": "political-statement",
+          "description": "The chunk reports on a public statement made by an unnamed individual."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "null",
+          "role": null,
+          "resolved": false
+        }
+      ],
+      "organizations": [],
+      "events": [
+        {
+          "name": "null",
+          "type": "other",
+          "date": null,
+          "description": "Discussion of applying a law to those who take life.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The speaker stated that anyone who takes another person's life must be executed, regardless of their faith. However, when asked about applying this law to an Israeli settler who killed a Palestinian in the occupied West Bank, the speaker stated that the law explicitly excludes this scenario.",
+      "key_terms": [
+        "execution",
+        "sanctity of life",
+        "occupied West Bank",
+        "Palestinian",
+        "Israeli settler",
+        "law"
+      ],
+      "raw_text": "He added: \"Anyone who takes another person's life without any reason must be executed. They can be Jewish, Arab, Muslim, Christian, Druze, or of any other faith.\" When asked if he supported applying the law to an Israeli settler who killed a Palestinian in the occupied West Bank, he said: \"I don't think about that kind of case, but anyone who takes the life of a Palestinian in a terrorist attack will have this law applied to them.\" The law, however, explicitly excludes this scenario."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_14",
+    "chunk_index": 14,
+    "total_chunks": 18,
+    "metadata": {
+      "title": "Trump fires loyalist Pam Bondi as US attorney general",
+      "url": "https://www.france24.com/en/americas/20260402-trump-fires-loyalist-pam-bondi-as-us-attorneygeneral",
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Political Appointment/Dismissal",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "trump-firing-pam-bondi",
+          "description": "The article reports on Donald Trump firing Pam Bondi from her role as US attorney general."
+        },
+        {
+          "tag": "us-attorney-general",
+          "description": "The focus is on the change in the US Attorney General position."
+        },
+        {
+          "tag": "political-appointment",
+          "description": "The content details a high-profile political personnel change."
+        },
+        {
+          "tag": "donald-trump",
+          "description": "Donald Trump is the central figure initiating the personnel change."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Pam Bondi",
+          "role": "US attorney general",
+          "resolved": true
+        },
+        {
+          "name": "Todd Blanche",
+          "role": "former personal lawyer",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United States",
+          "type": "other"
+        }
+      ],
+      "events": [
+        {
+          "name": "Trump fires loyalist Pam Bondi as US attorney general",
+          "type": "policy-change",
+          "date": null,
+          "description": "Donald Trump fired Pam Bondi from her role as US attorney general and designated Todd Blanche as her replacement.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "This chunk serves as a headline and introduction for an article detailing Donald Trump's decision to fire Pam Bondi from her position as US attorney general and appoint Todd Blanche as her replacement.",
+      "key_terms": [
+        "Donald Trump",
+        "Pam Bondi",
+        "US attorney general",
+        "Todd Blanche",
+        "firing",
+        "appointment"
+      ],
+      "raw_text": "----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/americas/20260402-trump-fires-loyalist-pam-bondi-as-us-attorneygeneral\n\n## **Title: Trump fires loyalist Pam Bondi as US attorney general**\n\n## **Article:**"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_15",
+    "chunk_index": 15,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": []
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Political Appointments",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "trump-administration",
+          "description": "The chunk details the political upheaval and appointments within the Justice Department under Donald Trump."
+        },
+        {
+          "tag": "justice-department-upheaval",
+          "description": "The text describes the period of intense turmoil and frequent changes in leadership at the Justice Department."
+        },
+        {
+          "tag": "pam-bondi-firing",
+          "description": "The core event is the firing of Pam Bondi by Donald Trump and her replacement by Todd Blanche."
+        },
+        {
+          "tag": "political-polarization",
+          "description": "The article highlights the deep political divisions and accusations of weaponization within the legal system."
+        },
+        {
+          "tag": "epstein-investigation",
+          "description": "The Epstein files and related investigations are a major point of scrutiny mentioned in the text."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "US President",
+          "resolved": true
+        },
+        {
+          "name": "Pam Bondi",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Todd Blanche",
+          "role": "Former personal lawyer/Acting Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Jerome Powell",
+          "role": "Federal Reserve Chair",
+          "resolved": true
+        },
+        {
+          "name": "Joe Biden",
+          "role": "President",
+          "resolved": true
+        },
+        {
+          "name": "Merrick Garland",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Jack Smith",
+          "role": "Special Counsel",
+          "resolved": true
+        },
+        {
+          "name": "Jamie Raskin",
+          "role": "Top Democrat on the House Judiciary committee",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Justice Department",
+          "type": "government"
+        },
+        {
+          "name": "White House",
+          "type": "government"
+        },
+        {
+          "name": "House Judiciary committee",
+          "type": "government"
+        },
+        {
+          "name": "House Oversight Committee",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Firing of Pam Bondi",
+          "type": "policy-change",
+          "date": "Thursday",
+          "description": "Donald Trump fired Pam Bondi and appointed Todd Blanche as her replacement at the Justice Department.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Donald Trump fired his attorney general, Pam Bondi, and appointed Todd Blanche as her replacement. The article details the subsequent political turmoil at the Justice Department, citing scrutiny over the Epstein files and Bondi's efforts to advance the president's political agenda.",
+      "key_terms": [
+        "Donald Trump",
+        "Pam Bondi",
+        "Todd Blanche",
+        "Justice Department",
+        "Epstein files",
+        "Attorney General",
+        "political agenda"
+      ],
+      "raw_text": "US President Donald Trump on Thursday fired his attorney general, Pam Bondi, and designated his former personal lawyer Todd Blanche as her replacement at the head of the Justice Department. Bondi \"will be transitioning to a much needed and important new job in the private sector\", Trump announced on his Truth Social platform. \"Our Deputy Attorney General, and a very talented and respected Legal Mind, Todd Blanche, will step in to serve as Acting Attorney General.\" Trump had grown “more and more frustrated” with Bondi in recent days, a source familiar with the White House discussions said on Thursday. The announcement follows months of scrutiny over the Justice Department’s handling of files related to Jeffrey Epstein’s sex trafficking investigation that made Bondi the target of angry conservatives even with her close relationship with Trump. She also struggled to satisfy Trump’s demands to prosecute his political rivals, with multiple investigations rejected by judges or grand juries. Read moreUS lawmakers probe Epstein’s wealth as ex-accountant testifies on finances and ties The former Florida attorney general came into office last year pledging that she would not play politics with the Justice Department, but she quickly started investigations of Trump foes, sparking an outcry that the law enforcement agency was being wielded as a tool of revenge to advance the president’s political and personal agenda. Justice department upheaval Bondi ushered in a period of intense turmoil at the department that included the firings of career prosecutors deemed insufficiently loyal to Trump and the resignations of hundreds of other employees. Her departure continues a trend of Justice Department upheaval that has defined Trump’s presidency as multiple attorneys general across his two terms have either been pushed out or resigned after proving unwilling or unable to meet his demands for the position. Bondi rejected accusations that she politicized the Justice Department and said her mission was to restore the institution’s credibility after overreach by President Joe Biden’s Democratic administration with two federal criminal cases against Trump. Bondi’s defenders have said she worked to refocus the department to better tackle illegal immigration and violent crime and brought much-needed change to an agency they believe unfairly targeted conservatives. Bondi’s public embrace of the president, however, marked a sharp departure from her predecessors, who generally took pains to maintain an arm’s-length distance from the White House to protect the impartiality of investigations and prosecutions. Bondi postured herself as Trump’s chief supporter and protector, praising and defending him in congressional hearings and placing a banner with his face on the exterior of Justice Department headquarters. Read moreUS Attorney General Bondi deflects questions, clashes with democrats over Epstein files She called for an end to the “weaponization” of law enforcement she said occurred under the Biden administration, even though Biden’s attorney general, Merrick Garland, and Jack Smith, the special counsel who produced two cases against Trump, have said they followed the facts, the evidence and the law in their decision-making. 'Instrument of revenge' Bondi’s critics, meanwhile, said she was the one who had politicized the agency to do the president’s bidding. \"You’ve turned the People’s Department of Justice into Trump’s instrument of revenge,” Rep. Jamie Raskin of Maryland, the top Democrat on the House Judiciary committee, said at a February hearing. Bondi delivered a combative performance but few substantive answers at that hearing as she angrily insulted her Democratic questioners with name-calling, praised Trump over the performance of the stock market – “The Dow is up over 50,000 right now” – and openly aligned herself as in sync with a president whom she painted as a victim of past impeachments and investigations. Even Republicans began to challenge her, with the Republican-led House Oversight Committee last month issuing a subpoena to her to appear for a closed-door interview about the Epstein files."
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_16",
+    "chunk_index": 16,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "cities": [
+        "New York"
+      ]
+    },
+    "classification": {
+      "category": "Politics",
+      "sub_category": "Legal/Political Investigations",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "trump-investigations",
+          "description": "The chunk discusses investigations opened into various figures considered foes of Trump."
+        },
+        {
+          "tag": "legal-prosecutions",
+          "description": "It mentions high-profile prosecutions of figures like Comey and James."
+        },
+        {
+          "tag": "federal-reserve-chair",
+          "description": "Jerome Powell, the Federal Reserve Chair, is listed among those investigated."
+        },
+        {
+          "tag": "attorney-general",
+          "description": "Letitia James, the New York Attorney General, is mentioned in the context of investigations."
+        },
+        {
+          "tag": "political-figures",
+          "description": "The text names several high-profile political figures who were investigated."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jerome Powell",
+          "role": "Federal Reserve Chair",
+          "resolved": true
+        },
+        {
+          "name": "Letitia James",
+          "role": "New York Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "James Comey",
+          "role": "former FBI director",
+          "resolved": true
+        },
+        {
+          "name": "John Brennan",
+          "role": "former CIA director",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Federal Reserve",
+          "type": "intergovernmental"
+        },
+        {
+          "name": "New York Attorney General's Office",
+          "type": "government"
+        },
+        {
+          "name": "FBI",
+          "type": "government"
+        },
+        {
+          "name": "CIA",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Investigations into Trump foes",
+          "type": "other",
+          "date": null,
+          "description": "The department opened investigations into several figures considered foes of Trump.",
+          "partial": false
+        },
+        {
+          "name": "Prosecutions of Comey and James",
+          "type": "other",
+          "date": null,
+          "description": "High-profile prosecutions of Comey and James were quickly thrown out by a judge.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "Under Bondi’s leadership, investigations were opened into several figures considered foes of Trump, including Jerome Powell, Letitia James, James Comey, and John Brennan. However, the high-profile prosecutions of Comey and James were quickly dismissed by a judge.",
+      "key_terms": [
+        "Bondi",
+        "Jerome Powell",
+        "Letitia James",
+        "James Comey",
+        "John Brennan",
+        "prosecutions",
+        "Federal Reserve"
+      ],
+      "raw_text": "Under Bondi’s leadership, the department opened investigations into a string of Trump foes, including Federal Reserve Chair Jerome Powell, New York Attorney General Letitia James, former FBI director James Comey and former CIA director John Brennan. The high-profile prosecutions of Comey and James were short-lived as they were quickly thrown out by a judge who ruled that the prosecutor who brought the cases was illegally"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": false
+    }
+  },
+  {
+    "doc_id": "france-24-news-f0130cca",
+    "chunk_id": "france-24-news-f0130cca__chunk_17",
+    "chunk_index": 17,
+    "total_chunks": 18,
+    "metadata": {
+      "title": null,
+      "url": null,
+      "source": "France 24",
+      "published_date": null
+    },
+    "geography": {
+      "countries": [
+        "United States",
+        "Lebanon",
+        "France"
+      ],
+      "regions": [],
+      "cities": [
+        "New York",
+        "Venice"
+      ]
+    },
+    "classification": {
+      "category": "Diplomacy",
+      "sub_category": "Political Scandal",
+      "confidence": "high",
+      "tags": [
+        {
+          "tag": "trump-political-scandal",
+          "description": "The chunk discusses political controversies involving Donald Trump and his associates."
+        },
+        {
+          "tag": "epstein-files-scandal",
+          "description": "The text details the difficulties and criticism surrounding the release of the Epstein files."
+        },
+        {
+          "tag": "justice-department-investigation",
+          "description": "The chunk covers the actions and struggles of the Justice Department in prosecuting various cases."
+        },
+        {
+          "tag": "us-congress-politics",
+          "description": "The article mentions Congressional actions, such as passing a bill and subpoenaing officials."
+        },
+        {
+          "tag": "art-biennale",
+          "description": "The second part of the chunk introduces an article about a contemporary art biennale in Venice."
+        }
+      ]
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Donald Trump",
+          "role": "Former President",
+          "resolved": true
+        },
+        {
+          "name": "James Comey",
+          "role": "Former FBI Director",
+          "resolved": true
+        },
+        {
+          "name": "FBI director James Comey",
+          "role": null,
+          "resolved": true
+        },
+        {
+          "name": "Bondi",
+          "role": "Attorney General",
+          "resolved": true
+        },
+        {
+          "name": "Susie Wiles",
+          "role": "White House chief of staff",
+          "resolved": true
+        },
+        {
+          "name": "Matt Gaetz",
+          "role": "Former Representative",
+          "resolved": true
+        },
+        {
+          "name": "Nabil Nahas",
+          "role": "Artist",
+          "resolved": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Justice Department",
+          "type": "government"
+        },
+        {
+          "name": "Fox News Channel",
+          "type": "media"
+        },
+        {
+          "name": "Vanity Fair",
+          "type": "media"
+        },
+        {
+          "name": "House committee",
+          "type": "government"
+        },
+        {
+          "name": "Congress",
+          "type": "government"
+        }
+      ],
+      "events": [
+        {
+          "name": "Jan. 6, 2021",
+          "type": "other",
+          "date": "Jan. 6, 2021",
+          "description": "The day of the violent attacks on police at the US Capitol.",
+          "partial": false
+        },
+        {
+          "name": "2026 Contemporary Art Biennale",
+          "type": "other",
+          "date": "2026",
+          "description": "The art exhibition featuring Nabil Nahas in Venice.",
+          "partial": false
+        }
+      ]
+    },
+    "content": {
+      "chunk_summary": "The chunk covers two distinct topics: first, the political struggles of the Justice Department regarding the Epstein files and the prosecution of rivals; second, it introduces an article about Nabil Nahas's participation in the 2026 Contemporary Art Biennale in Venice.",
+      "key_terms": [
+        "Epstein files",
+        "Justice Department",
+        "Donald Trump",
+        "James Comey",
+        "Art Biennale",
+        "Nabil Nahas",
+        "US Capitol"
+      ],
+      "raw_text": "appointed. Trump repeatedly publicly praised and defended Bondi but also showed flashes of impatience with his attorney general’s efforts to meet his demands to prosecute his rivals. In one extraordinary social media post last year, Trump called on Bondi to move quickly to prosecute his foes, including James and Comey, telling her: “We can’t delay any longer, it’s killing our reputation and credibility.” Read moreUS judge dismisses case against former FBI director James Comey Bondi oversaw the exodus of thousands of career employees – both through firings and voluntary departures – including lawyers who prosecuted violent attacks on police at the US Capitol on Jan. 6, 2021; environmental, civil rights and ethics enforcers; counterterrorism prosecutors; and others. She struggled to overcome early stumbles over the Epstein files that angered conservatives eager for government bombshells about the case, which has long fascinated conspiracy theorists. She herself had fed the conspiracy theory machine with a suggestion in a 2025 Fox News Channel interview that Epstein’s “client list” was sitting on her desk for review. The department later acknowledged that no such document exists. Ridicule over Epstein case Bondi was ridiculed over a move to hand out binders of Epstein files to conservative influencers at the White House only for it to be later revealed that the documents included no new revelations. And despite promises that more files were going to become public, the Justice Department in July said no more would be released, prompting Congress to pass a bill to force the agency to do so. The Epstein files fumbles led to a stunning public criticism from White House chief of staff Susie Wiles, a close friend of Bondi’s, who told Vanity Fair that the attorney general “completely whiffed”. The Justice Department’s release of millions of pages of Epstein files did little to tamp down criticism, prompting a House committee with the support of five Republicans to subpoena Bondi to answer questions under oath. Bondi, who defended Trump during his first impeachment trial, was his second choice to lead the Justice Department, picked for the role after former Rep. Matt Gaetz of Florida withdrew his name from consideration amid scrutiny over sex trafficking allegations. (FRANCE 24 with AP)\n\n----------------------------------------------------------------------------------------------------\n\n**Link:** https://www.france24.com/en/tv-shows/arts24/20260402-2026-contemporary-art-biennale-lebano n-s-art-old-and-new\n\n## **Title: 2026 Contemporary Art Biennale: Lebanon’s art, old and new**\n\n## **Article:**\n\nFrom the show Nabil Nahas has been painting for seven decades. From his childhood in Lebanon to his career in New York, he is now presenting his latest monumental work in Venice as his country’s representative at the 2026 Contemporary Art Biennale. The artist speaks to us about his connection to the ancient civilisations of his homeland, and why he believes politicising international platforms is the wrong approach.\n\n----------------------------------------------------------------------------------------------------"
+    },
+    "cross_references": {
+      "unresolved_references": [],
+      "continues_from_previous": true,
+      "continues_to_next": true
+    }
+  }
+]
