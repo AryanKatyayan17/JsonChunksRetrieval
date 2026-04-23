@@ -5,6 +5,7 @@ import os
 def build_text(chunk):
     content = chunk.get("content", {})
     classification = chunk.get("classification", {})
+    geography = chunk.get("geography", {})
 
     raw_text = content.get("raw_text", "")
     summary = content.get("chunk_summary", "")
@@ -15,10 +16,17 @@ def build_text(chunk):
     tags = classification.get("tags", [])
     tag_list = [tag.get("tag", "") for tag in tags]
 
+    key_terms = content.get("key_terms", [])
+
+    countries = geography.get("countries", [])
+
     text = f"""
     Category: {category}
     Sub-category: {sub_category}
     Tags: {', '.join(tag_list)}
+
+    Key Terms: {', '.join(key_terms)}
+    Countries: {', '.join(countries)}
 
     Summary:
     {summary}
