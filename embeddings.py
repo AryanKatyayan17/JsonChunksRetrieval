@@ -19,9 +19,18 @@ def build_faiss_index(texts):
     embeddings = np.array(embeddings).astype("float32")
 
     # Create FAISS index
+
+    # Get the dimensionality of each embedding vector
+    # embeddings.shape = (num_documents, embedding_size)
+    # We extract embedding_size (e.g., 768)
     dimension = embeddings.shape[1]
+
+    # Create a FAISS index using L2 (Euclidean distance)
+    # IndexFlatL2 = brute-force search (compares query with ALL vectors)
+    # 'dimension' tells FAISS the size of each vector
     index = faiss.IndexFlatL2(dimension)
 
+    # Add all embedding vectors to the FAISS index
     index.add(embeddings)
 
     return index, embeddings

@@ -22,12 +22,13 @@ def load_index():
 
 
 def retrieve(query, top_k=5):
+    # Load FAISS index, stored texts, and metadata
     index, texts, metadatas = load_index()
 
     # Embed query
     query_embedding = model.encode([query]).astype("float32")
 
-    # Search
+    # Search FAISS index for top_k most similar vectors
     distances, indices = index.search(query_embedding, top_k)
 
     results = []
